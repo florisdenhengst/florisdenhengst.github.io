@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>publication on Floris den Hengst&#39;s Homepage</title>
+    <link>https://florisdenhengst.github.io/tags/publication/</link>
+    <description>Recent content in publication on Floris den Hengst&#39;s Homepage</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 21 Oct 2019 10:31:06 +0200</lastBuildDate>
+    
+	<atom:link href="https://florisdenhengst.github.io/tags/publication/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Personalized Dialogue Management</title>
+      <link>https://florisdenhengst.github.io/posts/personalized-dm/</link>
+      <pubDate>Mon, 21 Oct 2019 10:31:06 +0200</pubDate>
+      
+      <guid>https://florisdenhengst.github.io/posts/personalized-dm/</guid>
+      <description>In a previous post I explained how reinforcement learning (RL) can be used to make chatbots better from its experience with users. RL allows chatbots to learn what to say by interacting with users. This allows for chatbots to tailor their behavior to preferences of groups of individuals, e.g. to personalize the interaction. I recently presented our paper on this topic, specifically on personalized dialog management at the Web Intelligence conference in Thessaloniki.</description>
+    </item>
+    
+  </channel>
+</rss>

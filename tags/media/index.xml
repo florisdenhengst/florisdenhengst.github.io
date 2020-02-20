@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>media on Floris den Hengst&#39;s Homepage</title>
+    <link>https://florisdenhengst.github.io/tags/media/</link>
+    <description>Recent content in media on Floris den Hengst&#39;s Homepage</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 18 Dec 2019 14:39:21 +0100</lastBuildDate>
+    
+	<atom:link href="https://florisdenhengst.github.io/tags/media/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Featured in Villamedia Blog</title>
+      <link>https://florisdenhengst.github.io/posts/villamedia-blog/</link>
+      <pubDate>Wed, 18 Dec 2019 14:39:21 +0100</pubDate>
+      
+      <guid>https://florisdenhengst.github.io/posts/villamedia-blog/</guid>
+      <description>Today, my work is &amp;ndash; very briefly &amp;ndash; mentioned in a post by Nick Kivits.
+The post is part of a blog series on innovation in the media and it is hosted on Villamedia, a Dutch website on journalism.</description>
+    </item>
+    
+    <item>
+      <title>Bitter Lesson Response</title>
+      <link>https://florisdenhengst.github.io/posts/bitter-lesson-response/</link>
+      <pubDate>Wed, 20 Mar 2019 23:27:28 +0100</pubDate>
+      
+      <guid>https://florisdenhengst.github.io/posts/bitter-lesson-response/</guid>
+      <description>A couple of days ago, RL founding father Rich Sutton posted a blog post. My reading is as follows:
+ Moore&amp;rsquo;s Law has consistently made general, compute-based methods outperform task-specific, domain knowledge-based methods for tasks in the AI `sphere of interest&amp;rsquo; This has served as a bitter lesson for many (all?) researchers that have focused on developing such domain-specific methods General methods will always prevail, especially those that scale with compute  Although I tend to agree with the overall idea that general methods are the way forward for AI, I feel that some nuance is in order.</description>
+    </item>
+    
+  </channel>
+</rss>

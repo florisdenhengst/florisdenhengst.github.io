@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>How to Create a Music Bingo in Minutes | Floris den Hengst&#39;s Homepage</title>
+    <link rel="stylesheet" href="/css/style.css" />
+    <link rel="stylesheet" href="/css/fonts.css" />
+	<script src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/latest.js?config=TeX-MML-AM_CHTML'
+		    async></script>
+    
+  </head>
+
+  <body>
+    <nav>
+    <ul class="menu">
+      
+      <li><a href="/">Home</a></li>
+      
+      <li><a href="/posts/">Blog</a></li>
+      
+      <li><a href="/about/">About</a></li>
+      
+      <li><a href="/tags/">Tags</a></li>
+      
+    </ul>
+    <hr/>
+    </nav>
+
+<div class="article-meta">
+<h1><span class="title">How to Create a Music Bingo in Minutes</span></h1>
+
+<h2 class="date">2019/09/05</h2>
+</div>
+
+<main>
+<p>I was recently asked to help organise a &lsquo;music bingo&rsquo; for students of horseriding association
+<a href="http://asrblok.com/english/">BLOK</a>. To be completely honest with you, I feel that bingo is
+probably one of the most boring party games out there as the only &lsquo;skills&rsquo; involved are paying attention
+and bookkeeping.</p>
+<p><em>Music</em> bingo, however, puts a nice twist to the original game that makes it more
+fun, exciting and skill-based. Music bingo is like regular bingo with some minor differences that
+make it just so much more fun. The first difference is in the bingo cards: these consist of a grid
+of cells like in regular bingo but each cell contains a song title instead of a number. Instead of drawing random
+numbers from a tumbler, songs are played from a (randomized) playlist. If a song is played, it can be marked on the card and once a player has five marked cells in a row, they shout &lsquo;BINGO!&rsquo; and collect their prize.</p>
+<p>In this blog post I will describe how to organise a music bingo.  Some coding is required for now,
+but I might come back to this fun topic and create some tooling for non-tech-savvy music bingo
+enthusiasts. I might also delve a bit deeper into some mathematical properties of bingo (i.e.
+combinatorics and probabilities of getting a bingo etc).</p>
+<p>My preparations for a music bingo consist of the following ingredients:</p>
+<ul>
+<li>A great playlist in Spotify</li>
+<li>Printable bingo cards</li>
+<li>A list to keep track of songs played so far</li>
+</ul>
+<p>I will describe how I got to these ingredients and then add some additional suggestions to make
+your music bingo extra special.</p>
+<h1 id="creating-the-playlist">Creating the playlist</h1>
+<p>A fun evening of music bingo starts and ends with a great playlist. You can create a good music
+bingo playlist by picking songs that most of your audience will know. You have to understand that
+it&rsquo;s quite frustrating to get &lsquo;stuck&rsquo; on a song you feel is impossible to guess. In the end, the
+game of bingo is mostly about the element of luck, even if you are playing music bingo. As some of your audience members will surely not know some of the songs, it helps to select songs in which the title is clearly embedded in the lyrics.</p>
+<p>Besides choosing relatively &lsquo;easy&rsquo; songs, you could consider a particular theme for your music
+bingo event. What constitutes a suitable theme depends strongly on your audience. Since recognizing the
+songs is the biggest fun factor in music bingo, I would suggest taking well-known songs of some
+bygone era. In my case, I was asked to create a music bingo night with a &rsquo;90s theme. Perfect! If you are curious, you can find the list
+<a href="https://open.spotify.com/user/florisdenhengst/playlist/1RLqO7gwwsCBIvOT7hb8db?si=cwPzlyYtT--R7zfUKHLM8w">here</a>.</p>
+<p>Some additional hints regarding the playlist:</p>
+<ul>
+<li>Think about the length of the playlist up-front. The length of your playlist depends on two
+factors: total event time and playtime per song. I found that about 30 seconds playtime per song
+is suitable. This means that you&rsquo;ll have about 1 hour net playtime if you have 120 songs in your
+playlist. This is excluding time to verify bingos, introduce the game and prizes and breaks.</li>
+<li>make sure you deduplicate your playlist. There are online tools to do this for you, <a href="https://jmperezperez.com/spotify-dedup/">Spotify
+Deduplicator</a> for example.</li>
+<li>you can decide to curate the order of the playlist yourself or randomize it. If you randomize
+it, I suggest storing the randomized playlist rather than playing the original playlist using
+Spotify&rsquo;s shuffle option. Having a preset order makes for easy verification of bingos during the
+event. You can randomize your spotify playlist using a tool such as <a href="https://stevenaleong.com/tools/spotifyplaylistrandomizer">Spotify Playlist
+Randomizer</a>.</li>
+</ul>
+<p>Finally, create an export of your playlist so that you can easily generate bingo cards. Again,
+many tools are available. I used <a href="https://github.com/watsonbox/exportify">Exportify</a> to download
+the randomized playlist.</p>
+<h1 id="printable-bingo-cards">Printable bingo cards</h1>
+<p>After having created, randomized and exported the playlist, it&rsquo;s time to generate some cards.
+I created a small python script to generate bingo cards in HTML. You can find the code on <a href="https://github.com/florisdenhengst/music-bingo">Github</a>. It&rsquo;s not great but it works.</p>
+<p>In case you use my code, make sure to input the file using the following structure (tabs for
+illustration purpose only):</p>
+<pre><code>playlist_order,     track_id,       track_name,     .....
+             1,           32,    &quot;Never Alone&quot;,     .....
+             2,          104,     &quot;What's Up?&quot;,     .....
+</code></pre><p>The <code>track_id</code> column contains random numbers. This helps in verifying bingos during the event.</p>
+<p>I added print-specific CSS styling to ensure that a single bingo card does not end up on two pages
+in print. You can see how the bingo cards turn out
+<a href="http://htmlpreview.github.io/?https://raw.githubusercontent.com/florisdenhengst/music-bingo/master/cards.html">here</a>.</p>
+<h1 id="list-all-songs">List all songs</h1>
+<p>During the event, many people will have a bingo at once. As you might not want to rely on your own
+memory for verifying which songs have been played already, it helps to have a list available to
+check off songs that have been played. You can simply create the export you have created before. I
+added an extra column to keep track of songs played so far</p>
+<pre><code>playlist_order,     track_id,       track_name,     played?,    .....
+             1,           32,    &quot;Never Alone&quot;,           x,    .....
+             2,          104,     &quot;What's Up?&quot;,            ,    .....
+</code></pre><p>Use this list in Excel or OpenOffice and you&rsquo;ll verify a bingo in no time. Use the auto-filter to quickly check whether the crossed of songs have actually been played.</p>
+<p>That&rsquo;s it! You&rsquo;re all set to have a great bingo night.</p>
+<h1 id="get-creative">Get creative</h1>
+<p>You can get creative as well. Here are some ideas:</p>
+<ul>
+<li>Put the artist rather than song title on the card.</li>
+<li>If a song became well-known due to a movie, put the movie title on the card</li>
+<li>Put part of the lyrics on the card</li>
+<li>Mix it up and make cards with song titles, artist, album name, lyrics, movie titles etc.</li>
+</ul>
+<h1 id="things-to-consider">Things to consider</h1>
+<p>The success of the bingo night depends on a good preparation.
+Here are some things to consider:</p>
+<ul>
+<li>How long are you gonna play the songs? I found that this depends per song: some are easily
+recognized while others are harder to guess or plain nice to sing along to. Overall, we played
+songs for about 30 seconds before skipping to the next song.</li>
+<li>Make sure you take enough time. As you need to play all songs for a while, you might not be able
+to play as many games as you would be used to per hour.</li>
+<li>Some songs start very slowly. Skipping ahead helps here.</li>
+<li>Make sure to introduce the rules upfront. Especially, think about whether the use of a
+smartphone is allowed. Players can easily cheat by using song recognition apps such as
+SoundHound.</li>
+<li>Allow the audience to verify a bingo together, by announcing the songs that contributed to the
+reported bingo. Do so for both proper and faulty bingos.</li>
+</ul>
+<p>Finally and most importantly: don&rsquo;t forget to have fun :)</p>
+
+</main>
+
+  <footer>
+  <hr/>
+  
+  
+  <a href="/index.xml"><img src='https://simpleicons.org/icons/rss.svg'></a>
+  
+  <a href="https://github.com/florisdenhengst/"><img src='https://simpleicons.org/icons/github.svg'></a>
+  
+  <a href="https://www.linkedin.com/in/floris-den-hengst-06ab7534/"><img src='https://simpleicons.org/icons/linkedin.svg'></a>
+  
+  <a href="https://scholar.google.nl/citations?user=8I8iSHkAAAAJ"><img src='/imgs/gscholar.png'></a>
+  
+  | Created with <a href="https://gohugo.io">Hugo</a> and <a href="https://florisdenhengst.github.io/metis-example/">Metis</a> theme | © <a href="https://florisdenhengst.github.io">Floris den Hengst</a> 2018 &ndash; 2019
+  
+  </footer>
+  </body>
+</html>
+
