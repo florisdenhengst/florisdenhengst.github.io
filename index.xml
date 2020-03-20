@@ -12,6 +12,16 @@
     
     
     <item>
+      <title>Collecting High Quality Ratings for Dialogue Systems</title>
+      <link>https://florisdenhengst.github.io/posts/high-quality-ratings/</link>
+      <pubDate>Fri, 20 Mar 2020 11:35:13 +0100</pubDate>
+      
+      <guid>https://florisdenhengst.github.io/posts/high-quality-ratings/</guid>
+      <description>Mickey, a master student I was co-supervising, recently published a paper based on his thesis work in ACM&amp;rsquo;s Conference for Human Information Interaction and Retrieval. His work focused on interfaces for collecting high-quality user satisfaction ratings for dialogue systems.
+User satisfaction is an important indicator in the design, evaluation and adaptation of these interfaces. Establishing user satisfaction ratings for conversation-based systems, however, remains challenging. User questionnaires may yield biased results and typically have low response rates (~1%).</description>
+    </item>
+    
+    <item>
       <title>Featured in Villamedia Blog</title>
       <link>https://florisdenhengst.github.io/posts/villamedia-blog/</link>
       <pubDate>Wed, 18 Dec 2019 14:39:21 +0100</pubDate>

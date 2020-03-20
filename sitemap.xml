@@ -3,6 +3,31 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://florisdenhengst.github.io/posts/high-quality-ratings/</loc>
+    <lastmod>2020-03-20T11:35:13+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://florisdenhengst.github.io/tags/dialog-systems/</loc>
+    <lastmod>2020-03-20T11:35:13+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://florisdenhengst.github.io/posts/</loc>
+    <lastmod>2020-03-20T11:35:13+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://florisdenhengst.github.io/tags/publication/</loc>
+    <lastmod>2020-03-20T11:35:13+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://florisdenhengst.github.io/tags/</loc>
+    <lastmod>2020-03-20T11:35:13+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://florisdenhengst.github.io/posts/villamedia-blog/</loc>
     <lastmod>2019-12-18T14:39:21+01:00</lastmod>
   </url>
@@ -10,21 +35,6 @@
   <url>
     <loc>https://florisdenhengst.github.io/tags/media/</loc>
     <lastmod>2019-12-18T14:39:21+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://florisdenhengst.github.io/posts/</loc>
-    <lastmod>2019-12-18T14:39:21+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://florisdenhengst.github.io/tags/</loc>
-    <lastmod>2019-12-18T14:39:21+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://florisdenhengst.github.io/tags/dialog-systems/</loc>
-    <lastmod>2019-10-21T10:31:06+02:00</lastmod>
   </url>
   
   <url>
@@ -39,11 +49,6 @@
   
   <url>
     <loc>https://florisdenhengst.github.io/tags/pomdp/</loc>
-    <lastmod>2019-10-21T10:31:06+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://florisdenhengst.github.io/tags/publication/</loc>
     <lastmod>2019-10-21T10:31:06+02:00</lastmod>
   </url>
   

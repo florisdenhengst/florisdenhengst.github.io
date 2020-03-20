@@ -6,10 +6,28 @@
     <description>Recent content in Tags on Floris den Hengst&#39;s Homepage</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 18 Dec 2019 14:39:21 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 20 Mar 2020 11:35:13 +0100</lastBuildDate>
     
 	<atom:link href="https://florisdenhengst.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>dialog systems</title>
+      <link>https://florisdenhengst.github.io/tags/dialog-systems/</link>
+      <pubDate>Fri, 20 Mar 2020 11:35:13 +0100</pubDate>
+      
+      <guid>https://florisdenhengst.github.io/tags/dialog-systems/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>publication</title>
+      <link>https://florisdenhengst.github.io/tags/publication/</link>
+      <pubDate>Fri, 20 Mar 2020 11:35:13 +0100</pubDate>
+      
+      <guid>https://florisdenhengst.github.io/tags/publication/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>media</title>
@@ -17,15 +35,6 @@
       <pubDate>Wed, 18 Dec 2019 14:39:21 +0100</pubDate>
       
       <guid>https://florisdenhengst.github.io/tags/media/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>dialog systems</title>
-      <link>https://florisdenhengst.github.io/tags/dialog-systems/</link>
-      <pubDate>Mon, 21 Oct 2019 10:31:06 +0200</pubDate>
-      
-      <guid>https://florisdenhengst.github.io/tags/dialog-systems/</guid>
       <description></description>
     </item>
     
@@ -44,15 +53,6 @@
       <pubDate>Mon, 21 Oct 2019 10:31:06 +0200</pubDate>
       
       <guid>https://florisdenhengst.github.io/tags/pomdp/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>publication</title>
-      <link>https://florisdenhengst.github.io/tags/publication/</link>
-      <pubDate>Mon, 21 Oct 2019 10:31:06 +0200</pubDate>
-      
-      <guid>https://florisdenhengst.github.io/tags/publication/</guid>
       <description></description>
     </item>
     
