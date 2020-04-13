@@ -12,6 +12,16 @@
     
     
     <item>
+      <title>Reinforcement Learning for Personalization: A Survey</title>
+      <link>https://florisdenhengst.github.io/posts/rl-for-pers-survey/</link>
+      <pubDate>Thu, 09 Apr 2020 09:22:30 +0100</pubDate>
+      
+      <guid>https://florisdenhengst.github.io/posts/rl-for-pers-survey/</guid>
+      <description>Reinforcement learning (RL) is becoming an increasingly popular tool to tackle hairy problems using data. A nice example of such a hairy problem is personalization. Personalization refers to a task central to many applications of data science and machine learning: to change a system so that its personal relevance to an individual or category of individuals is increased.
+Although RL is becoming more popular, a clear overview of different RL approaches within personalization is lacking.</description>
+    </item>
+    
+    <item>
       <title>Collecting User Satisfaction Ratings for Dialogue Systems</title>
       <link>https://florisdenhengst.github.io/posts/high-quality-ratings/</link>
       <pubDate>Fri, 20 Mar 2020 11:35:13 +0100</pubDate>
