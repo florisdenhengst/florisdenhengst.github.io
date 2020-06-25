@@ -6,10 +6,37 @@
     <description>Recent content in Tags on Floris den Hengst&#39;s Homepage</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 09 Apr 2020 09:22:30 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jun 2020 21:14:18 +0200</lastBuildDate>
     
 	<atom:link href="https://florisdenhengst.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Personalization</title>
+      <link>https://florisdenhengst.github.io/tags/personalization/</link>
+      <pubDate>Thu, 25 Jun 2020 21:14:18 +0200</pubDate>
+      
+      <guid>https://florisdenhengst.github.io/tags/personalization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>publication</title>
+      <link>https://florisdenhengst.github.io/tags/publication/</link>
+      <pubDate>Thu, 25 Jun 2020 21:14:18 +0200</pubDate>
+      
+      <guid>https://florisdenhengst.github.io/tags/publication/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>reinforcement learning</title>
+      <link>https://florisdenhengst.github.io/tags/reinforcement-learning/</link>
+      <pubDate>Thu, 25 Jun 2020 21:14:18 +0200</pubDate>
+      
+      <guid>https://florisdenhengst.github.io/tags/reinforcement-learning/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>media</title>
@@ -21,38 +48,11 @@
     </item>
     
     <item>
-      <title>Personalization</title>
-      <link>https://florisdenhengst.github.io/tags/personalization/</link>
-      <pubDate>Thu, 09 Apr 2020 09:22:30 +0100</pubDate>
-      
-      <guid>https://florisdenhengst.github.io/tags/personalization/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>pomdp</title>
       <link>https://florisdenhengst.github.io/tags/pomdp/</link>
       <pubDate>Thu, 09 Apr 2020 09:22:30 +0100</pubDate>
       
       <guid>https://florisdenhengst.github.io/tags/pomdp/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>publication</title>
-      <link>https://florisdenhengst.github.io/tags/publication/</link>
-      <pubDate>Thu, 09 Apr 2020 09:22:30 +0100</pubDate>
-      
-      <guid>https://florisdenhengst.github.io/tags/publication/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>reinforcement learning</title>
-      <link>https://florisdenhengst.github.io/tags/reinforcement-learning/</link>
-      <pubDate>Thu, 09 Apr 2020 09:22:30 +0100</pubDate>
-      
-      <guid>https://florisdenhengst.github.io/tags/reinforcement-learning/</guid>
       <description></description>
     </item>
     

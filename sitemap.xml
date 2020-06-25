@@ -3,12 +3,37 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://florisdenhengst.github.io/tags/media/</loc>
-    <lastmod>2020-04-09T09:22:30+01:00</lastmod>
+    <loc>https://florisdenhengst.github.io/tags/personalization/</loc>
+    <lastmod>2020-06-25T21:14:18+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://florisdenhengst.github.io/tags/personalization/</loc>
+    <loc>https://florisdenhengst.github.io/posts/</loc>
+    <lastmod>2020-06-25T21:14:18+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://florisdenhengst.github.io/tags/publication/</loc>
+    <lastmod>2020-06-25T21:14:18+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://florisdenhengst.github.io/tags/reinforcement-learning/</loc>
+    <lastmod>2020-06-25T21:14:18+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://florisdenhengst.github.io/posts/rl-at-workshop/</loc>
+    <lastmod>2020-06-25T21:14:18+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://florisdenhengst.github.io/tags/</loc>
+    <lastmod>2020-06-25T21:14:18+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://florisdenhengst.github.io/tags/media/</loc>
     <lastmod>2020-04-09T09:22:30+01:00</lastmod>
   </url>
   
@@ -18,27 +43,7 @@
   </url>
   
   <url>
-    <loc>https://florisdenhengst.github.io/posts/</loc>
-    <lastmod>2020-04-09T09:22:30+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://florisdenhengst.github.io/tags/publication/</loc>
-    <lastmod>2020-04-09T09:22:30+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://florisdenhengst.github.io/tags/reinforcement-learning/</loc>
-    <lastmod>2020-04-09T09:22:30+01:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://florisdenhengst.github.io/posts/rl-for-pers-survey/</loc>
-    <lastmod>2020-04-09T09:22:30+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://florisdenhengst.github.io/tags/</loc>
     <lastmod>2020-04-09T09:22:30+01:00</lastmod>
   </url>
   

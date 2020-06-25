@@ -6,10 +6,21 @@
     <description>Recent content in publication on Floris den Hengst&#39;s Homepage</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 09 Apr 2020 09:22:30 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jun 2020 21:14:18 +0200</lastBuildDate>
     
 	<atom:link href="https://florisdenhengst.github.io/tags/publication/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>RL for Real Life Poster</title>
+      <link>https://florisdenhengst.github.io/posts/rl-at-workshop/</link>
+      <pubDate>Thu, 25 Jun 2020 21:14:18 +0200</pubDate>
+      
+      <guid>https://florisdenhengst.github.io/posts/rl-at-workshop/</guid>
+      <description>Upcoming weekend will be a virtual conference on reinforcement learning (RL) in real-life.
+It is of great interest to me primarily due to its program but also due to its organisation.
+The virtual conference consists of two panel sessions and a virtual `poster&amp;rsquo; session with pre-recorded videos. There is a slack workspace for discussion, and questions to the panelists can be submitted up-front. Poster presenters are to host their own video channel.</description>
+    </item>
     
     <item>
       <title>Reinforcement Learning for Personalization: A Survey</title>
