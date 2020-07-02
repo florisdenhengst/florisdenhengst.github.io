@@ -28,8 +28,8 @@ The virtual conference consists of two panel sessions and a virtual `poster&amp;
       <pubDate>Thu, 09 Apr 2020 09:22:30 +0100</pubDate>
       
       <guid>https://florisdenhengst.github.io/posts/rl-for-pers-survey/</guid>
-      <description>Reinforcement learning (RL) is becoming an increasingly popular tool to tackle hairy problems using data. A nice example of such a hairy problem is personalization. Personalization refers to a task central to many applications of data science and machine learning: to change a system so that its personal relevance to an individual or category of individuals is increased.
-Although RL is becoming more popular, a clear overview of different RL approaches within personalization is lacking.</description>
+      <description>Update 2020-06-27: this paper was presented as a `poster&amp;rsquo;(video) at the RL for Real Life virtual Conference. Read more here.
+Reinforcement learning (RL) is becoming an increasingly popular tool to tackle hairy problems using data. A nice example of such a hairy problem is personalization. Personalization refers to a task central to many applications of data science and machine learning: to change a system so that its personal relevance to an individual or category of individuals is increased.</description>
     </item>
     
     <item>
