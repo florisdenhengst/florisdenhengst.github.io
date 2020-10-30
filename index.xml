@@ -6,11 +6,7 @@
     <description>Recent content in Everything Flo&#39;s on Floris den Hengst&#39;s Homepage</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 24 Dec 2018 16:38:25 +0100</lastBuildDate>
-    
-	<atom:link href="https://florisdenhengst.github.io/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Mon, 24 Dec 2018 16:38:25 +0100</lastBuildDate><atom:link href="https://florisdenhengst.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Reinforcement Learning for Real Life Virtual Conference</title>
       <link>https://florisdenhengst.github.io/posts/rl-at-workshop/</link>
@@ -19,7 +15,7 @@
       <guid>https://florisdenhengst.github.io/posts/rl-at-workshop/</guid>
       <description>Upcoming weekend will be a virtual conference on reinforcement learning (RL) in real-life.
 It is of great interest to me primarily due to its program but also due to its organisation.
-The virtual conference consists of two panel sessions and a virtual `poster&amp;rsquo; session with pre-recorded videos. There is a slack workspace for discussion, and questions to the panelists can be submitted up-front. Poster presenters are to host their own video channel.</description>
+The virtual conference consists of two panel sessions and a virtual `poster&#39; session with pre-recorded videos. There is a slack workspace for discussion, and questions to the panelists can be submitted up-front. Poster presenters are to host their own video channel.</description>
     </item>
     
     <item>
@@ -28,7 +24,7 @@ The virtual conference consists of two panel sessions and a virtual `poster&amp;
       <pubDate>Thu, 09 Apr 2020 09:22:30 +0100</pubDate>
       
       <guid>https://florisdenhengst.github.io/posts/rl-for-pers-survey/</guid>
-      <description>Update 2020-06-27: this paper was presented as a `poster&amp;rsquo;(video) at the RL for Real Life virtual Conference. Read more here.
+      <description>Update 2020-06-27: this paper was presented as a `poster&#39;(video) at the RL for Real Life virtual Conference. Read more here.
 Reinforcement learning (RL) is becoming an increasingly popular tool to tackle hairy problems using data. A nice example of such a hairy problem is personalization. Personalization refers to a task central to many applications of data science and machine learning: to change a system so that its personal relevance to an individual or category of individuals is increased.</description>
     </item>
     
@@ -89,7 +85,7 @@ Although I learned a lot in general, there were some key take-aways for me:
       
       <guid>https://florisdenhengst.github.io/posts/bitter-lesson-response/</guid>
       <description>A couple of days ago, RL founding father Rich Sutton posted a blog post. My reading is as follows:
- Moore&amp;rsquo;s Law has consistently made general, compute-based methods outperform task-specific, domain knowledge-based methods for tasks in the AI `sphere of interest&amp;rsquo; This has served as a bitter lesson for many (all?) researchers that have focused on developing such domain-specific methods General methods will always prevail, especially those that scale with compute  Although I tend to agree with the overall idea that general methods are the way forward for AI, I feel that some nuance is in order.</description>
+ Moore&amp;rsquo;s Law has consistently made general, compute-based methods outperform task-specific, domain knowledge-based methods for tasks in the AI `sphere of interest&#39; This has served as a bitter lesson for many (all?) researchers that have focused on developing such domain-specific methods General methods will always prevail, especially those that scale with compute  Although I tend to agree with the overall idea that general methods are the way forward for AI, I feel that some nuance is in order.</description>
     </item>
     
     <item>
@@ -98,7 +94,7 @@ Although I learned a lot in general, there were some key take-aways for me:
       <pubDate>Fri, 15 Feb 2019 12:41:16 +0100</pubDate>
       
       <guid>https://florisdenhengst.github.io/posts/rl-for-dialog-management/</guid>
-      <description>The value offering of most contemporary chatbot platforms consists of packaging state-of-art Automated Speech Recognition (ASR, or &amp;lsquo;speech-to-text&amp;rsquo;), Natural Language Understanding (NLU) and Voice Synthesis into a comprehensive API. The API typically also includes some programming model for dialog control such as DialogFlows&amp;rsquo; Contexts and follow-up Intents and Alexa&amp;rsquo;s Dialog model. Implementing the right dialog controller is up to the developer. Figure 1 summarizes this in a diagram, with the handcrafted modules in green and with a keyboard in the top right.</description>
+      <description>The value offering of most contemporary chatbot platforms consists of packaging state-of-art Automated Speech Recognition (ASR, or &amp;lsquo;speech-to-text&amp;rsquo;), Natural Language Understanding (NLU) and Voice Synthesis into a comprehensive API. The API typically also includes some programming model for dialog control such as DialogFlows&#39; Contexts and follow-up Intents and Alexa&amp;rsquo;s Dialog model. Implementing the right dialog controller is up to the developer. Figure 1 summarizes this in a diagram, with the handcrafted modules in green and with a keyboard in the top right.</description>
     </item>
     
     <item>

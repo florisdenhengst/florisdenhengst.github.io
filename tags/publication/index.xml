@@ -6,11 +6,7 @@
     <description>Recent content in publication on Floris den Hengst&#39;s Homepage</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 25 Jun 2020 21:14:18 +0200</lastBuildDate>
-    
-	<atom:link href="https://florisdenhengst.github.io/tags/publication/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Thu, 25 Jun 2020 21:14:18 +0200</lastBuildDate><atom:link href="https://florisdenhengst.github.io/tags/publication/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Reinforcement Learning for Real Life Virtual Conference</title>
       <link>https://florisdenhengst.github.io/posts/rl-at-workshop/</link>
@@ -19,7 +15,7 @@
       <guid>https://florisdenhengst.github.io/posts/rl-at-workshop/</guid>
       <description>Upcoming weekend will be a virtual conference on reinforcement learning (RL) in real-life.
 It is of great interest to me primarily due to its program but also due to its organisation.
-The virtual conference consists of two panel sessions and a virtual `poster&amp;rsquo; session with pre-recorded videos. There is a slack workspace for discussion, and questions to the panelists can be submitted up-front. Poster presenters are to host their own video channel.</description>
+The virtual conference consists of two panel sessions and a virtual `poster&#39; session with pre-recorded videos. There is a slack workspace for discussion, and questions to the panelists can be submitted up-front. Poster presenters are to host their own video channel.</description>
     </item>
     
     <item>
@@ -28,7 +24,7 @@ The virtual conference consists of two panel sessions and a virtual `poster&amp;
       <pubDate>Thu, 09 Apr 2020 09:22:30 +0100</pubDate>
       
       <guid>https://florisdenhengst.github.io/posts/rl-for-pers-survey/</guid>
-      <description>Update 2020-06-27: this paper was presented as a `poster&amp;rsquo;(video) at the RL for Real Life virtual Conference. Read more here.
+      <description>Update 2020-06-27: this paper was presented as a `poster&#39;(video) at the RL for Real Life virtual Conference. Read more here.
 Reinforcement learning (RL) is becoming an increasingly popular tool to tackle hairy problems using data. A nice example of such a hairy problem is personalization. Personalization refers to a task central to many applications of data science and machine learning: to change a system so that its personal relevance to an individual or category of individuals is increased.</description>
     </item>
     
