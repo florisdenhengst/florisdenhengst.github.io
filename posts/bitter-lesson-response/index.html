@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Bitter Lesson Response | Floris den Hengst&#39;s Homepage</title>
+    <link rel="stylesheet" href="/css/style.css" />
+    <link rel="stylesheet" href="/css/fonts.css" />
+	<script src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/latest.js?config=TeX-MML-AM_CHTML'
+		    async></script>
+    
+  </head>
+
+  <body>
+    <nav>
+    <ul class="menu">
+      
+      <li><a href="/">Home</a></li>
+      
+      <li><a href="/posts/">Blog</a></li>
+      
+      <li><a href="/about/">About</a></li>
+      
+      <li><a href="/tags/">Tags</a></li>
+      
+    </ul>
+    <hr/>
+    </nav>
+
+<div class="article-meta">
+<h1><span class="title">Bitter Lesson Response</span></h1>
+
+<h2 class="date">2019/03/20</h2>
+</div>
+
+<main>
+<p>A couple of days ago, RL founding father Rich Sutton posted a <a href="http://www.incompleteideas.net/IncIdeas/BitterLesson.html">blog
+post</a>. My reading is as follows:</p>
+<ul>
+<li>Moore&rsquo;s Law has consistently made general, compute-based methods outperform task-specific,
+domain knowledge-based methods for tasks in the AI `sphere of interest'</li>
+<li>This has served as a bitter lesson for many (all?) researchers that have focused on developing
+such domain-specific methods</li>
+<li>General methods will always prevail, especially those that scale with compute</li>
+</ul>
+<p>Although I tend to agree with the overall idea that general methods are the way forward for AI, I
+feel that some nuance is in order. Specifically, I feel that task-specific methods fulfill a
+crucial role by showing what can be accomplished on a narrow task and thus serves like a telescope
+into the future. Furthermore, I believe that the role of <em>data</em> is not appreciated
+by Prof. Sutton. The availability data useful to some task may have natural limits.</p>
+<p>Data has been a huge enabler of recent advances in AI. Prof. Sutton only mentions compute as the
+main driver for success in AI but I think availability of high-quality data sets may be equally or
+even more important. Curated data is necessary for all approaches in AI. Even unsupervised methods
+require curated data sets for evaluation and hyper-parameter tuning. We currently see this in GANs,
+which despite being purely unsupervised are still mostly used on data we can easily inspect
+ourselves (images and audio) or where labels are available in large quantities. Developing
+these methods in a systematic and reliable, e.g. <em>scientific</em> way requires a
+data set representative to some realistic problem setting. One could argue that, as AI techniques
+become more powerful and general, the datasets to evaluate them by can become equally general.
+This may be true in the long run, so I guess that from a decades-long POV the argument holds.</p>
+<p>In the meantime, however, we want our research to be useful for society at large. In my view, the
+current triumphs of AI are the result of the fields' focus on practical solutions since the mid 90s.
+Without AI focusing on very practical applications, such as e.g. the Data Mining and Semantic Web
+subfields, we would have neither the datasets nor the support from public nor private funding we
+currently enjoy. These domain-specific approaches used e.g. manually crafted features to show how
+powerful data-driven computer vision techniques could be and thus served as a &lsquo;telescope&rsquo; into the
+future. The main point to me is thus not about what to work on (&lsquo;general&rsquo; v.s. &lsquo;task-specific&rsquo;)
+but what to work on <em>now</em>.</p>
+<p>In summary, my vision on the matter is a bit more humble than Prof. Sutton&rsquo;s extremist stance:
+in determining what to work on, AI researchers should take into account the practical
+applicability now while considering implications to general approaches on the long run.</p>
+<h2 id="updates">Updates</h2>
+<ul>
+<li>2019/04/25: UvA&rsquo;s Deep Learning guru Max Welling has posted a
+<a href="https://staff.fnwi.uva.nl/m.welling/wp-content/uploads/Model-versus-Data-AI.pdf">response</a> as well.</li>
+</ul>
+
+</main>
+
+  <footer>
+  <hr/>
+  
+  
+  <a href="/index.xml"><img src='https://simpleicons.org/icons/rss.svg'></a>
+  
+  <a href="https://github.com/florisdenhengst/"><img src='https://simpleicons.org/icons/github.svg'></a>
+  
+  <a href="https://www.linkedin.com/in/floris-den-hengst-06ab7534/"><img src='https://simpleicons.org/icons/linkedin.svg'></a>
+  
+  <a href="https://orcid.org/0000-0002-2092-9904"><img src='/imgs/orcid.svg'></a>
+  
+  <a href="https://scholar.google.nl/citations?user=8I8iSHkAAAAJ"><img src='/imgs/gscholar.png'></a>
+  
+  | Created with <a href="https://gohugo.io">Hugo</a> and <a href="https://florisdenhengst.github.io/metis-example/">Metis</a> theme | © <a href="https://florisdenhengst.github.io">Floris den Hengst</a> 2018 &ndash; 2020
+  
+  </footer>
+  </body>
+</html>
+

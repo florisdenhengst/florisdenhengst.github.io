@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>reinforcement learning on Floris den Hengst&#39;s Homepage</title>
+    <link>https://florisdenhengst.github.io/tags/reinforcement-learning/</link>
+    <description>Recent content in reinforcement learning on Floris den Hengst&#39;s Homepage</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 25 Jun 2020 21:14:18 +0200</lastBuildDate><atom:link href="https://florisdenhengst.github.io/tags/reinforcement-learning/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Reinforcement Learning for Real Life Virtual Conference</title>
+      <link>https://florisdenhengst.github.io/posts/rl-at-workshop/</link>
+      <pubDate>Thu, 25 Jun 2020 21:14:18 +0200</pubDate>
+      
+      <guid>https://florisdenhengst.github.io/posts/rl-at-workshop/</guid>
+      <description>Upcoming weekend will be a virtual conference on reinforcement learning (RL) in real-life.
+It is of great interest to me primarily due to its program but also due to its organisation.
+The virtual conference consists of two panel sessions and a virtual `poster&#39; session with pre-recorded videos. There is a slack workspace for discussion, and questions to the panelists can be submitted up-front. Poster presenters are to host their own video channel.</description>
+    </item>
+    
+    <item>
+      <title>Reinforcement Learning for Personalization: A Survey</title>
+      <link>https://florisdenhengst.github.io/posts/rl-for-pers-survey/</link>
+      <pubDate>Thu, 09 Apr 2020 09:22:30 +0100</pubDate>
+      
+      <guid>https://florisdenhengst.github.io/posts/rl-for-pers-survey/</guid>
+      <description>Update 2020-06-27: this paper was presented as a `poster&#39;(video) at the RL for Real Life virtual Conference. Read more here.
+Reinforcement learning (RL) is becoming an increasingly popular tool to tackle hairy problems using data. A nice example of such a hairy problem is personalization. Personalization refers to a task central to many applications of data science and machine learning: to change a system so that its personal relevance to an individual or category of individuals is increased.</description>
+    </item>
+    
+    <item>
+      <title>Personalized Dialogue Management</title>
+      <link>https://florisdenhengst.github.io/posts/personalized-dm/</link>
+      <pubDate>Mon, 21 Oct 2019 10:31:06 +0200</pubDate>
+      
+      <guid>https://florisdenhengst.github.io/posts/personalized-dm/</guid>
+      <description>In a previous post I explained how reinforcement learning (RL) can be used to make chatbots better from its experience with users. RL allows chatbots to learn what to say by interacting with users. This allows for chatbots to tailor their behavior to preferences of groups of individuals, e.g. to personalize the interaction. I recently presented our paper on this topic, specifically on personalized dialog management at the Web Intelligence conference in Thessaloniki.</description>
+    </item>
+    
+    <item>
+      <title>Bitter Lesson Response</title>
+      <link>https://florisdenhengst.github.io/posts/bitter-lesson-response/</link>
+      <pubDate>Wed, 20 Mar 2019 23:27:28 +0100</pubDate>
+      
+      <guid>https://florisdenhengst.github.io/posts/bitter-lesson-response/</guid>
+      <description>A couple of days ago, RL founding father Rich Sutton posted a blog post. My reading is as follows:
+ Moore&amp;rsquo;s Law has consistently made general, compute-based methods outperform task-specific, domain knowledge-based methods for tasks in the AI `sphere of interest&#39; This has served as a bitter lesson for many (all?) researchers that have focused on developing such domain-specific methods General methods will always prevail, especially those that scale with compute  Although I tend to agree with the overall idea that general methods are the way forward for AI, I feel that some nuance is in order.</description>
+    </item>
+    
+    <item>
+      <title>How Reinforcement Learning is Applied to Dialogue Control</title>
+      <link>https://florisdenhengst.github.io/posts/rl-for-dialog-management/</link>
+      <pubDate>Fri, 15 Feb 2019 12:41:16 +0100</pubDate>
+      
+      <guid>https://florisdenhengst.github.io/posts/rl-for-dialog-management/</guid>
+      <description>The value offering of most contemporary chatbot platforms consists of packaging state-of-art Automated Speech Recognition (ASR, or &amp;lsquo;speech-to-text&amp;rsquo;), Natural Language Understanding (NLU) and Voice Synthesis into a comprehensive API. The API typically also includes some programming model for dialog control such as DialogFlows&#39; Contexts and follow-up Intents and Alexa&amp;rsquo;s Dialog model. Implementing the right dialog controller is up to the developer. Figure 1 summarizes this in a diagram, with the handcrafted modules in green and with a keyboard in the top right.</description>
+    </item>
+    
+    <item>
+      <title>Scientific Writing Course</title>
+      <link>https://florisdenhengst.github.io/posts/completed-scientific-writing-course/</link>
+      <pubDate>Tue, 18 Dec 2018 13:10:34 +0100</pubDate>
+      
+      <guid>https://florisdenhengst.github.io/posts/completed-scientific-writing-course/</guid>
+      <description>I just completed the course &amp;lsquo;Writing a Scientific Article&amp;rsquo; at the VU Language Centre. Although I joined the course thinking I knew a fair share of writing in English, I learned a great deal about scientific writing and picked up some neat tricks to improve writing. As a bonus, I got some great feedback on an survey paper on Reinforcement Learning for personalization I&amp;rsquo;m working on with some colleagues in our group</description>
+    </item>
+    
+    <item>
+      <title>The Book that Predicted AlphaGo</title>
+      <link>https://florisdenhengst.github.io/posts/prediction-go-mcmc/</link>
+      <pubDate>Wed, 01 Aug 2018 21:54:28 +0100</pubDate>
+      
+      <guid>https://florisdenhengst.github.io/posts/prediction-go-mcmc/</guid>
+      <description>Little under three years ago, in March 2016, a Reinforcement Learning (RL) algorithm beat Lee Sedol, a pro player in a match of Go. This game had been considered too hard for algorithms due to the astronomical number of board game configurations and the AlphaGo team therefore baffled experts in AI with their accomplishments. Nobody seemed to be aware that techniques were available to make such a win possible at that time and most experts considered computers beating humanity at Go to be a couple of decades away.</description>
+    </item>
+    
+  </channel>
+</rss>

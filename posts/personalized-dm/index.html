@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Personalized Dialogue Management | Floris den Hengst&#39;s Homepage</title>
+    <link rel="stylesheet" href="/css/style.css" />
+    <link rel="stylesheet" href="/css/fonts.css" />
+	<script src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/latest.js?config=TeX-MML-AM_CHTML'
+		    async></script>
+    
+  </head>
+
+  <body>
+    <nav>
+    <ul class="menu">
+      
+      <li><a href="/">Home</a></li>
+      
+      <li><a href="/posts/">Blog</a></li>
+      
+      <li><a href="/about/">About</a></li>
+      
+      <li><a href="/tags/">Tags</a></li>
+      
+    </ul>
+    <hr/>
+    </nav>
+
+<div class="article-meta">
+<h1><span class="title">Personalized Dialogue Management</span></h1>
+
+<h2 class="date">2019/10/21</h2>
+</div>
+
+<main>
+<p>In a <a href="/posts/rl-for-dialog-management">previous post</a> I explained how reinforcement
+learning (RL) can be used to make chatbots better from its experience with users. RL allows chatbots to learn what to say by interacting with users. This allows for chatbots to tailor their behavior to preferences of groups of individuals, e.g. to <em>personalize</em> the interaction. I recently presented our paper on
+this topic, specifically on personalized dialog management at the <a href="https://webintelligence2019.com/">Web Intelligence</a> conference in Thessaloniki. In this conference, only 19% of all submitted papers were accepted as full paper. I&rsquo;ll briefly describe the main contributions of the paper here.</p>
+<p>In many domains, including financial services and banking, some users may be able to express their needs and preferences crisply whereas others have more difficulty in doing so. As an example, consider someone looking to finance their first
+home. They will not know much about duration of the mortgages, adjustable and fixed-rate and
+associated costs. Compare this to a person who already has a mortgage and is looking for a
+mortgage transfer. They will be quite aware of the terminology involved and may already have done
+some research on the subject.</p>
+<p>Capabilities, desires and preferences of individual chatbot users may differ in many ways and it
+may not always be clear upfront how the chatbot should respond to these differences in order to
+<em>personalize</em> the user experience. In these cases, the only resort is to respond to feedback from
+users in order to do so.  In the <a href="/publications/wi19.pdf">paper</a>, we compare two novel approaches
+to personalized dialogue management. Both approaches use RL to personalize the user experience
+based on experience with individual users. We trained and evaluated the approaches in a large
+benchmark of different algorithms.</p>
+<p>It turns out that learning approaches can respond to differences in user behavior effectively and
+personalize the user experience. What&rsquo;s more, it turns out that these approaches perform equal or
+better than a previous hand-coded gold standard. Which of the two learning approaches works best
+depends on the complexity of the task and the available data.</p>
+<p>Next steps may include an evaluation on more realistic data, ensuring that the chatbots only
+makes recommendations after having checked e.g. the <a href="https://www.investopedia.com/terms/r/risk-profile.asp">risk
+profile</a> and check that the
+recommendation is understood by the user.</p>
+<p><strong>Update 2020-04-09</strong>: Interested in reinforcement learning and personalization outside of
+dialogue management? Have a look at the literature study we did on this in <a href="/posts/rl-for-pers-survey/">this
+post</a>.</p>
+<p><img src="/imgs/personalized-dm/wi-19-logo.png" alt="logo Web Intelligence 2019"></p>
+
+</main>
+
+  <footer>
+  <hr/>
+  
+  
+  <a href="/index.xml"><img src='https://simpleicons.org/icons/rss.svg'></a>
+  
+  <a href="https://github.com/florisdenhengst/"><img src='https://simpleicons.org/icons/github.svg'></a>
+  
+  <a href="https://www.linkedin.com/in/floris-den-hengst-06ab7534/"><img src='https://simpleicons.org/icons/linkedin.svg'></a>
+  
+  <a href="https://orcid.org/0000-0002-2092-9904"><img src='/imgs/orcid.svg'></a>
+  
+  <a href="https://scholar.google.nl/citations?user=8I8iSHkAAAAJ"><img src='/imgs/gscholar.png'></a>
+  
+  | Created with <a href="https://gohugo.io">Hugo</a> and <a href="https://florisdenhengst.github.io/metis-example/">Metis</a> theme | © <a href="https://florisdenhengst.github.io">Floris den Hengst</a> 2018 &ndash; 2020
+  
+  </footer>
+  </body>
+</html>
+

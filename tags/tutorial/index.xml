@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>tutorial on Floris den Hengst&#39;s Homepage</title>
+    <link>https://florisdenhengst.github.io/tags/tutorial/</link>
+    <description>Recent content in tutorial on Floris den Hengst&#39;s Homepage</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 05 Sep 2019 15:39:37 +0200</lastBuildDate><atom:link href="https://florisdenhengst.github.io/tags/tutorial/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to Create a Music Bingo in Minutes</title>
+      <link>https://florisdenhengst.github.io/posts/music-bingo/</link>
+      <pubDate>Thu, 05 Sep 2019 15:39:37 +0200</pubDate>
+      
+      <guid>https://florisdenhengst.github.io/posts/music-bingo/</guid>
+      <description>I was recently asked to help organise a &amp;lsquo;music bingo&amp;rsquo; for students of horseriding association BLOK. To be completely honest with you, I feel that bingo is probably one of the most boring party games out there as the only &amp;lsquo;skills&amp;rsquo; involved are paying attention and bookkeeping.
+Music bingo, however, puts a nice twist to the original game that makes it more fun, exciting and skill-based. Music bingo is like regular bingo with some minor differences that make it just so much more fun.</description>
+    </item>
+    
+    <item>
+      <title>How Reinforcement Learning is Applied to Dialogue Control</title>
+      <link>https://florisdenhengst.github.io/posts/rl-for-dialog-management/</link>
+      <pubDate>Fri, 15 Feb 2019 12:41:16 +0100</pubDate>
+      
+      <guid>https://florisdenhengst.github.io/posts/rl-for-dialog-management/</guid>
+      <description>The value offering of most contemporary chatbot platforms consists of packaging state-of-art Automated Speech Recognition (ASR, or &amp;lsquo;speech-to-text&amp;rsquo;), Natural Language Understanding (NLU) and Voice Synthesis into a comprehensive API. The API typically also includes some programming model for dialog control such as DialogFlows&#39; Contexts and follow-up Intents and Alexa&amp;rsquo;s Dialog model. Implementing the right dialog controller is up to the developer. Figure 1 summarizes this in a diagram, with the handcrafted modules in green and with a keyboard in the top right.</description>
+    </item>
+    
+  </channel>
+</rss>
