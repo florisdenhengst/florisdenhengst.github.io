@@ -6,14 +6,18 @@
     <description>Recent content in media on Floris den Hengst&#39;s Homepage</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 09 Apr 2020 09:22:30 +0100</lastBuildDate><atom:link href="https://florisdenhengst.github.io/tags/media/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 09 Apr 2020 09:22:30 +0100</lastBuildDate>
+    
+	<atom:link href="https://florisdenhengst.github.io/tags/media/index.xml" rel="self" type="application/rss+xml" />
+    
+    
     <item>
       <title>Reinforcement Learning for Personalization: A Survey</title>
       <link>https://florisdenhengst.github.io/posts/rl-for-pers-survey/</link>
       <pubDate>Thu, 09 Apr 2020 09:22:30 +0100</pubDate>
       
       <guid>https://florisdenhengst.github.io/posts/rl-for-pers-survey/</guid>
-      <description>Update 2020-06-27: this paper was presented as a `poster&#39;(video) at the RL for Real Life virtual Conference. Read more here.
+      <description>Update 2020-06-27: this paper was presented as a `poster&amp;rsquo;(video) at the RL for Real Life virtual Conference. Read more here.
 Reinforcement learning (RL) is becoming an increasingly popular tool to tackle hairy problems using data. A nice example of such a hairy problem is personalization. Personalization refers to a task central to many applications of data science and machine learning: to change a system so that its personal relevance to an individual or category of individuals is increased.</description>
     </item>
     
@@ -34,7 +38,7 @@ The post is part of a blog series on innovation in the media and it is hosted on
       
       <guid>https://florisdenhengst.github.io/posts/bitter-lesson-response/</guid>
       <description>A couple of days ago, RL founding father Rich Sutton posted a blog post. My reading is as follows:
- Moore&amp;rsquo;s Law has consistently made general, compute-based methods outperform task-specific, domain knowledge-based methods for tasks in the AI `sphere of interest&#39; This has served as a bitter lesson for many (all?) researchers that have focused on developing such domain-specific methods General methods will always prevail, especially those that scale with compute  Although I tend to agree with the overall idea that general methods are the way forward for AI, I feel that some nuance is in order.</description>
+ Moore&amp;rsquo;s Law has consistently made general, compute-based methods outperform task-specific, domain knowledge-based methods for tasks in the AI `sphere of interest&amp;rsquo; This has served as a bitter lesson for many (all?) researchers that have focused on developing such domain-specific methods General methods will always prevail, especially those that scale with compute  Although I tend to agree with the overall idea that general methods are the way forward for AI, I feel that some nuance is in order.</description>
     </item>
     
   </channel>
