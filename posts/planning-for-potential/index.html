@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Safe and Efficient Reinforcement Learning with Planning for Potential | Floris den Hengst&#39;s Homepage</title>
+    <link rel="stylesheet" href="/css/style.css" />
+    <link rel="stylesheet" href="/css/fonts.css" />
+	<script src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/latest.js?config=TeX-MML-AM_CHTML'
+		    async></script>
+    
+  </head>
+
+  <body>
+    <nav>
+    <ul class="menu">
+      
+      <li><a href="/">Home</a></li>
+      
+      <li><a href="/posts/">Blog</a></li>
+      
+      <li><a href="/about/">About</a></li>
+      
+      <li><a href="/tags/">Tags</a></li>
+      
+    </ul>
+    <hr/>
+    </nav>
+
+<div class="article-meta">
+<h1><span class="title">Safe and Efficient Reinforcement Learning with Planning for Potential</span></h1>
+
+<h2 class="date">2022/03/24</h2>
+</div>
+
+<main>
+<p>Reinforcement Learning has proven to be capable of outperforming humans on
+various tasks by interacting with and experimenting some environment. This
+makes it one of the most interesting and promising AI solutions to problems
+that require complex behaviors which we are unable to fully define upfront but
+can assign an objective score to.</p>
+<p>In many settings of interest such as in healthcare and finance, we&rsquo;ll want to
+enforce safety constraints on any system of interest. Arguably, these settings
+are <em>the most interesting</em> since, when the stakes are the highest we&rsquo;ll care
+most about the potentially adversary outcomes. Although RL has a lot to offer,
+it cannot be readily applied in such safety-critical settings due to its lacking
+guarantees on safety.</p>
+<p>A recent line of work has proposed the application of formal methods to RL.
+These methods rely on logic and automated reasoning to <em>prove</em> that certain
+scenarios will never play out. They have been battle-tested in automated
+theorem proving as well as the verification of both hardware (e.g. chip design)
+and software (e.g. protocols and distribued systems).</p>
+<p>By combining RL with formal methods, we obtain the best of both worlds: formal
+methods bring guarantees on safety under well understood computational
+characteristics while RL brings the adaptivity required for
+<a href="/posts/rl-for-pers-survey">personalization</a> in e.g. <a href="/posts/rl-for-dialog-management">dialogue
+systems</a>.</p>
+<p>In a recent paper, we examined how the usage of formal methods impacts the
+learners' capability. We found:</p>
+<ul>
+<li>that by applying safety constraints, the learning problem will generally become harder,</li>
+<li>that, if the safety constraints prescribe more steps at a particular state, the <a href="https://lilianweng.github.io/posts/2018-02-19-rl-overview/#value-function">expected value</a> for that state becomes lower</li>
+<li>that we can mitigate this by assigning an additional reward for steps taken to be safe, using a technique known as <em>potential-based reward shaping</em></li>
+<li>that our proposed <em>planning for potential</em> (P4P) algorithm performs eliminates negative effects of the safety constraints, while remaining safe</li>
+<li>that we can tune its hyperparameter automatically by interacting with the environment</li>
+</ul>
+<p>The paper detailing these ideas and findings can be found in <a href="https://doi.org/10.1007/s10994-022-06143-6">Springer&rsquo;s Machine Learning</a>.</p>
+
+</main>
+
+  <footer>
+  <hr/>
+  
+  
+  <a href="/index.xml"><img src='https://simpleicons.org/icons/rss.svg'></a>
+  
+  <a href="https://github.com/florisdenhengst/"><img src='https://simpleicons.org/icons/github.svg'></a>
+  
+  <a href="https://www.linkedin.com/in/floris-den-hengst-06ab7534/"><img src='https://simpleicons.org/icons/linkedin.svg'></a>
+  
+  <a href="https://orcid.org/0000-0002-2092-9904"><img src='/imgs/orcid.svg'></a>
+  
+  <a href="https://scholar.google.nl/citations?user=8I8iSHkAAAAJ"><img src='/imgs/gscholar.png'></a>
+  
+  | Created with <a href="https://gohugo.io">Hugo</a> and <a href="https://florisdenhengst.github.io/metis-example/">Metis</a> theme | © <a href="https://florisdenhengst.github.io">Floris den Hengst</a> 2018 &ndash; 2022
+  
+  </footer>
+  </body>
+</html>
+
