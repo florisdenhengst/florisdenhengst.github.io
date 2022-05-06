@@ -6,7 +6,17 @@
     <description>Recent content in publication on Floris den Hengst&#39;s Homepage</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 25 Jun 2020 21:14:18 +0200</lastBuildDate><atom:link href="https://florisdenhengst.github.io/tags/publication/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 24 Mar 2022 10:38:24 +0100</lastBuildDate><atom:link href="https://florisdenhengst.github.io/tags/publication/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Safe and Efficient Reinforcement Learning with Planning for Potential</title>
+      <link>https://florisdenhengst.github.io/posts/planning-for-potential/</link>
+      <pubDate>Thu, 24 Mar 2022 10:38:24 +0100</pubDate>
+      
+      <guid>https://florisdenhengst.github.io/posts/planning-for-potential/</guid>
+      <description>Reinforcement Learning has proven to be capable of outperforming humans on various tasks by interacting with and experimenting some environment. This makes it one of the most interesting and promising AI solutions to problems that require complex behaviors which we are unable to fully define upfront but can assign an objective score to.
+In many settings of interest such as in healthcare and finance, we&amp;rsquo;ll want to enforce safety constraints on any system of interest.</description>
+    </item>
+    
     <item>
       <title>Reinforcement Learning for Real Life Virtual Conference</title>
       <link>https://florisdenhengst.github.io/posts/rl-at-workshop/</link>
