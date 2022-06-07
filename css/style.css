@@ -9,7 +9,10 @@ body {
 /* header and footer areas */
 .menu { padding: 0; }
 .menu li { display: inline-block; }
-.title { font-size: 1.1em; }
+.title {
+  font-size: 1.1em;
+  line-height: 1em;
+}
 footer a { text-decoration: none; }
 hr {
   border-style: dashed;
