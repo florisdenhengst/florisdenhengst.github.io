@@ -1,148 +1,90 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>https://florisdenhengst.github.io/</loc>
     <lastmod>2022-03-24T10:38:24+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://florisdenhengst.github.io/posts/</loc>
     <lastmod>2022-03-24T10:38:24+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://florisdenhengst.github.io/tags/publication/</loc>
     <lastmod>2022-03-24T10:38:24+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://florisdenhengst.github.io/tags/reinforcement-learning/</loc>
     <lastmod>2022-03-24T10:38:24+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://florisdenhengst.github.io/posts/planning-for-potential/</loc>
     <lastmod>2022-03-24T10:38:24+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://florisdenhengst.github.io/tags/</loc>
     <lastmod>2022-03-24T10:38:24+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://florisdenhengst.github.io/tags/personalization/</loc>
     <lastmod>2020-06-25T21:14:18+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://florisdenhengst.github.io/posts/rl-at-workshop/</loc>
     <lastmod>2020-06-25T21:14:18+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://florisdenhengst.github.io/tags/media/</loc>
     <lastmod>2020-04-09T09:22:30+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://florisdenhengst.github.io/tags/pomdp/</loc>
     <lastmod>2020-04-09T09:22:30+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://florisdenhengst.github.io/posts/rl-for-pers-survey/</loc>
     <lastmod>2020-04-09T09:22:30+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://florisdenhengst.github.io/posts/high-quality-ratings/</loc>
     <lastmod>2020-03-20T11:35:13+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://florisdenhengst.github.io/tags/dialog-systems/</loc>
     <lastmod>2020-03-20T11:35:13+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://florisdenhengst.github.io/posts/villamedia-blog/</loc>
     <lastmod>2019-12-18T14:39:21+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://florisdenhengst.github.io/posts/personalized-dm/</loc>
     <lastmod>2019-10-21T10:31:06+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://florisdenhengst.github.io/tags/bingo/</loc>
     <lastmod>2019-09-05T15:39:37+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://florisdenhengst.github.io/posts/music-bingo/</loc>
     <lastmod>2019-09-05T15:39:37+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://florisdenhengst.github.io/tags/tutorial/</loc>
     <lastmod>2019-09-05T15:39:37+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://florisdenhengst.github.io/posts/eurai-acai-2019/</loc>
     <lastmod>2019-07-06T16:41:29+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://florisdenhengst.github.io/tags/courses/</loc>
     <lastmod>2019-07-06T16:41:29+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://florisdenhengst.github.io/posts/bitter-lesson-response/</loc>
     <lastmod>2019-03-20T23:27:28+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://florisdenhengst.github.io/posts/rl-for-dialog-management/</loc>
     <lastmod>2019-02-15T12:41:16+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://florisdenhengst.github.io/posts/completed-research-methods-in-iks/</loc>
     <lastmod>2018-12-30T13:18:10+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://florisdenhengst.github.io/about/</loc>
     <lastmod>2018-12-24T16:27:01+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://florisdenhengst.github.io/posts/completed-scientific-writing-course/</loc>
     <lastmod>2018-12-18T13:10:34+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://florisdenhengst.github.io/posts/completed-hpc-course/</loc>
     <lastmod>2018-11-29T09:18:55+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://florisdenhengst.github.io/posts/prediction-go-mcmc/</loc>
     <lastmod>2018-08-01T21:54:28+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://florisdenhengst.github.io/categories/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://florisdenhengst.github.io/rl4personalization/</loc>
   </url>
-  
 </urlset>
