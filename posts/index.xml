@@ -6,7 +6,28 @@
     <description>Recent content in Posts on Floris den Hengst&#39;s Homepage</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 24 Mar 2022 10:38:24 +0100</lastBuildDate><atom:link href="https://florisdenhengst.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 14 Jun 2022 14:49:38 +0200</lastBuildDate><atom:link href="https://florisdenhengst.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Paper on strategic workforkforce planning with DRL at LOD</title>
+      <link>https://florisdenhengst.github.io/posts/rl-for-swp-lod/</link>
+      <pubDate>Tue, 14 Jun 2022 14:49:38 +0200</pubDate>
+      
+      <guid>https://florisdenhengst.github.io/posts/rl-for-swp-lod/</guid>
+      <description>A paper on Deep Reinforcement Learning (DRL) for strategic workforce planning co-authored with Yannick Smit, Sandjai Bhulai and Ehsan Mehdad is accepted as a long paper at LOD.
+In this paper, we model strategic workforce planning as a stochastic nonlinear optimization problem, learn a generative model from data and use it as a simulator in a simulation-optimization approach.
+We show that the DRL approach enables optimizing an organizations&#39; strategic workforce goals directly.</description>
+    </item>
+    
+    <item>
+      <title>Option Machines paper accepted at IJCAI</title>
+      <link>https://florisdenhengst.github.io/posts/option-machines-ijcai/</link>
+      <pubDate>Sat, 21 May 2022 14:44:12 +0200</pubDate>
+      
+      <guid>https://florisdenhengst.github.io/posts/option-machines-ijcai/</guid>
+      <description>The paper Reinforcement Learning with Option Machines co-authored by me, Vincent François-Lavet, Mark Hoogendoor and Frank van Harmelen is accepted as a long presentation (~3% acceptance rate) at IJCAI.
+Stay tuned for details!</description>
+    </item>
+    
     <item>
       <title>Safe and Efficient Reinforcement Learning with Planning for Potential</title>
       <link>https://florisdenhengst.github.io/posts/planning-for-potential/</link>
