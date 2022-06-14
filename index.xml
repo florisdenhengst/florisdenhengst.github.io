@@ -13,7 +13,7 @@
       <pubDate>Tue, 14 Jun 2022 14:49:38 +0200</pubDate>
       
       <guid>https://florisdenhengst.github.io/posts/rl-for-swp-lod/</guid>
-      <description>A paper on Deep Reinforcement Learning (DRL) for strategic workforce planning co-authored with Yannick Smit, Sandjai Bhulai and Ehsan Mehdad is accepted as a long paper at LOD.
+      <description>A paper on Deep Reinforcement Learning (DRL) for strategic workforce planning co-authored with Yannick Smit, Sandjai Bhulai and Ehsan Mehdad is accepted as a long paper at the LOD conference.
 In this paper, we model strategic workforce planning as a stochastic nonlinear optimization problem, learn a generative model from data and use it as a simulator in a simulation-optimization approach.
 We show that the DRL approach enables optimizing an organizations&#39; strategic workforce goals directly.</description>
     </item>
