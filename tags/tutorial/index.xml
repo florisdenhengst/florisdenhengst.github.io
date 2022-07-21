@@ -6,7 +6,16 @@
     <description>Recent content in tutorial on Floris den Hengst&#39;s Homepage</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 05 Sep 2019 15:39:37 +0200</lastBuildDate><atom:link href="https://florisdenhengst.github.io/tags/tutorial/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 21 Jun 2022 14:12:24 +0200</lastBuildDate><atom:link href="https://florisdenhengst.github.io/tags/tutorial/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A Brief intro to Gaussian Processes</title>
+      <link>https://florisdenhengst.github.io/posts/intro-to-gps/</link>
+      <pubDate>Tue, 21 Jun 2022 14:12:24 +0200</pubDate>
+      
+      <guid>https://florisdenhengst.github.io/posts/intro-to-gps/</guid>
+      <description>Gaussian Processes are a fascinating tool for usage in RL due to modelling uncertainty and data efficiency I briefly introduced GP&amp;rsquo;s and shown how/why they are used in RL  Gaussian processes (GPs) are a fascinating tool in the machine learning toolbelt. They stand out for a couple of reasons: some people will like them for their data efficiency, others love them for their ability to incorporate domain knowledge and yet others will love them for their visual or mathematical beauty.</description>
+    </item>
+    
     <item>
       <title>How to Create a Music Bingo in Minutes</title>
       <link>https://florisdenhengst.github.io/posts/music-bingo/</link>

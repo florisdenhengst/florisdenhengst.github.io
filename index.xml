@@ -13,8 +13,17 @@
       <pubDate>Sat, 16 Jul 2022 10:27:22 +0200</pubDate>
       
       <guid>https://florisdenhengst.github.io/posts/reinforcement-learning-summer-school/</guid>
-      <description>Past week, I attended and assisted at the Reinforcement Learning Summer School organized by Vincent François-Lavet. We had some great lectures on a wide variety of topics, including pure exploration in bandits, MCTS, exploration, symmetries and state similarities, world models, hierarchical and distributational RL.
-The summer school was hosted at one the theatre halls of VU&amp;rsquo;s new building (see pictures), which serves as a movie theatre at night: great seats and air quality do help with focusing 8+ hours on challenging topics!</description>
+      <description>Past week, I attended and assisted at the Reinforcement Learning Summer School organized by Vincent François-Lavet. We had some great lectures on a wide variety of topics, including pure exploration in bandits, the exploration-exploitation tradeoff in RL, MCTS, symmetries and state similarities, world models and hierarchical and distributational RL.
+The summer school was hosted at one the theatre halls of our university&amp;rsquo;s new building, which serves as a movie theatre at night: great seats and air quality do help with focusing for 8+ hours!</description>
+    </item>
+    
+    <item>
+      <title>A Brief intro to Gaussian Processes</title>
+      <link>https://florisdenhengst.github.io/posts/intro-to-gps/</link>
+      <pubDate>Tue, 21 Jun 2022 14:12:24 +0200</pubDate>
+      
+      <guid>https://florisdenhengst.github.io/posts/intro-to-gps/</guid>
+      <description>Gaussian Processes are a fascinating tool for usage in RL due to modelling uncertainty and data efficiency I briefly introduced GP&amp;rsquo;s and shown how/why they are used in RL  Gaussian processes (GPs) are a fascinating tool in the machine learning toolbelt. They stand out for a couple of reasons: some people will like them for their data efficiency, others love them for their ability to incorporate domain knowledge and yet others will love them for their visual or mathematical beauty.</description>
     </item>
     
     <item>
