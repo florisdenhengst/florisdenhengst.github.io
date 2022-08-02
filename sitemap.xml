@@ -2,22 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://florisdenhengst.github.io/</loc>
+    <lastmod>2022-08-01T16:43:48+02:00</lastmod>
+  </url><url>
+    <loc>https://florisdenhengst.github.io/posts/ijcai2022/</loc>
+    <lastmod>2022-08-01T16:43:48+02:00</lastmod>
+  </url><url>
+    <loc>https://florisdenhengst.github.io/posts/</loc>
+    <lastmod>2022-08-01T16:43:48+02:00</lastmod>
+  </url><url>
+    <loc>https://florisdenhengst.github.io/tags/reinforcement-learning/</loc>
+    <lastmod>2022-08-01T16:43:48+02:00</lastmod>
+  </url><url>
+    <loc>https://florisdenhengst.github.io/tags/</loc>
+    <lastmod>2022-08-01T16:43:48+02:00</lastmod>
+  </url><url>
     <loc>https://florisdenhengst.github.io/tags/courses/</loc>
     <lastmod>2022-07-16T10:27:22+02:00</lastmod>
   </url><url>
-    <loc>https://florisdenhengst.github.io/</loc>
-    <lastmod>2022-07-16T10:27:22+02:00</lastmod>
-  </url><url>
-    <loc>https://florisdenhengst.github.io/posts/</loc>
-    <lastmod>2022-07-16T10:27:22+02:00</lastmod>
-  </url><url>
-    <loc>https://florisdenhengst.github.io/tags/reinforcement-learning/</loc>
-    <lastmod>2022-07-16T10:27:22+02:00</lastmod>
-  </url><url>
     <loc>https://florisdenhengst.github.io/posts/reinforcement-learning-summer-school/</loc>
-    <lastmod>2022-07-16T10:27:22+02:00</lastmod>
-  </url><url>
-    <loc>https://florisdenhengst.github.io/tags/</loc>
     <lastmod>2022-07-16T10:27:22+02:00</lastmod>
   </url><url>
     <loc>https://florisdenhengst.github.io/posts/intro-to-gps/</loc>

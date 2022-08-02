@@ -6,7 +6,17 @@
     <description>Recent content in reinforcement learning on Floris den Hengst&#39;s Homepage</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 16 Jul 2022 10:27:22 +0200</lastBuildDate><atom:link href="https://florisdenhengst.github.io/tags/reinforcement-learning/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 01 Aug 2022 16:43:48 +0200</lastBuildDate><atom:link href="https://florisdenhengst.github.io/tags/reinforcement-learning/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>IJCAI 2022</title>
+      <link>https://florisdenhengst.github.io/posts/ijcai2022/</link>
+      <pubDate>Mon, 01 Aug 2022 16:43:48 +0200</pubDate>
+      
+      <guid>https://florisdenhengst.github.io/posts/ijcai2022/</guid>
+      <description>Last week I attended the International Joint Conference on Artificial Intelligence (IJCAI) in Vienna. Being `co-hosted&#39; with the European Conference on AI, the official name of this years&#39; edition was IJCAI-ECAI 2022. It was a great week with too many impressions and learnings to list. Here are some personal highlights:
+ presented our paper on Option Machines as a long talk in the `Deep Reinforcement Learning&#39; session presented our paper on Safe &amp;amp; Efficient RL with Planning for Potential at the Safe RL workshop met many great people with great humor, ideas and experience attended keynotes by two Giants in AI: Stuart Russel and Judea Pearl had a nice visit of the Vienna.</description>
+    </item>
+    
     <item>
       <title>Reinforcement Learning Summer School 2022</title>
       <link>https://florisdenhengst.github.io/posts/reinforcement-learning-summer-school/</link>
