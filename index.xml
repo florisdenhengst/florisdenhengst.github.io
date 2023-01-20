@@ -6,7 +6,17 @@
     <description>Recent content in Everything Flo&#39;s on Floris den Hengst&#39;s Homepage</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 01 Aug 2022 16:43:48 +0200</lastBuildDate><atom:link href="https://florisdenhengst.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 20 Jan 2023 15:48:55 +0100</lastBuildDate><atom:link href="https://florisdenhengst.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Student Supervision</title>
+      <link>https://florisdenhengst.github.io/posts/student_supervision/</link>
+      <pubDate>Fri, 20 Jan 2023 15:48:55 +0100</pubDate>
+      
+      <guid>https://florisdenhengst.github.io/posts/student_supervision/</guid>
+      <description>For the past couple of years, I have always loved working with Msc. and Bsc. students. Usually, I have been involved in the role supervisor for the thesis. In doing so, I have learned a great deal about what makes a good AI research project and what I can do to make these projects better.
+Below is a distillation of some of that knowledge. Some of it applies only to theses, but most of it applies more broadly.</description>
+    </item>
+    
     <item>
       <title>IJCAI 2022</title>
       <link>https://florisdenhengst.github.io/posts/ijcai2022/</link>

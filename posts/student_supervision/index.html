@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Student Supervision | Floris den Hengst&#39;s Homepage</title>
+    <link rel="stylesheet" href="/css/style.css" />
+    <link rel="stylesheet" href="/css/fonts.css" />
+	<script src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/latest.js?config=TeX-MML-AM_CHTML'
+		    async></script>
+    
+  </head>
+
+  <body>
+    <nav>
+    <ul class="menu">
+      
+      <li><a href="/">Home</a></li>
+      
+      <li><a href="/posts/">Blog</a></li>
+      
+      <li><a href="/about/">About</a></li>
+      
+      <li><a href="/tags/">Tags</a></li>
+      
+    </ul>
+    <hr/>
+    </nav>
+
+<div class="article-meta">
+<h1><span class="title">Student Supervision</span></h1>
+
+<h2 class="date">2023/01/20</h2>
+</div>
+
+<main>
+<p>For the past couple of years, I have always loved working with Msc. and Bsc. students. Usually, I have been involved in the role supervisor for the thesis.
+In doing so, I have learned a great deal about what makes a good AI research project and what I can do to make these projects better.</p>
+<p>Below is a distillation of some of that knowledge. Some of it applies only to theses, but most of it applies more broadly.</p>
+<h2 id="types-of-ai-thesis-contributions">Types of AI thesis contributions</h2>
+<p>In my experience, there are roughly three types of contributions in AI theses. I’ll briefly discuss them and highlight where contributions are relatively easy or challenging.</p>
+<p>The first type of contribution is mostly technology-driven. In it, an existing technology is applied on a novel problem. The problem itself can be novel, or the combination of problem-technology combination is novel. While the goal is to evaluate existing technology on a new problem, usually the technology has to be adjusted for it to work on the problem at hand. Within the scope of a thesis, these adjustments are usually small and can even be limited to a hyperparameter optimization. Alternatively, the technology enables a wider class of problems to be solved than what was previously possible. You can think of scaling up to bigger problems, removing an assumption of the SOTA approaches etc. Challenges for this direction include: ensuring problem-tech fit, avoiding to tailor the problem to the solution, ensuring that the problem is relevant, ensuring that the problem is tractable in the first place. When the problem is entirely new, it may be hard to benchmark the proposed solution. In this case, a comparison between an out-of-the-box and adjusted solution may serve as benchmark.</p>
+<p>The second type of AI thesis research takes a well known benchmark problem (digit recognition, inverted pendulum) or even problem instance (MNIST, CartPole-V0) and proposes an technological innovation in order to solve it. The innovation can either target the primary metric associated with the problem (cross entropy, total return)  or some secondary metric (interpretability, compute, transferability etc.). Usually, the benchmark problem is well studied and benchmarking is easy. However, actually outperforming the SOTA can be very challenging. When a novel metric is targeted, it needs to be a proper metric and its relevance needs to be properly argued (measures the right thing, measures something important, has the right statistical properties, can be obtained relatively easily etc.).</p>
+<p>While a combination of both novel problem and solution is possible, the downsides of both directions add up: you now have a setting in which you are unsure whether the problem is solvable, you need to argue that it is relevant and if you solve it with your proposed approach, you need to show (or at least argue) that more simple solutions do not solve it. As a result, this direction involves the study of the problem and various solution direction: its very laborious and risky – and therefore not very popular.</p>
+<p>A third key contribution is what I call an ‘insight’. The insight can either be theoretical or empirical. For example, some convergence proof on a particular learning algorithm or the finding that some activation function is not a critical part of a neural network architecture in practice. Sometimes, theoretical insights are used to derive new algorithms or to simplify existing ones but this is not necessary. One the one hand, both theoretical and empirical insights can have large impact and may result in a paper. On the other hand, there is a high risk of failure. I therefore do generally advise to go out searching for such a contribution for a thesis. Developing the insight typically requires deep understanding of the field, intuition on what makes a good insight, patience and excellence in performing either theoretical/mathematical analysis or doing a big empirical study. However, the most important ingredient is probably luck. Challenges abound for this type of contribution, and I will only list the most salient issues her: the insight may be hard to prove or show and it may be well known by senior researchers or even already published about. Due to their high potential for impact, however, it may be worthwhile to keep an eye open for such insights while working on the thesis. Then, after some development, the insight needs to be thoroughly vetted by discussing it extensively with multiple senior researchers, a thorough literature review and an extensive and critical analysis of the insight.</p>
+<p>There are other types of key contributions as well. These include tooling, datasets, simulators and quantitative research in general. Within AI research, they are not that common and I have found them too be very rare for a thesis.</p>
+<p>##Writing a good thesis
+Unfortunately, obtaining a good contribution is just the start. A major part of the thesis project is getting it out in written form. However, the act of writing a thesis largely does not at all consist of putting down words on Overleaf. I do not think there is some formula for writing a good thesis. But there are some general pitfalls to avoid and things that may help some people.</p>
+<p>Before listing these, the first observation I want to make is that writing is the inverse of reading. Whereas in reading you go from words → sentences → sections → chapters → understanding, in writing you go from understanding → chapters → sections → sentences → words. Starting out by writing full sentences with nicely chosen words is a major mistake for students and I try to actively challenge students to ask feedback on bullet points, draft outlines, word clouds etc. Usually, the feedback is much more useful than feedback on a full piece of writing.</p>
+<p>I think of writing as a process of organizing thoughts. Putting down words on Overleaf is only the very last step in that process of organization. The words themselves have to be chosen to organize the thoughts of the reader. This can only be done if there is some target structure the author is aiming for.</p>
+<p>So the very first step in the writing process is identifying the target structure. Organizing thoughts is in itself is a major challenge and it is not a familiar one to many. There has typically been little room for it in between reading work, exercises and exams.</p>
+<p>For many people, the first step of the writing process does not involve any actual writing at all. It may involve sketching, diagramming, walking around, doing sports, taking a shower or playing an instrument. I find that for many people, talking about the research helps a lot. Somehow, structuring thoughts in a conversation with parents, peers or random strangers feels more natural than structuring them in a \(\LaTeX\) document somehow.</p>
+<p>Formally presenting the research can also be very helpful. However, creating a good presentation also requires a first step of organizing thoughts. So, try to keep your slide editor closed for now ;)
+While organizing thoughts like that, you can already start writing. Random notes work. Outlining a structure of chapters works. Bullet points and clouds of keywords work. Fully formed sentences do not work at all.</p>
+<p>After having come up with some chapter structure, draft some figures. These could be tables comparing related work, graphs outlining trends, images with example input/output, diagrams of architectures or experimental setup etc. They can be sketches at first, i.e. if you’re still waiting for results or are unsure of what literature to include. Choosing the right figure is a bit of an art, and you will see it if you have it. So try different things and see what works best. Some guiding principles: the figure should adhere to standards first, and be visually pleasing second. The figure should tell the story by itself as much as possible. The labels should be readable and the figure should fit the style of the document. After putting the figures and sketches in roughly the right place, you can continue writing.</p>
+<p>A trope of academic writing is that you first write chapters, then write sections, then write paragraphs (key words or key sentences), then sentences and finally words. It’s a trope for a reason! You only start caring about using the right words at the very end. Here, applying structure is important as well. Be precise and consistent: pick a word and use the same word across the text. Use signaling words to guide the reader through. Do not be afraid of repetition across Chapters. Avoid informal language and use hedging. Apply creativity with caution and make sure that creative writing serves the content: it should add to clarity and not distract.</p>
+<p>##Process &amp; Structure
+The process of a thesis is a bit wobbly and I find it very hard to write anything useful about it in general. The one thing I will briefly touch upon is the scope of the research. The scope of the research should follow a flattened diamond shape. I assume that some kind of research project description, made by some project owner is already in place. The project owner may be a PhD. student, university staff or external organization. The project owner is involved in the project somehow, mostly as supervisor.</p>
+<p>The project description usually contains a set of research goals or questions. These are not <em>your</em> research questions, but aim to demarcate a research area of interest to the project owner. It is your job to take these and make them into your research questions. You do this based on project owner needs, needs of other stakeholders, related work and identified risks and limitations. You obtain these by talking to the project owner, talking to other stakeholders, by doing literature review and by a feasibility analysis. You should follow the ‘fan-out’ structure of the diamond shape here. The scope of what your research could include should increase. You should come up with backup plans, alternative questions, investigate adjacent research fields etc. For all I care, you even consider other supervisors or other partners in the project.</p>
+<p>You now have a set of possible directions to go into. You select one based on feasibility, personal interests, personal skills &amp; abilities, time constraints etc. Here the ‘fan-in’ of the project scope starts. However, beware that the selected direction might not pan out. If it doesn’t, you’ll have to backtrack and take another route. You have reached the ‘flattened’ part of the diamond. A key mistake is to stick to a selected direction stubbornly. Another key mistake is to go for the hardest route first. The goal is to achieve <em>some</em> contribution, not to revolutionize the field. If the simple thing works out, then there is always opportunity to add to the project scope. This is a great way to avoid the risk of not having anything to show when the deadline approaches.</p>
+<h2 id="managing-expectations">Managing Expectations</h2>
+<p>In my experience, students come in all forms, shapes and sizes. Many are interested in the research for its own sake. Some loose that interest when doing the research work. And I am totally fine with that. In general, I find it helps to manage expectations in the following way.</p>
+<p>There are some minimal requirements that have to be in place for passing the thesis. There has to be some reasonable novelty, depth and quality of the thesis itself. Note that making the internship host company very happy (or making them a lot of money) is not on the list. Note that impressive results is not on the list either. Only aim for these things when the other stuff is (almost) already in the bag.</p>
+<p>Many students want to write a conference/journal paper. Here, impressive results are part of the list. Getting to impressive results typically requires multiple tries. Most students only have one try at hand. Thinking about a paper only makes sense if you have something to write about. That should be a focus before thinking about a paper.</p>
+<h2 id="responsibilities--coaching">Responsibilities &amp; Coaching</h2>
+<p>I have heard many stories about students’ frustrations, anger, despair about their thesis. I think that there are three orthogonal explanations for these bad thesis experiences. I’ll discuss them in somewhat random order.</p>
+<p>The first source of frustration is misaligned student expectations. Most students have been trained in an environment of reading, exercises and exams. Behaviors that work well in this highly structured and relatively clear environment, fail miserably in the thesis environment. The challenges in the old environment where set up to be aced. Applying oneself, putting time in, working hard, following a strict schedule and focus work well on hard but crisply formulated challenges in the old environment. But the challenges in the new environment are usually as much internal to the student as they are external. In the old environment, students should avoid failure. In the new environment, there should be room for failure. In the old environment, the next challenge is usually one page flip away. In the new environment, challenges have to be chewed on for weeks or even months on end.</p>
+<p>The second source of frustration is a miscommunication about responsibilities. The supervisor is not an employer or teacher so much as a guide or coach. The student is in the final stages of their education and is given a final opportunity to display their ability to perform research independently. Independence is a key component of the thesis and students should be challenged to do things themselves. Independence involves all stages of the research: coming up with proper research questions, a research design, keeping stakeholders in the loop, managing the writing process, asking for feedback etc.</p>
+<p>A final source of frustration is poor coaching. This has to do with the internal challenges that many students face during their thesis work. A supervisor should, IMHO, just as much supervise the content and process of the project as they should coach the person doing the work. The thesis process is a transformative one which often challenges the student in all their faculties. Therefore, feedback should not only touch upon the content of the project but also the behaviors of the person performing the work. Critical questions should come with encouragement. Discussions should come with listening. Feedback should include criticism and praise.</p>
+
+</main>
+
+  <footer>
+  <hr/>
+  
+  
+  <a href="/index.xml"><img src='https://simpleicons.org/icons/rss.svg'></a>
+  
+  <a href="https://github.com/florisdenhengst/"><img src='https://simpleicons.org/icons/github.svg'></a>
+  
+  <a href="https://www.linkedin.com/in/floris-den-hengst-06ab7534/"><img src='https://simpleicons.org/icons/linkedin.svg'></a>
+  
+  <a href="https://orcid.org/0000-0002-2092-9904"><img src='/imgs/orcid.svg'></a>
+  
+  <a href="https://scholar.google.nl/citations?user=8I8iSHkAAAAJ"><img src='/imgs/gscholar.png'></a>
+  
+  | Created with <a href="https://gohugo.io">Hugo</a> and <a href="https://florisdenhengst.github.io/metis-example/">Metis</a> theme | © <a href="https://florisdenhengst.github.io">Floris den Hengst</a> 2018 &ndash; 2022
+  
+  </footer>
+  </body>
+</html>
+
