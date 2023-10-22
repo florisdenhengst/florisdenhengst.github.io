@@ -86,12 +86,12 @@ of GPs and then move on to applications in RL.-->
 <h2 id="the-gaussian-process">The Gaussian Process</h2>
 <p>Hoping not to have scared anyone off with all of this jargon, let&rsquo;s retry with some definitions:
 &ldquo;A Gaussian Process is a collection of random variables, any finite number of which have a joint
-Gaussian distribution.&quot;<sup id="fnref:1"><a href="#fn:1" class="footnote-ref" role="doc-noteref">1</a></sup> Formally, some function \(f(x)\) over a set \(X\) follows a GP
+Gaussian distribution.&rdquo;<sup id="fnref:1"><a href="#fn:1" class="footnote-ref" role="doc-noteref">1</a></sup> Formally, some function \(f(x)\) over a set \(X\) follows a GP
 distribution as defined by some mean \(\mu\) and a covariance function or <em>kernel</em> \(k(x,
-x')\):
-$$f(x) \sim \mathcal{GP}(\mu(x), k(x, x')), \forall xx' \in X \\\
+x&rsquo;)\):
+$$f(x) \sim \mathcal{GP}(\mu(x), k(x, x&rsquo;)), \forall xx&rsquo; \in X \\\
 \mu(x) = \mathbb{E}[f(x)]  \\\
-k(x, x') = \mathbb{E}[(f(x) - \mu(x))(f(x') - \mu(x'))]
+k(x, x&rsquo;) = \mathbb{E}[(f(x) - \mu(x))(f(x&rsquo;) - \mu(x&rsquo;))]
 $$
 A simple example of a GP is visualized in Figure 2. Here, \(X = \mathbb{R}\) and \(f(x) = Y
 \).</p>
@@ -133,14 +133,14 @@ $$
 In supervised prediction settings with target variable \(Y\), \(\Sigma\) and \(\mu_Y\) can
 be estimated based on the training set and predictions on input \(X\) can be made.<sup id="fnref:3"><a href="#fn:3" class="footnote-ref" role="doc-noteref">3</a></sup> Note that
 \(Y\) is a full distribution rather than a mle or map. So far, we have seen that a GP is a
-distribution over functions with mean \(\mu\) and kernel \(k(x, x')\) and can be understood as
+distribution over functions with mean \(\mu\) and kernel \(k(x, x&rsquo;)\) and can be understood as
 a generalization of a multivariate Gaussian distribution. How can we actually fit it to a data set
 and use for predictions though?</p>
 <h2 id="gp-regression">GP Regression</h2>
 <p>Let&rsquo;s consider using GPs for regression. The task in regression is to estimate some target
-function \(f(X) \to y, y \in \mathbb{R}\) using a set of pairs \(X', y'\) (the training set)
+function \(f(X) \to y, y \in \mathbb{R}\) using a set of pairs \(X&rsquo;, y&rsquo;\) (the training set)
 and then use the estimated \(\hat{f}\) to predict the values \(y^*\) for a test set
-\(X^*\). In most regression tasks, \(y'\) is measured using some imprecise sensors and comes
+\(X^*\). In most regression tasks, \(y&rsquo;\) is measured using some imprecise sensors and comes
 with a measurement error. This error can be expressed using an assumed independent error term
 \(\epsilon\) with variance \(\sigma\). The full model then becomes:
 $$
@@ -148,7 +148,7 @@ $$
 f(x) &amp; \sim \mathcal{GP}(\mu, K), x \in X \\\
 \epsilon &amp; \sim \mathcal{N}(0, \sigma_n^2I) \text{ indep. of }f(x) \\\
 y_i &amp; = f(x_i) + \epsilon_i \\\
-\overbrace{x_1, \dots, x_\ell}^{\text{unobserved}: (X,y)^*} &amp; ,  \overbrace{x_{\ell+1}, \dots, x_n}^{\text{observed:}(X,y)'} \in S \\\
+\overbrace{x_1, \dots, x_\ell}^{\text{unobserved}: (X,y)^*} &amp; ,  \overbrace{x_{\ell+1}, \dots, x_n}^{\text{observed:}(X,y)&rsquo;} \in S \\\
 y_1, \dots, y_\ell ~&amp;,~  y_{\ell+1}, \dots, y_n \in \mathbb{R} \\\
 \mu_{x_1}, \dots ~&amp;,~ \dots, \mu_{x_n}
 \end{align}
@@ -156,25 +156,25 @@ $$</p>
 <p>The next step in the regression process consists of applying the marginalization and conditioning
 operations in a meaningful way. Marginalization gives:
 $$
-\begin{bmatrix} y' \\ y^* \end{bmatrix}
+\begin{bmatrix} y&rsquo; \\ y^* \end{bmatrix}
 \sim \mathcal{N}(\mu, \begin{bmatrix}
-K(X',X')+\sigma^2_nI &amp; K(X', X^*) \\
-K(X^*, X') &amp; K(X^*, X^*)
+K(X&rsquo;,X&rsquo;)+\sigma^2_nI &amp; K(X&rsquo;, X^*) \\
+K(X^*, X&rsquo;) &amp; K(X^*, X^*)
 \end{bmatrix})
 $$
-Conditioning on the training set \(X', y'\) and the known test points \(X^*\) gives:
+Conditioning on the training set \(X&rsquo;, y&rsquo;\) and the known test points \(X^*\) gives:
 \begin{align}
-y^*|X', y', X^* \sim &amp;~ \mathcal{N}(\hat{\mu}, K(X^*, X^*) - K(X^*, X')[K(X', X') + \sigma^2_nI]^{-1}K(X',
+y^*|X&rsquo;, y&rsquo;, X^* \sim &amp;~ \mathcal{N}(\hat{\mu}, K(X^*, X^*) - K(X^*, X&rsquo;)[K(X&rsquo;, X&rsquo;) + \sigma^2_nI]^{-1}K(X&rsquo;,
 X^*) \\\
 \end{align}
 Typically, the input can be transformed so that \(\mu = 0\), in which case
 $$
-\hat{\mu} = \mathbb{E}[y^*|X', y', X^*] = K(X^*, X')[K(X', X') + \sigma^2_nI]^{-1}y'
+\hat{\mu} = \mathbb{E}[y^*|X&rsquo;, y&rsquo;, X^*] = K(X^*, X&rsquo;)[K(X&rsquo;, X&rsquo;) + \sigma^2_nI]^{-1}y'
 $$
 Neat, we now have an expression of the <em>full distribution</em> over values to be predicted \(y^*\)!
 This is something not many ml models offer out of the box. We can obtain a point-estimates with
 confidence intervals by looking at the expecation and standard deviation at a particular
-\(y^*_i\).  All we need now is to get our hands on a training set \(X', y'\) and some
+\(y^*_i\).  All we need now is to get our hands on a training set \(X&rsquo;, y&rsquo;\) and some
 <em>evaluation</em> set of interest \(X^*\) and make some estimate for the error term \(\sigma^2_n\).
 Oh, and we need to define which kernel \(K\) fits our domain well.</p>
 <h2 id="domain-knowledge-and-kernels">Domain knowledge and kernels</h2>
@@ -217,21 +217,21 @@ various Reinforcement Learning approaches. For example, when estimating
 transitions in model-based RL[^4].</p>
 <p>Gaussian processes can also used to estimate (V) and (Q) functions within
 e.g. <a href="/posts/personalized-dm">dialogue management</a> and for <a href="/posts/rl-for-pers-survey/">personalization</a> with RL.</p>
-<section class="footnotes" role="doc-endnotes">
+<div class="footnotes" role="doc-endnotes">
 <hr>
 <ol>
-<li id="fn:1" role="doc-endnote">
+<li id="fn:1">
 <p>CE Rasmussen, CKI Williams, &ldquo;Gaussian Processes for Machine Learning.&rdquo;, MIT Press, 2006&#160;<a href="#fnref:1" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
 </li>
-<li id="fn:2" role="doc-endnote">
+<li id="fn:2">
 <p><a href="https://stats.stackexchange.com/a/30600">This</a> Stats Stack Exchange contains all the details for the derivation of the conditioning formula.&#160;<a href="#fnref:2" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
 </li>
-<li id="fn:3" role="doc-endnote">
+<li id="fn:3">
 <p>Note that this kind of regression where each random variable denotes a feature of the models is more akin to Bayesian Regression than to GPs. In GPs, random variables denote train and test points of the model.
 [^4] See e.g. the <a href="https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.303.7735&amp;rep=rep1&amp;type=pdf">PILCO</a> approach&#160;<a href="#fnref:3" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
 </li>
 </ol>
-</section>
+</div>
 
 </main>
 

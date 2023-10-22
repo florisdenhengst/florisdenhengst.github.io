@@ -15,7 +15,7 @@
       <guid>https://florisdenhengst.github.io/posts/rl-for-swp-lod/</guid>
       <description>A paper on Deep Reinforcement Learning (DRL) for strategic workforce planning co-authored with Yannick Smit, Sandjai Bhulai and Ehsan Mehdad is accepted as a long paper at the LOD conference.
 In this paper, we model strategic workforce planning as a stochastic nonlinear optimization problem, learn a generative model from data and use it as a simulator in a simulation-optimization approach.
-We show that the DRL approach enables optimizing an organizations&#39; strategic workforce goals directly.</description>
+We show that the DRL approach enables optimizing an organizations&amp;rsquo; strategic workforce goals directly.</description>
     </item>
     
     <item>
@@ -48,7 +48,7 @@ In many settings of interest such as in healthcare and finance, we&amp;rsquo;ll 
       <guid>https://florisdenhengst.github.io/posts/rl-at-workshop/</guid>
       <description>Upcoming weekend will be a virtual conference on reinforcement learning (RL) in real-life.
 It is of great interest to me primarily due to its program but also due to its organisation.
-The virtual conference consists of two panel sessions and a virtual `poster&#39; session with pre-recorded videos. There is a slack workspace for discussion, and questions to the panelists can be submitted up-front. Poster presenters are to host their own video channel.</description>
+The virtual conference consists of two panel sessions and a virtual `poster&amp;rsquo; session with pre-recorded videos. There is a slack workspace for discussion, and questions to the panelists can be submitted up-front. Poster presenters are to host their own video channel.</description>
     </item>
     
     <item>
@@ -57,7 +57,7 @@ The virtual conference consists of two panel sessions and a virtual `poster&#39;
       <pubDate>Thu, 09 Apr 2020 09:22:30 +0100</pubDate>
       
       <guid>https://florisdenhengst.github.io/posts/rl-for-pers-survey/</guid>
-      <description>Update 2020-06-27: this paper was presented as a `poster&#39;(video) at the RL for Real Life virtual Conference. Read more here.
+      <description>Update 2020-06-27: this paper was presented as a `poster&amp;rsquo;(video) at the RL for Real Life virtual Conference. Read more here.
 Reinforcement learning (RL) is becoming an increasingly popular tool to tackle hairy problems using data. A nice example of such a hairy problem is personalization. Personalization refers to a task central to many applications of data science and machine learning: to change a system so that its personal relevance to an individual or category of individuals is increased.</description>
     </item>
     

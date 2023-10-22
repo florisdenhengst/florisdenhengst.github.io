@@ -13,7 +13,7 @@
       <pubDate>Tue, 21 Jun 2022 14:12:24 +0200</pubDate>
       
       <guid>https://florisdenhengst.github.io/posts/intro-to-gps/</guid>
-      <description>Gaussian Processes are a fascinating tool for usage in RL due to modelling uncertainty and data efficiency I briefly introduced GP&amp;rsquo;s and shown how/why they are used in RL  Gaussian processes (GPs) are a fascinating tool in the machine learning toolbelt. They stand out for a couple of reasons: some people will like them for their data efficiency, others love them for their ability to incorporate domain knowledge and yet others will love them for their visual or mathematical beauty.</description>
+      <description>Gaussian Processes are a fascinating tool for usage in RL due to modelling uncertainty and data efficiency I briefly introduced GP&amp;rsquo;s and shown how/why they are used in RL Gaussian processes (GPs) are a fascinating tool in the machine learning toolbelt. They stand out for a couple of reasons: some people will like them for their data efficiency, others love them for their ability to incorporate domain knowledge and yet others will love them for their visual or mathematical beauty.</description>
     </item>
     
     <item>
@@ -32,7 +32,7 @@ Music bingo, however, puts a nice twist to the original game that makes it more 
       <pubDate>Fri, 15 Feb 2019 12:41:16 +0100</pubDate>
       
       <guid>https://florisdenhengst.github.io/posts/rl-for-dialog-management/</guid>
-      <description>The value offering of most contemporary chatbot platforms consists of packaging state-of-art Automated Speech Recognition (ASR, or &amp;lsquo;speech-to-text&amp;rsquo;), Natural Language Understanding (NLU) and Voice Synthesis into a comprehensive API. The API typically also includes some programming model for dialog control such as DialogFlows&#39; Contexts and follow-up Intents and Alexa&amp;rsquo;s Dialog model. Implementing the right dialog controller is up to the developer. Figure 1 summarizes this in a diagram, with the handcrafted modules in green and with a keyboard in the top right.</description>
+      <description>The value offering of most contemporary chatbot platforms consists of packaging state-of-art Automated Speech Recognition (ASR, or &amp;lsquo;speech-to-text&amp;rsquo;), Natural Language Understanding (NLU) and Voice Synthesis into a comprehensive API. The API typically also includes some programming model for dialog control such as DialogFlows&amp;rsquo; Contexts and follow-up Intents and Alexa&amp;rsquo;s Dialog model. Implementing the right dialog controller is up to the developer. Figure 1 summarizes this in a diagram, with the handcrafted modules in green and with a keyboard in the top right.</description>
     </item>
     
   </channel>

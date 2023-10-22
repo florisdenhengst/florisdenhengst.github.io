@@ -37,7 +37,7 @@
 <p>The value offering of most contemporary chatbot platforms consists of packaging state-of-art
 Automated Speech Recognition (ASR, or &lsquo;speech-to-text&rsquo;), Natural Language Understanding (NLU) and
 Voice Synthesis into a comprehensive API. The API typically also includes some programming
-model for dialog control such as DialogFlows' <a href="https://www.youtube.com/watch?v=-tOamKtmxdY">Contexts and follow-up
+model for dialog control such as DialogFlows&rsquo; <a href="https://www.youtube.com/watch?v=-tOamKtmxdY">Contexts and follow-up
 Intents</a> and Alexa&rsquo;s <a href="https://developer.amazon.com/docs/custom-skills/define-the-dialog-to-collect-and-confirm-required-information.html">Dialog
 model</a>.
 Implementing the right dialog controller is up to the developer. Figure 1 summarizes this in a
@@ -87,7 +87,7 @@ have a look at a simple FSM for a turnstile.</p>
 input symbols as something external to the system provides these.  In dialog, states are defined
 in terms of the available information in the system and transitions are formed by user inputs that
 have been processed by ASR/NLU. The developer specifies a system response for every state of the
-conversation. Adding an &lsquo;end state&rsquo; for Marvin&rsquo;s ordering system brings us to the following FSM,
+conversation. Adding an &rsquo;end state&rsquo; for Marvin&rsquo;s ordering system brings us to the following FSM,
 where transitions are labelled based on user inputs being positive (green) negative (red) or
 something else (blue):</p>
 <figure style="max-width:80%;">
@@ -129,14 +129,14 @@ intention in the dialog state. This generalization is referred to as a Partially
 (POMDP) and adds the notion of observations to the MDP. Stay tuned for more on POMDPs and RL
 algorithms!</p>
 <p><em>Update</em>: see <a href="/posts/personalized-dm">this post</a> if you&rsquo;re interested in the usage of RL for <em>personalization</em> of the dialogue control</p>
-<section class="footnotes" role="doc-endnotes">
+<div class="footnotes" role="doc-endnotes">
 <hr>
 <ol>
-<li id="fn:1" role="doc-endnote">
+<li id="fn:1">
 <p>Check out the outcomes of the Dialog State Tracking Challenges: DSTC <a href="http://camdial.org/~mh521/dstc/">2 &amp; 3</a>, <a href="http://www.colips.org/workshop/dstc4/">4</a>,  <a href="http://workshop.colips.org/dstc5/">5</a>, <a href="http://workshop.colips.org/dstc6/">6</a>,  <a href="http://workshop.colips.org/dstc7/">7</a>&#160;<a href="#fnref:1" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
 </li>
 </ol>
-</section>
+</div>
 
 </main>
 
