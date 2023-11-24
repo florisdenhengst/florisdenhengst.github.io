@@ -1,0 +1,190 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>PhD. Defense Talk | Floris den Hengst&#39;s Homepage</title>
+    <link rel="stylesheet" href="/css/style.css" />
+    <link rel="stylesheet" href="/css/fonts.css" />
+	<script src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/latest.js?config=TeX-MML-AM_CHTML'
+		    async></script>
+    
+  </head>
+
+  <body>
+    <nav>
+    <ul class="menu">
+      
+      <li><a href="/">Home</a></li>
+      
+      <li><a href="/posts/">Blog</a></li>
+      
+      <li><a href="/about/">About</a></li>
+      
+      <li><a href="/tags/">Tags</a></li>
+      
+    </ul>
+    <hr/>
+    </nav>
+
+<div class="article-meta">
+<h1><span class="title">PhD. Defense Talk</span></h1>
+
+<h2 class="date">2023/11/14</h2>
+</div>
+
+<main>
+<p>Today I succesfully defended my PhD. thesis <a href="https://doi.org/10.5463/thesis.390">Learning to
+Behave</a> - Reinforcement Learning in Human Contexts.
+I am now a doctor of philosophy!</p>
+<p>In the Netherlands it is customary to give a 10 minute talk prior to the actual defence. This talk
+is aimed at a general audience because the defense is a public affair and because it is nice to
+tell friends and family what the thesis is about!</p>
+<p>Please find the transcript below and the accompanying slide deck <a href="/presentations/talk_defense.pdf">here</a>.</p>
+<p><img src="/imgs/phd-defense.png" alt="Picture of me defending my thesis"></p>
+<h2 id="transcript">Transcript</h2>
+<h3 id="slide-1">slide 1</h3>
+<p>Dear Rector, dear attendees</p>
+<p>Today I want to talk to you about artificial intelligence, or &lsquo;AI&rsquo; for short.</p>
+<h3 id="slide-2">slide 2</h3>
+<p>AI looks at how intelligence in nature can be imitated in machines. Because intelligent
+beings in nature can learn behavior based on experience, it is a good idea to ALSO give machines a
+learning ability. In machines, behavior can be seen as a sequence of choices. Every choice is made
+based on the situation at that moment. Depending on the task that the machine has to learn, we can
+give a score. The right behavior then consists of making choices that yield the highest possible
+score. To achieve a high score, you must look ahead.</p>
+<h3 id="slide-3">slide 3</h3>
+<p>It is important to take uncertainties into account. After all, no one is certain about
+the future</p>
+<h3 id="slide-4">slide 4</h3>
+<p>With these basic principles of reinforcement learning &ndash; or reinforcement learning in
+English &ndash; we have managed to achieve impressive results.</p>
+<h3 id="slide-5">slide 5</h3>
+<p>This made it possible to beat the best people in an age-old mind sport, to design better computer
+chips and to fly through gates very quickly with a drone. These applications show that
+reinforcement learning is feasible in practice, can handle complex problems and therefore has the
+potential to make our lives better.  But they also disappoint in some ways. They have been
+achieved in highly controlled environments,
+where people only play a limited role.</p>
+<h3 id="slide-6">slide 6</h3>
+<p>That is why I looked at environments where people play a major role. In part 1 of the
+dissertation I describe applications of reinforcement learning in such environments.</p>
+<h3 id="slide-7">slide 7</h3>
+<p>I first looked at the ways in which reinforcement learning has been used to adapt
+systems to the wishes, preferences and needs of individuals &ndash; personalization for short. Together
+with Eoin Grua, Ali el Hassouni and Mark Hoogendoorn, I analyzed 166 papers and placed them in an
+overview. This overview has made it clear that reinforcement learning is increasingly being used
+for personalization, what the most important areas of application are and which algorithms are
+commonly used. This overview can be used if you want to apply reinforcement learning in practice
+or if you want to develop new techniques.</p>
+<h3 id="slide-8">slide 8</h3>
+<p>After this, together with Joost Bosman from ING and my promoters Mark Hoogendoorn and
+Frank van Harmelen, I looked at personalizing talk shows &ndash; also known as chatbots. I focused on
+talk shows that make recommendations for, for example, restaurants and computer equipment. I added
+a new recommendation task to test how such programs perform on new tasks. I also compared two
+variants to personalize such chatbots using reinforcement learning. These variants outperformed
+the best hand-made program to date in an evaluation with simulated users. The variants also
+appeared to do a lot better as the uncertainty about the user&rsquo;s wishes increased. Unfortunately, a
+good simulator is not always available. To allow a program to learn, example conversations can be
+used. These must then be assigned a score so that the program can deduce what was a good choice
+during a conversation and what was not.</p>
+<h3 id="slide-9">slide 9</h3>
+<p>Because many users do not like to give these scores, they must be determined by third
+parties. Giving scores by third parties is an expensive process and it is therefore important that
+this is done properly.</p>
+<h3 id="slide-10">slide 10</h3>
+<p>That is why, together with Mickey van Zeelt and Hadi Hashemi from ING, I developed an
+interface for collecting satisfaction scores and showed that useful scores can be collected with
+this.</p>
+<h3 id="slide-11">slide 11</h3>
+<p>I then looked at obtaining an optimal workforce. This is a difficult task: you have to
+look ahead and there are many uncertainties surrounding the careers of employees. In addition, it
+is difficult to indicate exactly what a perfect workforce looks like. To tackle these problems,
+together with Yannick Smit, Ehsan Mehdad from ING and Sandjai Bhulai, I designed a solution
+where HR specialists can set their goals based on key figures that are known to them.
+After some calculations, we find which profiles should be recruited to achieve the organization&rsquo;s
+goals. Unpredictable events are taken into account and the solution is therefore easier to use
+than existing solutions.</p>
+<h3 id="slide-12">slide 12</h3>
+<p>With these applications in mind, I take you to part 2 of my dissertation, where I
+looked at improving reinforcement learning using symbolic knowledge. The learning algorithms from
+part I use acquired experience to continually improve an existing solution.</p>
+<h3 id="slide-13">slide 13</h3>
+<p>You can save a solution as a large table where a suitable action is ready for every
+situation. However, if there are many different situations, these tables need to be so large that
+there is &ndash; or never will be &ndash; a computer that can store them. That&rsquo;s why we often store
+solutions as a neural network. You can see such a neural network as a long formula into which we
+enter a situation and from which an action emerges. We adjust the formula slightly each time,
+until there is little room for improvement. We then hope that the formula can also be used in new
+situations.</p>
+<h3 id="slide-14">slide 14</h3>
+<p>Such extremely long formulas are relatively easy to train, can handle complex problems
+and have proven themselves in practice. However, they offer no safety guarantees, sometimes
+require a lot of experience and are not easy to manipulate directly. Symbolic AI techniques have
+something to offer on these last three points. These techniques describe solutions using symbols
+that we humans can understand.</p>
+<h3 id="slide-15">slide 15</h3>
+<p>Because AI techniques with and without symbols complement each other, it is a good
+idea to combine them.</p>
+<h3 id="slide-16">slide 16</h3>
+<p>I did that to learn how we can use ventilators in the ICU better and safer. With
+Martijn Otten and Paul Elbers from the Amsterdam UMC, co-supervisor Vincent Francois-Lavet and my
+supervisors, I tried to find institutions from a large database that reduce the risk of
+mortality. We also provided symbolic knowledge from a medical guideline to ensure that only
+settings were chosen that cause little lung damage. The evaluation showed that the solution chose
+more varied settings than the doctor. The settings chosen were always in accordance with the
+guideline. We can therefore expect that the additional lung damage will be limited. Does it also
+reduce mortality? The data does not provide a definitive answer to this. However, they do point
+in the direction of less mortality and that offers perspective for further evaluations.</p>
+<h3 id="slide-17">slide 17</h3>
+<p>After this, I looked with co-supervisor and promoters to see how we can make the
+learned talk program from Part I safe. For this purpose I used a financial guideline that bank
+employees must adhere to in their contact with customers. This turned out to be more complicated
+than the medical guideline. The result was that, when the safety rules were applied, the scores
+of the talk show became extremely low. To solve this, we looked at whether we could use the
+guideline to determine whether the conversation was progressing. We then gave the algorithm a
+score based on this progress. In this way, the safe algorithm turned out to be able to learn.
+With the previous two techniques we force the algorithm to <em>not</em> do something. Can we also force
+the algorithm to do something <em>right</em>? To this end, I and my promotional team looked at the use
+of instructions to learn faster.</p>
+<h3 id="slide-18">slide 18</h3>
+<p>The difficult thing about good instructions is that - viewed from a machine - they are
+extremely difficult to use. Good instructions are often a bit vague: they only describe the major
+steps and leave the specific &lsquo;how&rsquo; of those steps unspecified. Executing the steps therefore does
+not always produce a desired result.</p>
+<h3 id="slide-19">slide 19</h3>
+<p>We have developed a new technique to use such instructions for learning. We used games
+for this in which you can perform all kinds of different tasks with a number of &lsquo;big steps&rsquo;. Our
+program proved to be able to learn faster with instructions and was better at reusing previously
+learned solutions. It also turned out to be possible to solve a completely new task using
+previously learned solutions.</p>
+<h3 id="slide-20">slide 20</h3>
+<p>As I showed you, I have made contributions in the field of reinforcement learning in
+human environments. I have shown how reinforcement learning can be applied for personalization,
+in dialogue systems and for an organizational planning issue. I have shown symbolic knowledge can
+be used to learn more safely and faster. In doing so, I have removed obstacles to the use of
+reinforceme nt learning in human environments and contributed to ways to make our lives better
+with reinforcement learning.</p>
+
+</main>
+
+  <footer>
+  <hr/>
+  
+  
+  <a href="/index.xml"><img src='https://simpleicons.org/icons/rss.svg'></a>
+  
+  <a href="https://github.com/florisdenhengst/"><img src='https://simpleicons.org/icons/github.svg'></a>
+  
+  <a href="https://www.linkedin.com/in/floris-den-hengst-06ab7534/"><img src='https://simpleicons.org/icons/linkedin.svg'></a>
+  
+  <a href="https://orcid.org/0000-0002-2092-9904"><img src='/imgs/orcid.svg'></a>
+  
+  <a href="https://scholar.google.nl/citations?user=8I8iSHkAAAAJ"><img src='/imgs/gscholar.png'></a>
+  
+  | Created with <a href="https://gohugo.io">Hugo</a> and <a href="https://florisdenhengst.github.io/metis-example/">Metis</a> theme | © <a href="https://florisdenhengst.github.io">Floris den Hengst</a> 2018 &ndash; 2022
+  
+  </footer>
+  </body>
+</html>
+

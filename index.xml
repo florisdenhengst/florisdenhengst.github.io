@@ -6,7 +6,17 @@
     <description>Recent content in Everything Flo&#39;s on Floris den Hengst&#39;s Homepage</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 20 Jan 2023 15:48:55 +0100</lastBuildDate><atom:link href="https://florisdenhengst.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 14 Nov 2023 13:19:56 +0100</lastBuildDate><atom:link href="https://florisdenhengst.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>PhD. Defense Talk</title>
+      <link>https://florisdenhengst.github.io/posts/phdthesis/</link>
+      <pubDate>Tue, 14 Nov 2023 13:19:56 +0100</pubDate>
+      
+      <guid>https://florisdenhengst.github.io/posts/phdthesis/</guid>
+      <description>Today I succesfully defended my PhD. thesis Learning to Behave - Reinforcement Learning in Human Contexts. I am now a doctor of philosophy!
+In the Netherlands it is customary to give a 10 minute talk prior to the actual defence. This talk is aimed at a general audience because the defense is a public affair and because it is nice to tell friends and family what the thesis is about!</description>
+    </item>
+    
     <item>
       <title>Student Supervision</title>
       <link>https://florisdenhengst.github.io/posts/student_supervision/</link>
