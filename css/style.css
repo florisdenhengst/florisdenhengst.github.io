@@ -40,7 +40,11 @@ a {
     pre code { background: none; }
     a {
       color: #fffff8;
-  }
+    }
+    footer img {
+        filter: invert(1);
+    }
+}
 
 
 /* header and footer areas */
