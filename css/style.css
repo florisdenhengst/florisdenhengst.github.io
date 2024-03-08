@@ -30,13 +30,13 @@ a {
 }
 @media (prefers-color-scheme: dark) {
     body {
-      background-color: #1b1b1b;
+      background-color: rgb(35,35,39);
       color: #fffff8;
     }
     hr {
       color: #ddd;
     }
-    code { background: #1b1b1b; }
+    code { background: rgb(35,35,39); }
     pre code { background: none; }
     a {
       color: #fffff8;
