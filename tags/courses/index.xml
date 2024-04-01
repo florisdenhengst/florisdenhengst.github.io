@@ -6,7 +6,18 @@
     <description>Recent content in Courses on Floris den Hengst&#39;s Homepage</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 16 Jul 2022 10:27:22 +0200</lastBuildDate><atom:link href="https://florisdenhengst.github.io/tags/courses/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 11 Mar 2024 08:58:11 +0200</lastBuildDate><atom:link href="https://florisdenhengst.github.io/tags/courses/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AI &amp; Health Winter School 2024</title>
+      <link>https://florisdenhengst.github.io/posts/winter-school-ai-health/</link>
+      <pubDate>Mon, 11 Mar 2024 08:58:11 +0200</pubDate>
+      
+      <guid>https://florisdenhengst.github.io/posts/winter-school-ai-health/</guid>
+      <description>I contributed a talk on guideline-informed reinforcement learning with Annette ten Teije to the AI &amp;amp; Health Winter School organized by the VU Campus Center Artificial Intelligence &amp;amp; Health.
+The winter school was attended by over 100 in-person and virtual participants interested in the intersection of AI &amp;amp; Health.
+You may find the slides which focus on how the knowledge-driven AI (information in the guidelines) was combined with reinforcement learning (learning optimal decisions from data) here.</description>
+    </item>
+    
     <item>
       <title>Reinforcement Learning Summer School 2022</title>
       <link>https://florisdenhengst.github.io/posts/reinforcement-learning-summer-school/</link>

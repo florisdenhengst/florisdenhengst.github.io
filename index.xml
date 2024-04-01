@@ -19,6 +19,17 @@ Dialogue systems may be uncertain about the user intent. In these cases, the sys
     </item>
     
     <item>
+      <title>AI &amp; Health Winter School 2024</title>
+      <link>https://florisdenhengst.github.io/posts/winter-school-ai-health/</link>
+      <pubDate>Mon, 11 Mar 2024 08:58:11 +0200</pubDate>
+      
+      <guid>https://florisdenhengst.github.io/posts/winter-school-ai-health/</guid>
+      <description>I contributed a talk on guideline-informed reinforcement learning with Annette ten Teije to the AI &amp;amp; Health Winter School organized by the VU Campus Center Artificial Intelligence &amp;amp; Health.
+The winter school was attended by over 100 in-person and virtual participants interested in the intersection of AI &amp;amp; Health.
+You may find the slides which focus on how the knowledge-driven AI (information in the guidelines) was combined with reinforcement learning (learning optimal decisions from data) here.</description>
+    </item>
+    
+    <item>
       <title>PhD. Defense Talk</title>
       <link>https://florisdenhengst.github.io/posts/phdthesis/</link>
       <pubDate>Tue, 14 Nov 2023 13:19:56 +0100</pubDate>
