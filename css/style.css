@@ -2,7 +2,7 @@ body {
   max-width: 900px;
   margin: auto;
   padding: 1em;
-  line-height: 1.5em;
+  line-height: 1.7em;
   background-color: #fffff8;
 
 }
@@ -77,6 +77,12 @@ figure, iframe, video {
   text-align:center
 }
 main { hyphens: auto; }
+body p {
+    padding-left: 20px;
+}
+body ul {
+    padding-left: 30px;
+}
 blockquote {
   background: #f9f9f9;
   border-left: 5px solid #ccc;
