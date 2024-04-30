@@ -2,13 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://florisdenhengst.github.io/</loc>
+    <lastmod>2024-04-30T10:33:02+02:00</lastmod>
+  </url><url>
+    <loc>https://florisdenhengst.github.io/teaching/</loc>
+    <lastmod>2024-04-30T10:33:02+02:00</lastmod>
+  </url><url>
+    <loc>https://florisdenhengst.github.io/publications/</loc>
+    <lastmod>2024-04-30T10:30:36+02:00</lastmod>
+  </url><url>
     <loc>https://florisdenhengst.github.io/posts/cicc/</loc>
     <lastmod>2024-03-29T21:30:50+01:00</lastmod>
   </url><url>
     <loc>https://florisdenhengst.github.io/tags/dialog-systems/</loc>
-    <lastmod>2024-03-29T21:30:50+01:00</lastmod>
-  </url><url>
-    <loc>https://florisdenhengst.github.io/</loc>
     <lastmod>2024-03-29T21:30:50+01:00</lastmod>
   </url><url>
     <loc>https://florisdenhengst.github.io/posts/</loc>
