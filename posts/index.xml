@@ -6,7 +6,17 @@
     <description>Recent content in Posts on Floris den Hengst&#39;s Homepage</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 12 Jun 2024 13:00:44 +0200</lastBuildDate><atom:link href="https://florisdenhengst.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 29 Aug 2024 14:56:45 +0200</lastBuildDate><atom:link href="https://florisdenhengst.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Research Visit DFKI Saarbrücken</title>
+      <link>https://florisdenhengst.github.io/posts/dfki-saarbrucken/</link>
+      <pubDate>Thu, 29 Aug 2024 14:56:45 +0200</pubDate>
+      
+      <guid>https://florisdenhengst.github.io/posts/dfki-saarbrucken/</guid>
+      <description>I visited Verena Wolf&amp;rsquo;s Neuro-Mechanistic Modeling in Saarbrücken and met with her many interesting group members there to discuss RL, safety, formal methods and RL, and causality.
+The visit was a great opportunity to discuss recent trends and share ideas.</description>
+    </item>
+    
     <item>
       <title>Workshop and Demo Contributions to HHAI 2024</title>
       <link>https://florisdenhengst.github.io/posts/hhai2024/</link>
