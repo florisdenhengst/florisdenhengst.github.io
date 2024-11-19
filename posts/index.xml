@@ -6,7 +6,28 @@
     <description>Recent content in Posts on Floris den Hengst&#39;s Homepage</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 29 Aug 2024 14:56:45 +0200</lastBuildDate><atom:link href="https://florisdenhengst.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 19 Nov 2024 09:43:55 +0100</lastBuildDate><atom:link href="https://florisdenhengst.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bluesky</title>
+      <link>https://florisdenhengst.github.io/posts/bluesky/</link>
+      <pubDate>Tue, 19 Nov 2024 09:43:55 +0100</pubDate>
+      
+      <guid>https://florisdenhengst.github.io/posts/bluesky/</guid>
+      <description>Today I joined Bluesky, a social media platform that aims to put users front-and-centre again.
+See here for my profile and use this list of starter packs:
+Neurosymbolic AI starter pack RL AI in healthcare AI </description>
+    </item>
+    
+    <item>
+      <title>BNAIC/BeNeLearn 2024</title>
+      <link>https://florisdenhengst.github.io/posts/bnaic2024/</link>
+      <pubDate>Sat, 19 Oct 2024 09:32:44 +0100</pubDate>
+      
+      <guid>https://florisdenhengst.github.io/posts/bnaic2024/</guid>
+      <description>I will attend the 2024 BNAIC/BeNeLearn to present our work on guideline-reinforcement informed reinforcement learning in critical care.
+See the poster here (PDF) and slides here (PDF).</description>
+    </item>
+    
     <item>
       <title>Research Visit DFKI Saarbrücken</title>
       <link>https://florisdenhengst.github.io/posts/dfki-saarbrucken/</link>
