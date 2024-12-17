@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>How to easily make a GenAI SVG logo | Floris den Hengst&#39;s Homepage</title>
+    <link rel="stylesheet" href="/css/style.css" />
+    <link rel="stylesheet" href="/css/fonts.css" />
+	<script src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/latest.js?config=TeX-MML-AM_CHTML'
+		    async></script>
+    
+  </head>
+
+  <body>
+    <nav>
+    <ul class="menu">
+      
+      <li><a href="/">Home</a></li>
+      
+      <li><a href="/publications/">Publications</a></li>
+      
+      <li><a href="/teaching/">Teaching</a></li>
+      
+      <li><a href="/posts/">Posts</a></li>
+      
+      <li><a href="/about/">About</a></li>
+      
+      <li><a href="/tags/">Tags</a></li>
+      
+    </ul>
+    <hr/>
+    </nav>
+
+<div class="article-meta">
+    <h1><span class="title">How to easily make a GenAI SVG logo</span></h1>
+    
+    <h2 class="date">2024/12/17</h2>
+</div>
+
+<main>
+    <p>Recently, I needed a logo for a project I am working. I love SVG images for their versatility, but have the ability nor interest in creating on myself from scratch.
+So why not use an LLM for this?</p>
+<p>I tried to create an SVG directly with all the current (2024-12-17) easily available offerings<sup id="fnref:1"><a href="#fn:1" class="footnote-ref" role="doc-noteref">1</a></sup>.
+They all failed miserably.</p>
+<figure>
+<!--	{{ readFile "static/imgs/genai-svg-logo/logo1.svg" | safeHTML }}-->
+	<img src="/imgs/genai-svg-logo/logo1.svg" />
+<figcaption>
+Figure 1: SVG "icon depicting two fingers (one human, one robotic) holding a Sharpie-style pen", according to OpenAI GPT-4o.
+</figcaption>
+</figure>
+<p>This was not working out, so instead I opted to first generate the image &ldquo;in vector art style&rdquo; and then convert it to svg using <a href="https://online.rapidresizer.com/tracer.php">this</a> useful tool which traces the image and converts it to svg flawlessly.</p>
+<figure>
+<!--	{{ readFile "static/imgs/genai-svg-logo/logo1.svg" | safeHTML }}-->
+	<img src="/imgs/genai-svg-logo/sharpie-logo.svg" />
+<figcaption>
+Figure 2: SVG created by converting a regular rendered icon created by OpenAI GPT-4o in webp format to SVG using Rapid Resizer's tracing tool.
+</figcaption>
+</figure>
+<p>Not bad!</p>
+<div class="footnotes" role="doc-endnotes">
+<hr>
+<ol>
+<li id="fn:1">
+<p>OpenAI GPT-4o, Anthropic Claude-3.5-Haiku, Google Gemini/Imagen-3.&#160;<a href="#fnref:1" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+</ol>
+</div>
+
+</main>
+
+
+  <footer>
+  <hr/>
+  
+  
+  <a href="/index.xml"><img src='https://simpleicons.org/icons/rss.svg'></a>
+  
+  <a href="https://github.com/florisdenhengst/"><img src='https://simpleicons.org/icons/github.svg'></a>
+  
+  <a href="https://florisdh.bsky.social"><img src='https://simpleicons.org/icons/bluesky.svg'></a>
+  
+  <a href="https://orcid.org/0000-0002-2092-9904"><img src='/imgs/orcid.svg'></a>
+  
+  <a href="https://scholar.google.nl/citations?user=8I8iSHkAAAAJ"><img src='/imgs/gscholar.png'></a>
+  
+  <a href="https://www.linkedin.com/in/floris-den-hengst-06ab7534/"><img src='https://simpleicons.org/icons/linkedin.svg'></a>
+  
+  | Created with <a href="https://gohugo.io">Hugo</a> and <a href="https://florisdenhengst.github.io/metis-example/">Metis</a> theme | © <a href="https://florisdenhengst.github.io">Floris den Hengst</a> 2018 &ndash; 2025
+  
+  </footer>
+  </body>
+</html>
+

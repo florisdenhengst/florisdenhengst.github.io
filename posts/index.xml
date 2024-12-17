@@ -6,7 +6,18 @@
     <description>Recent content in Posts on Floris den Hengst&#39;s Homepage</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 19 Nov 2024 09:43:55 +0100</lastBuildDate><atom:link href="https://florisdenhengst.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 17 Dec 2024 12:28:05 +0100</lastBuildDate><atom:link href="https://florisdenhengst.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to easily make a GenAI SVG logo</title>
+      <link>https://florisdenhengst.github.io/posts/genai-svg-logo/</link>
+      <pubDate>Tue, 17 Dec 2024 12:28:05 +0100</pubDate>
+      
+      <guid>https://florisdenhengst.github.io/posts/genai-svg-logo/</guid>
+      <description>Recently, I needed a logo for a project I am working. I love SVG images for their versatility, but have the ability nor interest in creating on myself from scratch. So why not use an LLM for this?
+I tried to create an SVG directly with all the current (2024-12-17) easily available offerings1. They all failed miserably.
+Figure 1: SVG &#34;icon depicting two fingers (one human, one robotic) holding a Sharpie-style pen&#34;</description>
+    </item>
+    
     <item>
       <title>Bluesky</title>
       <link>https://florisdenhengst.github.io/posts/bluesky/</link>
