@@ -42,7 +42,7 @@
 So why not use an LLM for this?</p>
 <p>I tried to create an SVG directly with all the current (2024-12-17) easily available offerings<sup id="fnref:1"><a href="#fn:1" class="footnote-ref" role="doc-noteref">1</a></sup>.
 They all failed miserably.</p>
-<figure>
+<figure style="max-width:80%">
 <!--	{{ readFile "static/imgs/genai-svg-logo/logo1.svg" | safeHTML }}-->
 	<img src="/imgs/genai-svg-logo/logo1.svg" />
 <figcaption>
@@ -50,8 +50,7 @@ Figure 1: SVG "icon depicting two fingers (one human, one robotic) holding a Sha
 </figcaption>
 </figure>
 <p>This was not working out, so instead I opted to first generate the image &ldquo;in vector art style&rdquo; and then convert it to svg using <a href="https://online.rapidresizer.com/tracer.php">this</a> useful tool which traces the image and converts it to svg flawlessly.</p>
-<figure>
-<!--	{{ readFile "static/imgs/genai-svg-logo/logo1.svg" | safeHTML }}-->
+<figure style="max-width:80%">
 	<img src="/imgs/genai-svg-logo/sharpie-logo.svg" />
 <figcaption>
 Figure 2: SVG created by converting a regular rendered icon created by OpenAI GPT-4o in webp format to SVG using Rapid Resizer's tracing tool.
