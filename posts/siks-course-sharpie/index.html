@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>SHARPIE Tutorial in SIKS course | Floris den Hengst&#39;s Homepage</title>
+    <link rel="stylesheet" href="/css/style.css" />
+    <link rel="stylesheet" href="/css/fonts.css" />
+	<script src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/latest.js?config=TeX-MML-AM_CHTML'
+		    async></script>
+    
+  </head>
+
+  <body>
+    <nav>
+    <ul class="menu">
+      
+      <li><a href="/">Home</a></li>
+      
+      <li><a href="/publications/">Publications</a></li>
+      
+      <li><a href="/teaching/">Teaching</a></li>
+      
+      <li><a href="/posts/">Posts</a></li>
+      
+      <li><a href="/about/">About</a></li>
+      
+      <li><a href="/tags/">Tags</a></li>
+      
+    </ul>
+    <hr/>
+    </nav>
+
+<div class="article-meta">
+    <h1><span class="title">SHARPIE Tutorial in SIKS course</span></h1>
+    
+    <h2 class="date">2025/10/21</h2>
+</div>
+
+<main>
+    <p>We contributed a tutorial on doing real-world experiments involving humans and sequential decision
+making agents to a national PhD course on <a href="https://siks.nl/activities/activities/siks-course-rl-for-ahi-2025/">Reinforcement Learning for Adaptive Hybrid
+Intelligence</a>. This two-day
+course is about making AI agents adapt to humans using reinforcement learning.</p>
+<p>We set two goals for our tutorial:</p>
+<ol>
+<li>Hands-on experience with hybrid RL example</li>
+<li>Familiarize participants with SHARPIE and a hybrid RL algorithm</li>
+</ol>
+<h1 id="sharpie">SHARPIE</h1>
+<p><a href="https://github.com/hybrid-intelligence/SHARPIE">SHARPIE</a> is a framework for creating live demo&rsquo;s
+and conducting real-world experiments involving humans and RL agents.
+It&rsquo;s core idea is to allow researchers to incorporate a human at any point in the RL
+agent-environment interface:
+<img src="/imgs/sharpie-interface.png" alt="Agent-environment interface with human"></p>
+<p>You can read more about the motivation for SHARPIE <a href="https://doi.org/10.48550/arXiv.2501.19245">on
+ArXiv</a> or check out the code base and a demo video <a href="https://github.com/hybrid-intelligence/SHARPIE">on
+GitHub</a>.</p>
+<h1 id="tutorial">Tutorial</h1>
+<p>In the tutorial, participants were asked to implement a simple tabular version of
+<a href="https://ieeexplore.ieee.org/abstract/document/4640845">TAMER</a> in the FrozenLake environment.
+This early-days RLHF algorithm learns an immediate reward model from human feedback and then
+derives a policy that maximizes the immediate rewards. This can lead to very fast learning, if the
+feedback provided by the human is correct and timely.</p>
+<p>The tutorial took only 45 mins and consisted of a plenary introduction (~10mins), a hands-on
+break-out part (30 mins), and a brief plenary reflection (~5 mins). The hands-on break-out part
+consisted of two tracks:</p>
+<ol>
+<li>Setting up a TAMER micro-experiment in a locally hosted SHARPIE, by writing code to set the
+experiment and get the algorithm to learn correctly.</li>
+<li>Participating in a TAMER micro-experiment in an <a href="https://sharpie.science.uu.nl/">online hosted</a> SHARPIE,
+by interacing with a TAMER agent and answering some analysis and reflection questions.</li>
+</ol>
+<h1 id="learnings">Learnings</h1>
+<p>I hope the participants were inspired to think about different interaction paradigms between
+humans and RL agents, but here I focus on what <em>I</em> learned from this tutorial.</p>
+<p>Firstly, it really helps to formulate and share the learning outcomes for the participants. This
+helps to get everyone on the same page quickly.</p>
+<p>Secondly, the importance of offering various approaches to meet the learning goals for different
+students stood out. The two break-out tracks were both challenging, but in different ways. The
+setting-up track had technological challenges whereas the participation track had more
+experiential and conceptual challenges.</p>
+<p>Another learning is to take enough time for reflection, consolidation and follow-up. Due to delays
+in the programme and overall chaos ensuing from helping 25 eager PhD. students to conduct an
+exercise involving programming / RL / tech dependencies etc. I failed to focus on the reflection
+and follow-up parts of the tutorial. Next time, I will ensure to draw more attention to this
+part as it is important to make sure the material solidifies and so that there is an opportunity
+for students to continue thinking about the material.</p>
+<p>Overall, it was very exciting to see all students interacting with a system I am happy to
+contribute to.</p>
+
+</main>
+
+
+  <footer>
+  <hr/>
+  
+  
+  <a href="/index.xml"><img src='https://simpleicons.org/icons/rss.svg'></a>
+  
+  <a href="https://github.com/florisdenhengst/"><img src='https://simpleicons.org/icons/github.svg'></a>
+  
+  <a href="https://florisdh.bsky.social"><img src='https://simpleicons.org/icons/bluesky.svg'></a>
+  
+  <a href="https://orcid.org/0000-0002-2092-9904"><img src='/imgs/orcid.svg'></a>
+  
+  <a href="https://scholar.google.nl/citations?user=8I8iSHkAAAAJ"><img src='/imgs/gscholar.png'></a>
+  
+  <a href="https://www.linkedin.com/in/floris-den-hengst-06ab7534/"><img src='https://simpleicons.org/icons/linkedin.svg'></a>
+  
+  | Created with <a href="https://gohugo.io">Hugo</a> and <a href="https://florisdenhengst.github.io/metis-example/">Metis</a> theme | © <a href="https://florisdenhengst.github.io">Floris den Hengst</a> 2018 &ndash; 2025
+  
+  </footer>
+  </body>
+</html>
+
