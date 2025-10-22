@@ -6,7 +6,18 @@
     <description>Recent content in reinforcement learning on Floris den Hengst&#39;s Homepage</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 19 Oct 2024 09:32:44 +0100</lastBuildDate><atom:link href="https://florisdenhengst.github.io/tags/reinforcement-learning/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 21 Oct 2025 16:38:32 +0200</lastBuildDate><atom:link href="https://florisdenhengst.github.io/tags/reinforcement-learning/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tutorial in PhD course</title>
+      <link>https://florisdenhengst.github.io/posts/siks-course-sharpie/</link>
+      <pubDate>Tue, 21 Oct 2025 16:38:32 +0200</pubDate>
+      
+      <guid>https://florisdenhengst.github.io/posts/siks-course-sharpie/</guid>
+      <description>We contributed a tutorial on doing real-world experiments involving humans and sequential decision making agents to a national PhD course on Reinforcement Learning for Adaptive Hybrid Intelligence. This two-day course is about making AI agents adapt to humans using reinforcement learning.
+We set two goals for our tutorial:
+Hands-on experience with hybrid RL example Familiarize participants with SHARPIE and a hybrid RL algorithm SHARPIE SHARPIE is a framework for creating live demo&amp;rsquo;s and conducting real-world experiments involving humans and RL agents.</description>
+    </item>
+    
     <item>
       <title>BNAIC/BeNeLearn 2024</title>
       <link>https://florisdenhengst.github.io/posts/bnaic2024/</link>

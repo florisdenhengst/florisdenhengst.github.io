@@ -6,7 +6,18 @@
     <description>Recent content in talk on Floris den Hengst&#39;s Homepage</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 16 Apr 2025 11:29:45 +0200</lastBuildDate><atom:link href="https://florisdenhengst.github.io/tags/talk/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 21 Oct 2025 16:38:32 +0200</lastBuildDate><atom:link href="https://florisdenhengst.github.io/tags/talk/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tutorial in PhD course</title>
+      <link>https://florisdenhengst.github.io/posts/siks-course-sharpie/</link>
+      <pubDate>Tue, 21 Oct 2025 16:38:32 +0200</pubDate>
+      
+      <guid>https://florisdenhengst.github.io/posts/siks-course-sharpie/</guid>
+      <description>We contributed a tutorial on doing real-world experiments involving humans and sequential decision making agents to a national PhD course on Reinforcement Learning for Adaptive Hybrid Intelligence. This two-day course is about making AI agents adapt to humans using reinforcement learning.
+We set two goals for our tutorial:
+Hands-on experience with hybrid RL example Familiarize participants with SHARPIE and a hybrid RL algorithm SHARPIE SHARPIE is a framework for creating live demo&amp;rsquo;s and conducting real-world experiments involving humans and RL agents.</description>
+    </item>
+    
     <item>
       <title>ICT.OPEN 2025</title>
       <link>https://florisdenhengst.github.io/posts/ictopen25/</link>
@@ -15,6 +26,26 @@
       <guid>https://florisdenhengst.github.io/posts/ictopen25/</guid>
       <description>I spoke at ICT.OPEN 2025 about a joint work with Cas Oude Hoekstra on predicting conditional percentiles with fully transparent models using the pinball loss and symbolic regression.
 More to follow soon hopefully!</description>
+    </item>
+    
+    <item>
+      <title>BNAIC/BeNeLearn 2024</title>
+      <link>https://florisdenhengst.github.io/posts/bnaic2024/</link>
+      <pubDate>Sat, 19 Oct 2024 09:32:44 +0100</pubDate>
+      
+      <guid>https://florisdenhengst.github.io/posts/bnaic2024/</guid>
+      <description>I will attend the 2024 BNAIC/BeNeLearn to present our work on guideline-reinforcement informed reinforcement learning in critical care.
+See the poster here (PDF) and slides here (PDF).</description>
+    </item>
+    
+    <item>
+      <title>IJCAI 2022</title>
+      <link>https://florisdenhengst.github.io/posts/ijcai2022/</link>
+      <pubDate>Mon, 01 Aug 2022 16:43:48 +0200</pubDate>
+      
+      <guid>https://florisdenhengst.github.io/posts/ijcai2022/</guid>
+      <description>Last week I attended the International Joint Conference on Artificial Intelligence (IJCAI) in Vienna. Being `co-hosted&amp;rsquo; with the European Conference on AI, the official name of this years&amp;rsquo; edition was IJCAI-ECAI 2022. It was a great week with too many impressions and learnings to list. Here are some personal highlights:
+presented our paper on Option Machines as a long talk in the `Deep Reinforcement Learning&amp;rsquo; session presented our paper on Safe &amp;amp; Efficient RL with Planning for Potential at the Safe RL workshop met many great people with great humor, ideas and experience attended keynotes by two Giants in AI: Stuart Russel and Judea Pearl had a nice visit of the Vienna.</description>
     </item>
     
   </channel>
