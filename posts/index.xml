@@ -6,7 +6,17 @@
     <description>Recent content in Posts on Floris den Hengst&#39;s Homepage</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 13 Nov 2025 15:52:31 +0100</lastBuildDate><atom:link href="https://florisdenhengst.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 19 Mar 2026 17:02:26 +0100</lastBuildDate><atom:link href="https://florisdenhengst.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>HIAL Guest Lecture</title>
+      <link>https://florisdenhengst.github.io/posts/hial-guest-lecture/</link>
+      <pubDate>Thu, 19 Mar 2026 17:02:26 +0100</pubDate>
+      
+      <guid>https://florisdenhengst.github.io/posts/hial-guest-lecture/</guid>
+      <description>Today I gave a guest lecture for the course Human-interactive Agent Learning. I presented SHARPIE, our tool for controlled human-RL experiments.
+During the lecture, I showed how SHARPIE can be used to implement a simple evaluative feedback experiment using TAMEr in the MountainCar environment. Nothing beats putting the pressure on as a bit of live coding does, but then it remains so much fun when you can actually show how simple it is to implement this experiment with the right tools at hand.</description>
+    </item>
+    
     <item>
       <title>University Teaching Qualification</title>
       <link>https://florisdenhengst.github.io/posts/utq/</link>
