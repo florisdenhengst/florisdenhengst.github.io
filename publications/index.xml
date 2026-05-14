@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications on Floris den Hengst&#39;s Homepage</title>
+    <link>https://florisdenhengst.github.io/publications/</link>
+    <description>Recent content in Publications on Floris den Hengst&#39;s Homepage</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 30 Apr 2024 10:30:36 +0200</lastBuildDate><atom:link href="https://florisdenhengst.github.io/publications/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>

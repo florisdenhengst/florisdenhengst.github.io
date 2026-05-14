@@ -6,15 +6,150 @@
     <description>Recent content in Everything Flo&#39;s on Floris den Hengst&#39;s Homepage</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 20 Jan 2023 15:48:55 +0100</lastBuildDate><atom:link href="https://florisdenhengst.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 19 Mar 2026 17:02:26 +0100</lastBuildDate><atom:link href="https://florisdenhengst.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>HIAL Guest Lecture</title>
+      <link>https://florisdenhengst.github.io/posts/hial-guest-lecture/</link>
+      <pubDate>Thu, 19 Mar 2026 17:02:26 +0100</pubDate>
+      
+      <guid>https://florisdenhengst.github.io/posts/hial-guest-lecture/</guid>
+      <description>Today I gave a guest lecture for the course Human-interactive Agent Learning. I presented SHARPIE, our tool for controlled human-RL experiments.
+During the lecture, I showed how SHARPIE can be used to implement a simple evaluative feedback experiment using TAMEr in the MountainCar environment. Nothing beats putting the pressure on as a bit of live coding does, but then it remains so much fun when you can actually show how simple it is to implement this experiment with the right tools at hand.</description>
+    </item>
+    
+    <item>
+      <title>University Teaching Qualification</title>
+      <link>https://florisdenhengst.github.io/posts/utq/</link>
+      <pubDate>Thu, 13 Nov 2025 15:52:31 +0100</pubDate>
+      
+      <guid>https://florisdenhengst.github.io/posts/utq/</guid>
+      <description>Small post to celebrate that I obtained my University Teaching Qualification.
+This has been useful in designing teaching material, presenting it in a way to reach an audience with a diverse background, supervising students, creating tests and evaluation material, and to understand how to continuously improve on all these aspects.</description>
+    </item>
+    
+    <item>
+      <title>Tutorial in PhD course</title>
+      <link>https://florisdenhengst.github.io/posts/siks-course-sharpie/</link>
+      <pubDate>Tue, 21 Oct 2025 16:38:32 +0200</pubDate>
+      
+      <guid>https://florisdenhengst.github.io/posts/siks-course-sharpie/</guid>
+      <description>We contributed a tutorial on doing real-world experiments involving humans and sequential decision making agents to a national PhD course on Reinforcement Learning for Adaptive Hybrid Intelligence. This two-day course is about making AI agents adapt to humans using reinforcement learning.
+We set two goals for our tutorial:
+ Hands-on experience with hybrid RL example Familiarize participants with SHARPIE and a hybrid RL algorithm  SHARPIE SHARPIE is a framework for creating live demo&amp;rsquo;s and conducting real-world experiments involving humans and RL agents.</description>
+    </item>
+    
+    <item>
+      <title>ICT.OPEN 2025</title>
+      <link>https://florisdenhengst.github.io/posts/ictopen25/</link>
+      <pubDate>Wed, 16 Apr 2025 11:29:45 +0200</pubDate>
+      
+      <guid>https://florisdenhengst.github.io/posts/ictopen25/</guid>
+      <description>I spoke at ICT.OPEN 2025 about a joint work with Cas Oude Hoekstra on predicting conditional percentiles with fully transparent models using the pinball loss and symbolic regression.
+More to follow soon hopefully!</description>
+    </item>
+    
+    <item>
+      <title>How to easily make a GenAI SVG logo</title>
+      <link>https://florisdenhengst.github.io/posts/genai-svg-logo/</link>
+      <pubDate>Tue, 17 Dec 2024 12:28:05 +0100</pubDate>
+      
+      <guid>https://florisdenhengst.github.io/posts/genai-svg-logo/</guid>
+      <description>Recently, I needed a logo for a project I am working. I love SVG images for their versatility, but have the ability nor interest in creating on myself from scratch. So why not use an LLM for this?
+I tried to create an SVG directly with all the current (2024-12-17) easily available offerings1. They all failed miserably.
+ Figure 1: SVG &#34;icon depicting two fingers (one human, one robotic) holding a Sharpie-style pen&#34;</description>
+    </item>
+    
+    <item>
+      <title>Bluesky</title>
+      <link>https://florisdenhengst.github.io/posts/bluesky/</link>
+      <pubDate>Tue, 19 Nov 2024 09:43:55 +0100</pubDate>
+      
+      <guid>https://florisdenhengst.github.io/posts/bluesky/</guid>
+      <description>Today I joined Bluesky, a social media platform that aims to put users front-and-centre again.
+See here for my profile and use this list of starter packs:
+ Neurosymbolic AI starter pack RL AI in healthcare AI  </description>
+    </item>
+    
+    <item>
+      <title>BNAIC/BeNeLearn 2024</title>
+      <link>https://florisdenhengst.github.io/posts/bnaic2024/</link>
+      <pubDate>Sat, 19 Oct 2024 09:32:44 +0100</pubDate>
+      
+      <guid>https://florisdenhengst.github.io/posts/bnaic2024/</guid>
+      <description>I will attend the 2024 BNAIC/BeNeLearn to present our work on guideline-reinforcement informed reinforcement learning in critical care.
+See the poster here (PDF) and slides here (PDF).</description>
+    </item>
+    
+    <item>
+      <title>Research Visit DFKI Saarbrücken</title>
+      <link>https://florisdenhengst.github.io/posts/dfki-saarbrucken/</link>
+      <pubDate>Thu, 29 Aug 2024 14:56:45 +0200</pubDate>
+      
+      <guid>https://florisdenhengst.github.io/posts/dfki-saarbrucken/</guid>
+      <description>I visited Verena Wolf&amp;rsquo;s Neuro-Mechanistic Modeling in Saarbrücken and met with her many interesting group members there to discuss RL, safety, formal methods and RL, and causality.
+The visit was a great opportunity to discuss recent trends and share ideas.</description>
+    </item>
+    
+    <item>
+      <title>Workshop and Demo Contributions to HHAI 2024</title>
+      <link>https://florisdenhengst.github.io/posts/hhai2024/</link>
+      <pubDate>Wed, 12 Jun 2024 13:00:44 +0200</pubDate>
+      
+      <guid>https://florisdenhengst.github.io/posts/hhai2024/</guid>
+      <description>We have contributed papers to the health care workshop and demo track of the Hybrid Human AI Conference. Our contributions target the development of a lifestyle support chatbot for diabetes patients based on knowledge, semantic user modeling and active information gathering.</description>
+    </item>
+    
+    <item>
+      <title>English Proficiency Assessment</title>
+      <link>https://florisdenhengst.github.io/posts/english_proficiency/</link>
+      <pubDate>Tue, 30 Apr 2024 11:12:31 +0200</pubDate>
+      
+      <guid>https://florisdenhengst.github.io/posts/english_proficiency/</guid>
+      <description>Teaching staff who are active in one of our English programmes must prove that their English level is at EFSET C1.
+I am happy to share that, based on an oral assessment with two examiners from the VU language centre, my English level has been assessed as C2.
+I am still allowed to teach Msc. courses!</description>
+    </item>
+    
+    <item>
+      <title>CICC: Conformal Intent Classification and Clarification</title>
+      <link>https://florisdenhengst.github.io/posts/cicc/</link>
+      <pubDate>Fri, 29 Mar 2024 21:30:50 +0100</pubDate>
+      
+      <guid>https://florisdenhengst.github.io/posts/cicc/</guid>
+      <description>Our work on hashtag#task-oriented dialogue systems has been accepted at ACL&amp;rsquo;s 2024 NAACL Findings.
+Task-oriented dialogue systems help users solve tasks in their daily lives. In order to do so, these systems have to identify the users intent.
+Dialogue systems may be uncertain about the user intent. In these cases, the system can ask the user to clarify, i.e. select from the intents that the system considers likely given the user input.</description>
+    </item>
+    
+    <item>
+      <title>AI &amp; Health Winter School 2024</title>
+      <link>https://florisdenhengst.github.io/posts/winter-school-ai-health/</link>
+      <pubDate>Mon, 11 Mar 2024 08:58:11 +0200</pubDate>
+      
+      <guid>https://florisdenhengst.github.io/posts/winter-school-ai-health/</guid>
+      <description>I contributed a talk on guideline-informed reinforcement learning with Annette ten Teije to the AI &amp;amp; Health Winter School organized by the VU Campus Center Artificial Intelligence &amp;amp; Health.
+The winter school was attended by over 100 in-person and virtual participants interested in the intersection of AI &amp;amp; Health.
+You may find the slides which focus on how the knowledge-driven AI (information in the guidelines) was combined with reinforcement learning (learning optimal decisions from data) here.</description>
+    </item>
+    
+    <item>
+      <title>PhD. Defense Talk</title>
+      <link>https://florisdenhengst.github.io/posts/phdthesis/</link>
+      <pubDate>Tue, 14 Nov 2023 13:19:56 +0100</pubDate>
+      
+      <guid>https://florisdenhengst.github.io/posts/phdthesis/</guid>
+      <description>Today I succesfully defended my PhD. thesis Learning to Behave - Reinforcement Learning in Human Contexts. I am now a doctor of philosophy!
+In the Netherlands it is customary to give a 10 minute talk prior to the actual defence. This talk is aimed at a general audience because the defense is a public affair and because it is nice to tell friends and family what the thesis is about!</description>
+    </item>
+    
     <item>
       <title>Student Supervision</title>
       <link>https://florisdenhengst.github.io/posts/student_supervision/</link>
       <pubDate>Fri, 20 Jan 2023 15:48:55 +0100</pubDate>
       
       <guid>https://florisdenhengst.github.io/posts/student_supervision/</guid>
-      <description>For the past couple of years, I have always loved working with Msc. and Bsc. students. Usually, I have been involved in the role supervisor for the thesis. In doing so, I have learned a great deal about what makes a good AI research project and what I can do to make these projects better.
-Below is a distillation of some of that knowledge. Some of it applies only to theses, but most of it applies more broadly.</description>
+      <description>For the past couple of years, I have always loved working with Msc. and Bsc. students. Usually, I have been involved in the role of supervisor for the thesis. In doing so, I have learnt a lot about what makes a good AI research project and what I can do to improve these projects.
+The following is a distillation of some of that knowledge. Some of it applies only to theses, but most of it applies more broadly.</description>
     </item>
     
     <item>
@@ -97,7 +232,7 @@ The virtual conference consists of two panel sessions and a virtual `poster&#39;
       
       <guid>https://florisdenhengst.github.io/posts/rl-for-pers-survey/</guid>
       <description>Update 2020-06-27: this paper was presented as a `poster&#39;(video) at the RL for Real Life virtual Conference. Read more here.
-Reinforcement learning (RL) is becoming an increasingly popular tool to tackle hairy problems using data. A nice example of such a hairy problem is personalization. Personalization refers to a task central to many applications of data science and machine learning: to change a system so that its personal relevance to an individual or category of individuals is increased.</description>
+ Reinforcement learning (RL) is becoming an increasingly popular tool to tackle hairy problems using data. A nice example of such a hairy problem is personalization. Personalization refers to a task central to many applications of data science and machine learning: to change a system so that its personal relevance to an individual or category of individuals is increased.</description>
     </item>
     
     <item>
