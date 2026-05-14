@@ -1,6 +1,6 @@
 body {
 /*  font-family: Optima, Candara, Calibri, Arial, sans-serif; */
-    font-family: et-book, Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif
+    font-family: et-book, Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif;
 }
 code {
   font-family: "Lucida Console", Monaco, monospace;
@@ -8,7 +8,11 @@ code {
 h1, h2, h3, h4, h5, h6 {
   font-weight: normal;
 }
-
 p {
     text-align: justify;
+    font-weight: lighter;
+}
+strong {
+    font-weight: bold;
+    font-style: italic;
 }
