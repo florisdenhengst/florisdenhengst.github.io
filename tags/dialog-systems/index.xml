@@ -13,7 +13,7 @@
       <pubDate>Fri, 29 Mar 2024 21:30:50 +0100</pubDate>
       
       <guid>https://florisdenhengst.github.io/posts/cicc/</guid>
-      <description>Our work on hashtag#task-oriented dialogue systems has been accepted at ACL&amp;rsquo;s 2024 NAACL Findings.
+      <description>Our work on task-oriented dialogue systems has been accepted at ACL&amp;rsquo;s 2024 NAACL Findings.
 Task-oriented dialogue systems help users solve tasks in their daily lives. In order to do so, these systems have to identify the users intent.
 Dialogue systems may be uncertain about the user intent. In these cases, the system can ask the user to clarify, i.e. select from the intents that the system considers likely given the user input.</description>
     </item>

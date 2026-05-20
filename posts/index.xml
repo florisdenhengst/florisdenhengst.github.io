@@ -6,7 +6,19 @@
     <description>Recent content in Posts on Floris den Hengst&#39;s Homepage</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 19 Mar 2026 17:02:26 +0100</lastBuildDate><atom:link href="https://florisdenhengst.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 20 May 2026 12:59:21 +0200</lastBuildDate><atom:link href="https://florisdenhengst.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Symbolic Quantile Regression</title>
+      <link>https://florisdenhengst.github.io/posts/sqr/</link>
+      <pubDate>Wed, 20 May 2026 12:59:21 +0200</pubDate>
+      
+      <guid>https://florisdenhengst.github.io/posts/sqr/</guid>
+      <description>Throwback to this post about ICT.OPEN!
+This research with Cas Hoekstra has by now been published by Transactions on Machine Learning Research.
+We introduce Symbolic Quantile Regression (SQR), a framework that bridges the gap between high-performance numerical prediction and human-level interpretability:
+ SQR generates concise, closed-form mathematical expressions that explain why a specific quantile (like the median or the 90th percentile) is being predicted. Transparency is built-in. In an extensive evaluation of 122 datasets, SQR outperformed existing transparent models and performed comparably to strong black-box baselines.</description>
+    </item>
+    
     <item>
       <title>HIAL Guest Lecture</title>
       <link>https://florisdenhengst.github.io/posts/hial-guest-lecture/</link>
@@ -116,7 +128,7 @@ I am still allowed to teach Msc. courses!</description>
       <pubDate>Fri, 29 Mar 2024 21:30:50 +0100</pubDate>
       
       <guid>https://florisdenhengst.github.io/posts/cicc/</guid>
-      <description>Our work on hashtag#task-oriented dialogue systems has been accepted at ACL&amp;rsquo;s 2024 NAACL Findings.
+      <description>Our work on task-oriented dialogue systems has been accepted at ACL&amp;rsquo;s 2024 NAACL Findings.
 Task-oriented dialogue systems help users solve tasks in their daily lives. In order to do so, these systems have to identify the users intent.
 Dialogue systems may be uncertain about the user intent. In these cases, the system can ask the user to clarify, i.e. select from the intents that the system considers likely given the user input.</description>
     </item>
