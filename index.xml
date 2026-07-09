@@ -1,369 +1,262 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Everything Flo&#39;s on Floris den Hengst&#39;s Homepage</title>
-    <link>https://florisdenhengst.github.io/</link>
-    <description>Recent content in Everything Flo&#39;s on Floris den Hengst&#39;s Homepage</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Wed, 20 May 2026 12:59:21 +0200</lastBuildDate><atom:link href="https://florisdenhengst.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Symbolic Quantile Regression</title>
-      <link>https://florisdenhengst.github.io/posts/sqr/</link>
-      <pubDate>Wed, 20 May 2026 12:59:21 +0200</pubDate>
-      
-      <guid>https://florisdenhengst.github.io/posts/sqr/</guid>
-      <description>Throwback to this post about ICT.OPEN!
-This research with Cas Hoekstra has by now been published by Transactions on Machine Learning Research.
-We introduce Symbolic Quantile Regression (SQR), a framework that bridges the gap between high-performance numerical prediction and human-level interpretability:
- SQR generates concise, closed-form mathematical expressions that explain why a specific quantile (like the median or the 90th percentile) is being predicted. Transparency is built-in. In an extensive evaluation of 122 datasets, SQR outperformed existing transparent models and performed comparably to strong black-box baselines.</description>
-    </item>
-    
-    <item>
-      <title>HIAL Guest Lecture</title>
-      <link>https://florisdenhengst.github.io/posts/hial-guest-lecture/</link>
-      <pubDate>Thu, 19 Mar 2026 17:02:26 +0100</pubDate>
-      
-      <guid>https://florisdenhengst.github.io/posts/hial-guest-lecture/</guid>
-      <description>Today I gave a guest lecture for the course Human-interactive Agent Learning. I presented SHARPIE, our tool for controlled human-RL experiments.
-During the lecture, I showed how SHARPIE can be used to implement a simple evaluative feedback experiment using TAMEr in the MountainCar environment. Nothing beats putting the pressure on as a bit of live coding does, but then it remains so much fun when you can actually show how simple it is to implement this experiment with the right tools at hand.</description>
-    </item>
-    
-    <item>
-      <title>University Teaching Qualification</title>
-      <link>https://florisdenhengst.github.io/posts/utq/</link>
-      <pubDate>Thu, 13 Nov 2025 15:52:31 +0100</pubDate>
-      
-      <guid>https://florisdenhengst.github.io/posts/utq/</guid>
-      <description>Small post to celebrate that I obtained my University Teaching Qualification.
-This has been useful in designing teaching material, presenting it in a way to reach an audience with a diverse background, supervising students, creating tests and evaluation material, and to understand how to continuously improve on all these aspects.</description>
-    </item>
-    
-    <item>
-      <title>Tutorial in PhD course</title>
-      <link>https://florisdenhengst.github.io/posts/siks-course-sharpie/</link>
-      <pubDate>Tue, 21 Oct 2025 16:38:32 +0200</pubDate>
-      
-      <guid>https://florisdenhengst.github.io/posts/siks-course-sharpie/</guid>
-      <description>We contributed a tutorial on doing real-world experiments involving humans and sequential decision making agents to a national PhD course on Reinforcement Learning for Adaptive Hybrid Intelligence. This two-day course is about making AI agents adapt to humans using reinforcement learning.
-We set two goals for our tutorial:
- Hands-on experience with hybrid RL example Familiarize participants with SHARPIE and a hybrid RL algorithm  SHARPIE SHARPIE is a framework for creating live demo&amp;rsquo;s and conducting real-world experiments involving humans and RL agents.</description>
-    </item>
-    
-    <item>
-      <title>ICT.OPEN 2025</title>
-      <link>https://florisdenhengst.github.io/posts/ictopen25/</link>
-      <pubDate>Wed, 16 Apr 2025 11:29:45 +0200</pubDate>
-      
-      <guid>https://florisdenhengst.github.io/posts/ictopen25/</guid>
-      <description>I spoke at ICT.OPEN 2025 about a joint work with Cas Oude Hoekstra on predicting conditional percentiles with fully transparent models using the pinball loss and symbolic regression.
-More to follow soon hopefully!
-update: more has followed, although not soon. The work presented in this talk has been extended substantially and has resulted in a paper in TMLR, see here for details.</description>
-    </item>
-    
-    <item>
-      <title>How to easily make a GenAI SVG logo</title>
-      <link>https://florisdenhengst.github.io/posts/genai-svg-logo/</link>
-      <pubDate>Tue, 17 Dec 2024 12:28:05 +0100</pubDate>
-      
-      <guid>https://florisdenhengst.github.io/posts/genai-svg-logo/</guid>
-      <description>Recently, I needed a logo for a project I am working. I love SVG images for their versatility, but have the ability nor interest in creating on myself from scratch. So why not use an LLM for this?
-I tried to create an SVG directly with all the current (2024-12-17) easily available offerings1. They all failed miserably.
- Figure 1: SVG &#34;icon depicting two fingers (one human, one robotic) holding a Sharpie-style pen&#34;</description>
-    </item>
-    
-    <item>
-      <title>Bluesky</title>
-      <link>https://florisdenhengst.github.io/posts/bluesky/</link>
-      <pubDate>Tue, 19 Nov 2024 09:43:55 +0100</pubDate>
-      
-      <guid>https://florisdenhengst.github.io/posts/bluesky/</guid>
-      <description>Today I joined Bluesky, a social media platform that aims to put users front-and-centre again.
-See here for my profile and use this list of starter packs:
- Neurosymbolic AI starter pack RL AI in healthcare AI  </description>
-    </item>
-    
-    <item>
-      <title>BNAIC/BeNeLearn 2024</title>
-      <link>https://florisdenhengst.github.io/posts/bnaic2024/</link>
-      <pubDate>Sat, 19 Oct 2024 09:32:44 +0100</pubDate>
-      
-      <guid>https://florisdenhengst.github.io/posts/bnaic2024/</guid>
-      <description>I will attend the 2024 BNAIC/BeNeLearn to present our work on guideline-reinforcement informed reinforcement learning in critical care.
-See the poster here (PDF) and slides here (PDF).</description>
-    </item>
-    
-    <item>
-      <title>Research Visit DFKI Saarbrücken</title>
-      <link>https://florisdenhengst.github.io/posts/dfki-saarbrucken/</link>
-      <pubDate>Thu, 29 Aug 2024 14:56:45 +0200</pubDate>
-      
-      <guid>https://florisdenhengst.github.io/posts/dfki-saarbrucken/</guid>
-      <description>I visited Verena Wolf&amp;rsquo;s Neuro-Mechanistic Modeling in Saarbrücken and met with her many interesting group members there to discuss RL, safety, formal methods and RL, and causality.
-The visit was a great opportunity to discuss recent trends and share ideas.</description>
-    </item>
-    
-    <item>
-      <title>Workshop and Demo Contributions to HHAI 2024</title>
-      <link>https://florisdenhengst.github.io/posts/hhai2024/</link>
-      <pubDate>Wed, 12 Jun 2024 13:00:44 +0200</pubDate>
-      
-      <guid>https://florisdenhengst.github.io/posts/hhai2024/</guid>
-      <description>We have contributed papers to the health care workshop and demo track of the Hybrid Human AI Conference. Our contributions target the development of a lifestyle support chatbot for diabetes patients based on knowledge, semantic user modeling and active information gathering.</description>
-    </item>
-    
-    <item>
-      <title>English Proficiency Assessment</title>
-      <link>https://florisdenhengst.github.io/posts/english_proficiency/</link>
-      <pubDate>Tue, 30 Apr 2024 11:12:31 +0200</pubDate>
-      
-      <guid>https://florisdenhengst.github.io/posts/english_proficiency/</guid>
-      <description>Teaching staff who are active in one of our English programmes must prove that their English level is at EFSET C1.
-I am happy to share that, based on an oral assessment with two examiners from the VU language centre, my English level has been assessed as C2.
-I am still allowed to teach Msc. courses!</description>
-    </item>
-    
-    <item>
-      <title>CICC: Conformal Intent Classification and Clarification</title>
-      <link>https://florisdenhengst.github.io/posts/cicc/</link>
-      <pubDate>Fri, 29 Mar 2024 21:30:50 +0100</pubDate>
-      
-      <guid>https://florisdenhengst.github.io/posts/cicc/</guid>
-      <description>Our work on task-oriented dialogue systems has been accepted at ACL&amp;rsquo;s 2024 NAACL Findings.
-Task-oriented dialogue systems help users solve tasks in their daily lives. In order to do so, these systems have to identify the users intent.
-Dialogue systems may be uncertain about the user intent. In these cases, the system can ask the user to clarify, i.e. select from the intents that the system considers likely given the user input.</description>
-    </item>
-    
-    <item>
-      <title>AI &amp; Health Winter School 2024</title>
-      <link>https://florisdenhengst.github.io/posts/winter-school-ai-health/</link>
-      <pubDate>Mon, 11 Mar 2024 08:58:11 +0200</pubDate>
-      
-      <guid>https://florisdenhengst.github.io/posts/winter-school-ai-health/</guid>
-      <description>I contributed a talk on guideline-informed reinforcement learning with Annette ten Teije to the AI &amp;amp; Health Winter School organized by the VU Campus Center Artificial Intelligence &amp;amp; Health.
-The winter school was attended by over 100 in-person and virtual participants interested in the intersection of AI &amp;amp; Health.
-You may find the slides which focus on how the knowledge-driven AI (information in the guidelines) was combined with reinforcement learning (learning optimal decisions from data) here.</description>
-    </item>
-    
-    <item>
-      <title>PhD. Defense Talk</title>
-      <link>https://florisdenhengst.github.io/posts/phdthesis/</link>
-      <pubDate>Tue, 14 Nov 2023 13:19:56 +0100</pubDate>
-      
-      <guid>https://florisdenhengst.github.io/posts/phdthesis/</guid>
-      <description>Today I succesfully defended my PhD. thesis Learning to Behave - Reinforcement Learning in Human Contexts. I am now a doctor of philosophy!
-In the Netherlands it is customary to give a 10 minute talk prior to the actual defence. This talk is aimed at a general audience because the defense is a public affair and because it is nice to tell friends and family what the thesis is about!</description>
-    </item>
-    
-    <item>
-      <title>Student Supervision</title>
-      <link>https://florisdenhengst.github.io/posts/student_supervision/</link>
-      <pubDate>Fri, 20 Jan 2023 15:48:55 +0100</pubDate>
-      
-      <guid>https://florisdenhengst.github.io/posts/student_supervision/</guid>
-      <description>For the past couple of years, I have always loved working with Msc. and Bsc. students. Usually, I have been involved in the role of supervisor for the thesis. In doing so, I have learnt a lot about what makes a good AI research project and what I can do to improve these projects.
-The following is a distillation of some of that knowledge. Some of it applies only to theses, but most of it applies more broadly.</description>
-    </item>
-    
-    <item>
-      <title>IJCAI 2022</title>
-      <link>https://florisdenhengst.github.io/posts/ijcai2022/</link>
-      <pubDate>Mon, 01 Aug 2022 16:43:48 +0200</pubDate>
-      
-      <guid>https://florisdenhengst.github.io/posts/ijcai2022/</guid>
-      <description>Last week I attended the International Joint Conference on Artificial Intelligence (IJCAI) in Vienna. Being `co-hosted&#39; with the European Conference on AI, the official name of this years&#39; edition was IJCAI-ECAI 2022. It was a great week with too many impressions and learnings to list. Here are some personal highlights:
- presented our paper on Option Machines as a long talk in the `Deep Reinforcement Learning&#39; session presented our paper on Safe &amp;amp; Efficient RL with Planning for Potential at the Safe RL workshop met many great people with great humor, ideas and experience attended keynotes by two Giants in AI: Stuart Russel and Judea Pearl had a nice visit of the Vienna.</description>
-    </item>
-    
-    <item>
-      <title>Reinforcement Learning Summer School 2022</title>
-      <link>https://florisdenhengst.github.io/posts/reinforcement-learning-summer-school/</link>
-      <pubDate>Sat, 16 Jul 2022 10:27:22 +0200</pubDate>
-      
-      <guid>https://florisdenhengst.github.io/posts/reinforcement-learning-summer-school/</guid>
-      <description>Past week, I attended and assisted at the Reinforcement Learning Summer School organized by Vincent François-Lavet. We had some great lectures on a wide variety of topics, including pure exploration in bandits, the exploration-exploitation tradeoff in RL, MCTS, symmetries and state similarities, world models and hierarchical and distributational RL.
-The summer school was hosted at one the theatre halls of our university&amp;rsquo;s new building, which serves as a movie theatre at night: great seats and air quality do help with focusing for 8+ hours!</description>
-    </item>
-    
-    <item>
-      <title>A Brief intro to Gaussian Processes</title>
-      <link>https://florisdenhengst.github.io/posts/intro-to-gps/</link>
-      <pubDate>Tue, 21 Jun 2022 14:12:24 +0200</pubDate>
-      
-      <guid>https://florisdenhengst.github.io/posts/intro-to-gps/</guid>
-      <description>Gaussian Processes are a fascinating tool for usage in RL due to modelling uncertainty and data efficiency I briefly introduced GP&amp;rsquo;s and shown how/why they are used in RL  Gaussian processes (GPs) are a fascinating tool in the machine learning toolbelt. They stand out for a couple of reasons: some people will like them for their data efficiency, others love them for their ability to incorporate domain knowledge and yet others will love them for their visual or mathematical beauty.</description>
-    </item>
-    
-    <item>
-      <title>Paper on strategic workforce planning with DRL at LOD</title>
-      <link>https://florisdenhengst.github.io/posts/rl-for-swp-lod/</link>
-      <pubDate>Tue, 14 Jun 2022 14:49:38 +0200</pubDate>
-      
-      <guid>https://florisdenhengst.github.io/posts/rl-for-swp-lod/</guid>
-      <description>A paper on Deep Reinforcement Learning (DRL) for strategic workforce planning co-authored with Yannick Smit, Sandjai Bhulai and Ehsan Mehdad is accepted as a long paper at the LOD conference.
-In this paper, we model strategic workforce planning as a stochastic nonlinear optimization problem, learn a generative model from data and use it as a simulator in a simulation-optimization approach.
-We show that the DRL approach enables optimizing an organizations&#39; strategic workforce goals directly.</description>
-    </item>
-    
-    <item>
-      <title>Option Machines paper accepted at IJCAI</title>
-      <link>https://florisdenhengst.github.io/posts/option-machines-ijcai/</link>
-      <pubDate>Sat, 21 May 2022 14:44:12 +0200</pubDate>
-      
-      <guid>https://florisdenhengst.github.io/posts/option-machines-ijcai/</guid>
-      <description>The paper Reinforcement Learning with Option Machines co-authored by me, Vincent François-Lavet, Mark Hoogendoorn and Frank van Harmelen is accepted as a long presentation (~3% acceptance rate) at IJCAI.
-Stay tuned for details!
-Update 2022-08-01: I presented my paper at IJCAI, it was great fun!
-Update 2022-09-23: The IJCAI proceedings are now available.</description>
-    </item>
-    
-    <item>
-      <title>Safe and Efficient Reinforcement Learning with Planning for Potential</title>
-      <link>https://florisdenhengst.github.io/posts/planning-for-potential/</link>
-      <pubDate>Thu, 24 Mar 2022 10:38:24 +0100</pubDate>
-      
-      <guid>https://florisdenhengst.github.io/posts/planning-for-potential/</guid>
-      <description>Reinforcement Learning has proven to be capable of outperforming humans on various tasks by interacting with and experimenting some environment. This makes it one of the most interesting and promising AI solutions to problems that require complex behaviors which we are unable to fully define upfront but can assign an objective score to.
-In many settings of interest such as in healthcare and finance, we&amp;rsquo;ll want to enforce safety constraints on any system of interest.</description>
-    </item>
-    
-    <item>
-      <title>Reinforcement Learning for Real Life Virtual Conference</title>
-      <link>https://florisdenhengst.github.io/posts/rl-at-workshop/</link>
-      <pubDate>Thu, 25 Jun 2020 21:14:18 +0200</pubDate>
-      
-      <guid>https://florisdenhengst.github.io/posts/rl-at-workshop/</guid>
-      <description>Upcoming weekend will be a virtual conference on reinforcement learning (RL) in real-life.
-It is of great interest to me primarily due to its program but also due to its organisation.
-The virtual conference consists of two panel sessions and a virtual `poster&#39; session with pre-recorded videos. There is a slack workspace for discussion, and questions to the panelists can be submitted up-front. Poster presenters are to host their own video channel.</description>
-    </item>
-    
-    <item>
-      <title>Reinforcement Learning for Personalization: A Survey</title>
-      <link>https://florisdenhengst.github.io/posts/rl-for-pers-survey/</link>
-      <pubDate>Thu, 09 Apr 2020 09:22:30 +0100</pubDate>
-      
-      <guid>https://florisdenhengst.github.io/posts/rl-for-pers-survey/</guid>
-      <description>Update 2020-06-27: this paper was presented as a `poster&#39;(video) at the RL for Real Life virtual Conference. Read more here.
- Reinforcement learning (RL) is becoming an increasingly popular tool to tackle hairy problems using data. A nice example of such a hairy problem is personalization. Personalization refers to a task central to many applications of data science and machine learning: to change a system so that its personal relevance to an individual or category of individuals is increased.</description>
-    </item>
-    
-    <item>
-      <title>Collecting User Satisfaction Ratings for Dialogue Systems</title>
-      <link>https://florisdenhengst.github.io/posts/high-quality-ratings/</link>
-      <pubDate>Fri, 20 Mar 2020 11:35:13 +0100</pubDate>
-      
-      <guid>https://florisdenhengst.github.io/posts/high-quality-ratings/</guid>
-      <description>Mickey, a master student I was co-supervising, recently published a paper based on his thesis work in ACM&amp;rsquo;s Conference for Human Information Interaction and Retrieval. His work focused on interfaces for collecting high-quality user satisfaction ratings for dialogue systems.
-User satisfaction is an important indicator in the design, evaluation and adaptation of dialogue systems. Establishing user satisfaction ratings for conversation-based systems, however, remains challenging. User questionnaires may yield biased results and typically have low response rates (~1%).</description>
-    </item>
-    
-    <item>
-      <title>Featured in Villamedia Blog</title>
-      <link>https://florisdenhengst.github.io/posts/villamedia-blog/</link>
-      <pubDate>Wed, 18 Dec 2019 14:39:21 +0100</pubDate>
-      
-      <guid>https://florisdenhengst.github.io/posts/villamedia-blog/</guid>
-      <description>Today, my work is &amp;ndash; very briefly &amp;ndash; mentioned in a post by Nick Kivits.
-The post is part of a blog series on innovation in the media and it is hosted on Villamedia, a Dutch website on journalism.</description>
-    </item>
-    
-    <item>
-      <title>Personalized Dialogue Management</title>
-      <link>https://florisdenhengst.github.io/posts/personalized-dm/</link>
-      <pubDate>Mon, 21 Oct 2019 10:31:06 +0200</pubDate>
-      
-      <guid>https://florisdenhengst.github.io/posts/personalized-dm/</guid>
-      <description>In a previous post I explained how reinforcement learning (RL) can be used to make chatbots better from its experience with users. RL allows chatbots to learn what to say by interacting with users. This allows for chatbots to tailor their behavior to preferences of groups of individuals, e.g. to personalize the interaction. I recently presented our paper on this topic, specifically on personalized dialog management at the Web Intelligence conference in Thessaloniki.</description>
-    </item>
-    
-    <item>
-      <title>How to Create a Music Bingo in Minutes</title>
-      <link>https://florisdenhengst.github.io/posts/music-bingo/</link>
-      <pubDate>Thu, 05 Sep 2019 15:39:37 +0200</pubDate>
-      
-      <guid>https://florisdenhengst.github.io/posts/music-bingo/</guid>
-      <description>I was recently asked to help organise a &amp;lsquo;music bingo&amp;rsquo; for students of horseriding association BLOK. To be completely honest with you, I feel that bingo is probably one of the most boring party games out there as the only &amp;lsquo;skills&amp;rsquo; involved are paying attention and bookkeeping.
-Music bingo, however, puts a nice twist to the original game that makes it more fun, exciting and skill-based. Music bingo is like regular bingo with some minor differences that make it just so much more fun.</description>
-    </item>
-    
-    <item>
-      <title>ACAI Summer School 2019</title>
-      <link>https://florisdenhengst.github.io/posts/eurai-acai-2019/</link>
-      <pubDate>Sat, 06 Jul 2019 16:41:29 +0200</pubDate>
-      
-      <guid>https://florisdenhengst.github.io/posts/eurai-acai-2019/</guid>
-      <description>Just returned from a lovely stay in Chania, Crete for the Advanced Course on Artificial Intelligence, a yearly summer school by EurAI. Besides the beautiful scenery and lovely people, there were lots of interesting talks to enjoy. Most talks stuck to the theme &amp;lsquo;AI for multi-agent worlds&amp;rsquo; quite well.
-Although I learned a lot in general, there were some key take-aways for me:
- virtually any setting has some multi-agent aspect to it, but it might not be worthwile to actually take it into account when going from a single- to a multi-agent setting, typically requires engineering and analysis of the resulting system from a game-theoretic point of view.</description>
-    </item>
-    
-    <item>
-      <title>Bitter Lesson Response</title>
-      <link>https://florisdenhengst.github.io/posts/bitter-lesson-response/</link>
-      <pubDate>Wed, 20 Mar 2019 23:27:28 +0100</pubDate>
-      
-      <guid>https://florisdenhengst.github.io/posts/bitter-lesson-response/</guid>
-      <description>A couple of days ago, RL founding father Rich Sutton posted a blog post. My reading is as follows:
- Moore&amp;rsquo;s Law has consistently made general, compute-based methods outperform task-specific, domain knowledge-based methods for tasks in the AI `sphere of interest&#39; This has served as a bitter lesson for many (all?) researchers that have focused on developing such domain-specific methods General methods will always prevail, especially those that scale with compute  Although I tend to agree with the overall idea that general methods are the way forward for AI, I feel that some nuance is in order.</description>
-    </item>
-    
-    <item>
-      <title>How Reinforcement Learning is Applied to Dialogue Control</title>
-      <link>https://florisdenhengst.github.io/posts/rl-for-dialog-management/</link>
-      <pubDate>Fri, 15 Feb 2019 12:41:16 +0100</pubDate>
-      
-      <guid>https://florisdenhengst.github.io/posts/rl-for-dialog-management/</guid>
-      <description>The value offering of most contemporary chatbot platforms consists of packaging state-of-art Automated Speech Recognition (ASR, or &amp;lsquo;speech-to-text&amp;rsquo;), Natural Language Understanding (NLU) and Voice Synthesis into a comprehensive API. The API typically also includes some programming model for dialog control such as DialogFlows&#39; Contexts and follow-up Intents and Alexa&amp;rsquo;s Dialog model. Implementing the right dialog controller is up to the developer. Figure 1 summarizes this in a diagram, with the handcrafted modules in green and with a keyboard in the top right.</description>
-    </item>
-    
-    <item>
-      <title>Research Methods in Information and Knowledge Systems Course</title>
-      <link>https://florisdenhengst.github.io/posts/completed-research-methods-in-iks/</link>
-      <pubDate>Sun, 30 Dec 2018 13:18:10 +0100</pubDate>
-      
-      <guid>https://florisdenhengst.github.io/posts/completed-research-methods-in-iks/</guid>
-      <description>I completed the SIKS course &amp;lsquo;Research Methods and Methodology in IKS&amp;rsquo;, spanning a wide range of topics such as research methods, Design Research, many issues involved with evaluation in ML and how the field of IR has a strong history of rigourous evaluation (much to learn there for ML/RL researchers!).
-To top it all off, the course was held in the lovely location (see picture) and with lots of great minds from all over The Netherlands.</description>
-    </item>
-    
-    <item>
-      <title>Scientific Writing Course</title>
-      <link>https://florisdenhengst.github.io/posts/completed-scientific-writing-course/</link>
-      <pubDate>Tue, 18 Dec 2018 13:10:34 +0100</pubDate>
-      
-      <guid>https://florisdenhengst.github.io/posts/completed-scientific-writing-course/</guid>
-      <description>I just completed the course &amp;lsquo;Writing a Scientific Article&amp;rsquo; at the VU Language Centre. Although I joined the course thinking I knew a fair share of writing in English, I learned a great deal about scientific writing and picked up some neat tricks to improve writing. As a bonus, I got some great feedback on an survey paper on Reinforcement Learning for personalization I&amp;rsquo;m working on with some colleagues in our group</description>
-    </item>
-    
-    <item>
-      <title>Completed HPC Course</title>
-      <link>https://florisdenhengst.github.io/posts/completed-hpc-course/</link>
-      <pubDate>Thu, 29 Nov 2018 09:18:55 +0100</pubDate>
-      
-      <guid>https://florisdenhengst.github.io/posts/completed-hpc-course/</guid>
-      <description>Today I completed the HPC course at VU University. The course was well organized and had some interesting courses. Some of the courses contained very little new information for me, though. I would recommend researchers/PhD. Students with some knowledge of programming/bash, Linux and clusters but with no experience working with SurfSARAs offerings to follow the following courses:
- Intro to distributed systems &amp;amp; BigData: optional refresher Intro to Linux and Clustercomputing: take, become familiar with Lisa Intro to MPI parallel programming concepts: take, get familiar with Cartesius Datamanagement: take to become familiar with various data storage/archiving solutions and make a data management plan for your research HPC Cloud: optional if interested in virtualization GPU Computing: as a refresher, somewhat theoretical Singularity with containerized applications: optional if interested in reproducibility using containers (e.</description>
-    </item>
-    
-    <item>
-      <title>The Book that Predicted AlphaGo</title>
-      <link>https://florisdenhengst.github.io/posts/prediction-go-mcmc/</link>
-      <pubDate>Wed, 01 Aug 2018 21:54:28 +0100</pubDate>
-      
-      <guid>https://florisdenhengst.github.io/posts/prediction-go-mcmc/</guid>
-      <description>Little under three years ago, in March 2016, a Reinforcement Learning (RL) algorithm beat Lee Sedol, a pro player in a match of Go. This game had been considered too hard for algorithms due to the astronomical number of board game configurations and the AlphaGo team therefore baffled experts in AI with their accomplishments. Nobody seemed to be aware that techniques were available to make such a win possible at that time and most experts considered computers beating humanity at Go to be a couple of decades away.</description>
-    </item>
-    
-    <item>
-      <title>Reinforcement Learning for Personalization Tool</title>
-      <link>https://florisdenhengst.github.io/rl4personalization/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://florisdenhengst.github.io/rl4personalization/</guid>
-      <description>You will be automatically redirected to the tool at http://rl4personalization.fht800.ops.few.vu.nl/&amp;hellip;
- window.setTimeout(function(){ // Move to a new location or you can do something else window.location.href = &#34;http://rl4personalization.fht800.ops.few.vu.nl/&#34;; }, 5000);  </description>
-    </item>
-    
-  </channel>
+	<channel>
+		<title>Everything Flo&#39;s on Floris den Hengst&#39;s Homepage</title>
+		<link>https://florisdenhengst.github.io/</link>
+		<description>Recent content in Everything Flo&#39;s on Floris den Hengst&#39;s Homepage</description>
+		<generator>Hugo</generator>
+		<language>en-us</language>
+		
+		
+		
+		
+			<lastBuildDate>Wed, 20 May 2026 12:59:21 +0200</lastBuildDate>
+		
+			<atom:link href="https://florisdenhengst.github.io/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Symbolic Quantile Regression</title>
+				<link>https://florisdenhengst.github.io/posts/sqr/</link>
+				<pubDate>Wed, 20 May 2026 12:59:21 +0200</pubDate>
+				<guid>https://florisdenhengst.github.io/posts/sqr/</guid>
+				<description>&lt;p&gt;Throwback to this &lt;a href=&#34;https://florisdenhengst.github.io/posts/ictopen25/&#34;&gt;post&lt;/a&gt; about ICT.OPEN!&lt;/p&gt;&#xA;&lt;p&gt;This research with Cas Hoekstra has by now been published by &lt;a href=&#34;https://openreview.net/forum?id=x9OYbyPJOG&#34;&gt;Transactions on Machine Learning Research&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;We introduce Symbolic Quantile Regression (SQR), a framework that bridges the gap between high-performance numerical prediction and human-level interpretability:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;SQR generates concise, closed-form mathematical expressions that explain why a specific quantile (like the median or the 90th percentile) is being predicted. Transparency is built-in.&lt;/li&gt;&#xA;&lt;li&gt;In an extensive evaluation of 122 datasets, SQR outperformed existing transparent models and performed comparably to strong black-box baselines.&lt;/li&gt;&#xA;&lt;li&gt;SQR&amp;rsquo;s preference for simpler models helps it to generalize better to out-of-distribution data compared to more complex models.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;We also apply the framework on an airline fuel usage prediction task. Here, the goal was to understand why some flights use much more fuel than others.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>HIAL Guest Lecture</title>
+				<link>https://florisdenhengst.github.io/posts/hial-guest-lecture/</link>
+				<pubDate>Thu, 19 Mar 2026 17:02:26 +0100</pubDate>
+				<guid>https://florisdenhengst.github.io/posts/hial-guest-lecture/</guid>
+				<description>&lt;p&gt;Today I gave a guest lecture for the course &lt;a href=&#34;https://research.vu.nl/en/courses/human-interactive-agent-learning-2/&#34;&gt;Human-interactive Agent&#xA;Learning&lt;/a&gt;.&#xA;I presented &lt;a href=&#34;https://sharpie.readthedocs.io/en/latest/&#34;&gt;SHARPIE&lt;/a&gt;, our tool for controlled human-RL experiments.&lt;/p&gt;&#xA;&lt;p&gt;During the lecture, I showed how SHARPIE can be used to implement a simple evaluative feedback&#xA;experiment using&#xA;&lt;a href=&#34;https://www.cs.utexas.edu/~bradknox/kcap09/Knox_and_Stone,_K-CAP_2009.html&#34;&gt;TAMEr&lt;/a&gt; in the MountainCar environment.&#xA;Nothing beats putting the pressure on as a bit of live coding does, but then it remains so much&#xA;fun when you can actually show how simple it is to implement this experiment with the right tools&#xA;at hand.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>University Teaching Qualification</title>
+				<link>https://florisdenhengst.github.io/posts/utq/</link>
+				<pubDate>Thu, 13 Nov 2025 15:52:31 +0100</pubDate>
+				<guid>https://florisdenhengst.github.io/posts/utq/</guid>
+				<description>&lt;p&gt;Small post to celebrate that I obtained my &lt;a href=&#34;https://vu.nl/en/education/vu-centre-for-teaching-learning/courses-programmes/university-teaching-programme-utq/curriculum&#34;&gt;University Teaching&#xA;Qualification&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;This has been useful in designing teaching material, presenting it in a way to reach an audience&#xA;with a diverse background, supervising students, creating tests and evaluation material, and to&#xA;understand how to continuously improve on all these aspects.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Tutorial in PhD course</title>
+				<link>https://florisdenhengst.github.io/posts/siks-course-sharpie/</link>
+				<pubDate>Tue, 21 Oct 2025 16:38:32 +0200</pubDate>
+				<guid>https://florisdenhengst.github.io/posts/siks-course-sharpie/</guid>
+				<description>&lt;p&gt;We contributed a tutorial on doing real-world experiments involving humans and sequential decision&#xA;making agents to a national PhD course on &lt;a href=&#34;https://siks.nl/activities/activities/siks-course-rl-for-ahi-2025/&#34;&gt;Reinforcement Learning for Adaptive Hybrid&#xA;Intelligence&lt;/a&gt;. This two-day&#xA;course is about making AI agents adapt to humans using reinforcement learning.&lt;/p&gt;&#xA;&lt;p&gt;We set two goals for our tutorial:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Hands-on experience with hybrid RL example&lt;/li&gt;&#xA;&lt;li&gt;Familiarize participants with SHARPIE and a hybrid RL algorithm&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;h1 id=&#34;sharpie&#34;&gt;SHARPIE&lt;/h1&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://github.com/hybrid-intelligence/SHARPIE&#34;&gt;SHARPIE&lt;/a&gt; is a framework for creating live demo&amp;rsquo;s&#xA;and conducting real-world experiments involving humans and RL agents.&#xA;It&amp;rsquo;s core idea is to allow researchers to incorporate a human at any point in the RL&#xA;agent-environment interface:&#xA;&lt;img src=&#34;https://florisdenhengst.github.io/imgs/sharpie-interface.png&#34; alt=&#34;Agent-environment interface with human&#34;&gt;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>ICT.OPEN 2025</title>
+				<link>https://florisdenhengst.github.io/posts/ictopen25/</link>
+				<pubDate>Wed, 16 Apr 2025 11:29:45 +0200</pubDate>
+				<guid>https://florisdenhengst.github.io/posts/ictopen25/</guid>
+				<description>&lt;p&gt;I spoke at &lt;a href=&#34;https://ictopen.nl/&#34;&gt;ICT.OPEN 2025&lt;/a&gt; about a joint work with Cas Oude Hoekstra on predicting conditional percentiles with fully transparent models using the pinball loss and symbolic regression.&lt;/p&gt;&#xA;&lt;p&gt;More to follow soon hopefully!&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://florisdenhengst.github.io/imgs/ictopen2025.jpg&#34; alt=&#34;Picture of Floris presenting at ICT.OPEN 2025&#34;&gt;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>How to easily make a GenAI SVG logo</title>
+				<link>https://florisdenhengst.github.io/posts/genai-svg-logo/</link>
+				<pubDate>Tue, 17 Dec 2024 12:28:05 +0100</pubDate>
+				<guid>https://florisdenhengst.github.io/posts/genai-svg-logo/</guid>
+				<description>&lt;p&gt;Recently, I needed a logo for a project I am working. I love SVG images for their versatility, but have the ability nor interest in creating on myself from scratch.&#xA;So why not use an LLM for this?&lt;/p&gt;&#xA;&lt;p&gt;I tried to create an SVG directly with all the current (2024-12-17) easily available offerings&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;.&#xA;They all failed miserably.&lt;/p&gt;&#xA;&lt;figure style=&#34;max-width:80%&#34;&gt;&#xA;&lt;!--&#x9;{{ readFile &#34;static/imgs/genai-svg-logo/logo1.svg&#34; | safeHTML }}--&gt;&#xA;&#x9;&lt;img src=&#34;https://florisdenhengst.github.io/imgs/genai-svg-logo/logo1.svg&#34; /&gt;&#xA;&lt;figcaption&gt;&#xA;Figure 1: SVG &#34;icon depicting two fingers (one human, one robotic) holding a Sharpie-style pen&#34;, according to OpenAI GPT-4o.&#xA;&lt;/figcaption&gt;&#xA;&lt;/figure&gt;&#xA;&lt;p&gt;This was not working out, so instead I opted to first generate the image &amp;ldquo;in vector art style&amp;rdquo; and then convert it to svg using &lt;a href=&#34;https://online.rapidresizer.com/tracer.php&#34;&gt;this&lt;/a&gt; useful tool which traces the image and converts it to svg flawlessly.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Bluesky</title>
+				<link>https://florisdenhengst.github.io/posts/bluesky/</link>
+				<pubDate>Tue, 19 Nov 2024 09:43:55 +0100</pubDate>
+				<guid>https://florisdenhengst.github.io/posts/bluesky/</guid>
+				<description>&lt;p&gt;Today I joined &lt;a href=&#34;https://bsky.social/about&#34;&gt;Bluesky&lt;/a&gt;, a social media platform that aims to put&#xA;users front-and-centre again.&lt;/p&gt;&#xA;&lt;p&gt;See &lt;a href=&#34;https://florisdh.bsky.social&#34;&gt;here&lt;/a&gt; for my profile and use this list of starter packs:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://go.bsky.app/RMJ8q3i&#34;&gt;Neurosymbolic AI starter pack&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;go.bsky.app/3WPHcHg&#34;&gt;RL&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;go.bsky.app/7PeNwep&#34;&gt;AI in healthcare&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;go.bsky.app/SipA7it&#34;&gt;AI&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+			</item>
+			<item>
+				<title>BNAIC/BeNeLearn 2024</title>
+				<link>https://florisdenhengst.github.io/posts/bnaic2024/</link>
+				<pubDate>Sat, 19 Oct 2024 09:32:44 +0100</pubDate>
+				<guid>https://florisdenhengst.github.io/posts/bnaic2024/</guid>
+				<description>&lt;p&gt;I will attend the &lt;a href=&#34;https://bnaic2024.sites.uu.nl/&#34;&gt;2024 BNAIC/BeNeLearn&lt;/a&gt; to present our work on&#xA;&lt;a href=&#34;https://www.sciencedirect.com/science/article/pii/S0933365723002567&#34;&gt;guideline-reinforcement informed reinforcement learning in critical&#xA;care&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;See the poster &lt;a href=&#34;https://florisdenhengst.github.io/presentations/2024BNAIC-poster.pdf&#34;&gt;here&lt;/a&gt; (PDF) and slides&#xA;&lt;a href=&#34;https://florisdenhengst.github.io/static/presentations/2024BNAIC-talk.pdf&#34;&gt;here&lt;/a&gt; (PDF).&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Research Visit DFKI Saarbrücken</title>
+				<link>https://florisdenhengst.github.io/posts/dfki-saarbrucken/</link>
+				<pubDate>Thu, 29 Aug 2024 14:56:45 +0200</pubDate>
+				<guid>https://florisdenhengst.github.io/posts/dfki-saarbrucken/</guid>
+				<description>&lt;p&gt;I visited Verena Wolf&amp;rsquo;s &lt;a href=&#34;https://www.dfki.de/en/web/research/research-departments/neuro-mechanistic-modeling&#34;&gt;Neuro-Mechanistic Modeling&lt;/a&gt; in Saarbrücken and met with her many interesting group members there to discuss RL, safety, formal methods and RL, and causality.&lt;/p&gt;&#xA;&lt;p&gt;The visit was a great opportunity to discuss recent trends and share ideas.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Workshop and Demo Contributions to HHAI 2024</title>
+				<link>https://florisdenhengst.github.io/posts/hhai2024/</link>
+				<pubDate>Wed, 12 Jun 2024 13:00:44 +0200</pubDate>
+				<guid>https://florisdenhengst.github.io/posts/hhai2024/</guid>
+				<description>&lt;p&gt;We have contributed papers to the health care workshop and demo track of the &lt;a href=&#34;https://hhai-conference.org/2024/&#34;&gt;Hybrid Human AI&#xA;Conference&lt;/a&gt;.  Our contributions target the development of a&#xA;lifestyle support chatbot for diabetes patients based on knowledge, semantic user modeling and&#xA;active information gathering.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>English Proficiency Assessment</title>
+				<link>https://florisdenhengst.github.io/posts/english_proficiency/</link>
+				<pubDate>Tue, 30 Apr 2024 11:12:31 +0200</pubDate>
+				<guid>https://florisdenhengst.github.io/posts/english_proficiency/</guid>
+				<description>&lt;p&gt;Teaching staff who are active in one of our English programmes must prove that their English level is at &lt;a href=&#34;https://www.efset.org/cefr/c1/&#34;&gt;EFSET C1&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;I am happy to share that, based on an oral assessment with two examiners from the &lt;a href=&#34;https://www.taalcentrum-vu.nl/en/&#34;&gt;VU language centre&lt;/a&gt;, my English level has been assessed as &lt;a href=&#34;https://www.efset.org/cefr/c2/&#34;&gt;C2&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;I am still allowed to teach Msc. courses!&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>CICC: Conformal Intent Classification and Clarification</title>
+				<link>https://florisdenhengst.github.io/posts/cicc/</link>
+				<pubDate>Fri, 29 Mar 2024 21:30:50 +0100</pubDate>
+				<guid>https://florisdenhengst.github.io/posts/cicc/</guid>
+				<description>&lt;p&gt;Our work on hashtag#task-oriented dialogue systems has been accepted at ACL&amp;rsquo;s &lt;a href=&#34;https://2024.naacl.org/&#34;&gt;2024 NAACL&lt;/a&gt; Findings.&lt;/p&gt;&#xA;&lt;p&gt;Task-oriented dialogue systems help users solve tasks in their daily lives.&#xA;In order to do so, these systems have to identify the users intent.&lt;/p&gt;&#xA;&lt;p&gt;Dialogue systems may be uncertain about the user intent. In these cases, the system can ask the user to clarify, i.e. select from the intents that the system considers likely given the user input.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>AI &amp; Health Winter School 2024</title>
+				<link>https://florisdenhengst.github.io/posts/winter-school-ai-health/</link>
+				<pubDate>Mon, 11 Mar 2024 08:58:11 +0200</pubDate>
+				<guid>https://florisdenhengst.github.io/posts/winter-school-ai-health/</guid>
+				<description>&lt;p&gt;I contributed a talk on guideline-informed reinforcement learning with Annette ten Teije to the &lt;a href=&#34;https://www.ai-health.nl/ai-health-winter-school-2024/&#34;&gt;AI &amp;amp; Health Winter School&lt;/a&gt; organized by the VU Campus Center Artificial Intelligence &amp;amp; Health.&lt;/p&gt;&#xA;&lt;p&gt;The winter school was attended by over 100 in-person and virtual participants interested in the intersection of AI &amp;amp; Health.&lt;/p&gt;&#xA;&lt;p&gt;You may find the slides which focus on how the knowledge-driven AI (information in the guidelines) was combined with reinforcement learning (learning optimal decisions from data) &lt;a href=&#34;https://drive.google.com/file/d/1dOA8nXcsBINiRuE-B0v0OehO0OBj6MmA/view&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>PhD. Defense Talk</title>
+				<link>https://florisdenhengst.github.io/posts/phdthesis/</link>
+				<pubDate>Tue, 14 Nov 2023 13:19:56 +0100</pubDate>
+				<guid>https://florisdenhengst.github.io/posts/phdthesis/</guid>
+				<description>&lt;p&gt;Today I succesfully defended my PhD. thesis &lt;a href=&#34;https://doi.org/10.5463/thesis.390&#34;&gt;Learning to&#xA;Behave&lt;/a&gt; - Reinforcement Learning in Human Contexts.&#xA;I am now a doctor of philosophy!&lt;/p&gt;&#xA;&lt;p&gt;In the Netherlands it is customary to give a 10 minute talk prior to the actual defence. This talk&#xA;is aimed at a general audience because the defense is a public affair and because it is nice to&#xA;tell friends and family what the thesis is about!&lt;/p&gt;&#xA;&lt;p&gt;Please find the transcript below and the accompanying slide deck (in Dutch) &lt;a href=&#34;https://florisdenhengst.github.io/presentations/talk_defense.pdf&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Student Supervision</title>
+				<link>https://florisdenhengst.github.io/posts/student_supervision/</link>
+				<pubDate>Fri, 20 Jan 2023 15:48:55 +0100</pubDate>
+				<guid>https://florisdenhengst.github.io/posts/student_supervision/</guid>
+				<description>&lt;p&gt;For the past couple of years, I have always loved working with Msc. and Bsc. students. Usually, I&#xA;have been involved in the role of supervisor for the thesis.&#xA;In doing so, I have learnt a lot about what makes a good AI research project and what I can do to&#xA;improve these projects.&lt;/p&gt;&#xA;&lt;p&gt;The following is a distillation of some of that knowledge. Some of it applies only to theses, but&#xA;most of it applies more broadly.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>IJCAI 2022</title>
+				<link>https://florisdenhengst.github.io/posts/ijcai2022/</link>
+				<pubDate>Mon, 01 Aug 2022 16:43:48 +0200</pubDate>
+				<guid>https://florisdenhengst.github.io/posts/ijcai2022/</guid>
+				<description>&lt;p&gt;Last week I attended the International Joint Conference on Artificial&#xA;Intelligence (IJCAI) in Vienna.  Being `co-hosted&amp;rsquo; with the European Conference&#xA;on AI, the official name of this years&amp;rsquo; edition was IJCAI-ECAI 2022.&#xA;It was a great week with too many impressions and learnings to list.&#xA;Here are some personal highlights:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;presented our paper on Option Machines as a long talk in the `Deep&#xA;Reinforcement Learning&amp;rsquo; session&lt;/li&gt;&#xA;&lt;li&gt;presented our paper on Safe &amp;amp; Efficient RL with Planning for Potential at the&#xA;Safe RL workshop&lt;/li&gt;&#xA;&lt;li&gt;met many great people with great humor, ideas and experience&lt;/li&gt;&#xA;&lt;li&gt;attended keynotes by two Giants in AI: Stuart Russel and Judea Pearl&lt;/li&gt;&#xA;&lt;li&gt;had a nice visit of the Vienna. Managed to see some of the sights and experience the city.&#xA;Went to see the 1922 movie Nosferatu with live piano music in a 1870s theatre-turned-movie hall.&lt;/li&gt;&#xA;&lt;li&gt;AI computer chess championship being held during the conference&lt;/li&gt;&#xA;&lt;li&gt;traveled there by a sleeper coach on the Night Jet, which was a great experience as well&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;The conference had a focus that seems pretty typical of AI research in Europe at the moment:&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Reinforcement Learning Summer School 2022</title>
+				<link>https://florisdenhengst.github.io/posts/reinforcement-learning-summer-school/</link>
+				<pubDate>Sat, 16 Jul 2022 10:27:22 +0200</pubDate>
+				<guid>https://florisdenhengst.github.io/posts/reinforcement-learning-summer-school/</guid>
+				<description>&lt;p&gt;Past week, I attended and assisted at the &lt;a href=&#34;https://rlsummerschool.com&#34;&gt;Reinforcement Learning Summer&#xA;School&lt;/a&gt; organized by Vincent François-Lavet. We had&#xA;some great lectures on a wide variety of topics, including pure exploration in&#xA;bandits, the exploration-exploitation tradeoff in RL, MCTS, symmetries and&#xA;state similarities, world models and hierarchical and distributational RL.&lt;/p&gt;&#xA;&lt;p&gt;The summer school was hosted at one the theatre halls of our university&amp;rsquo;s new&#xA;building, which serves as a movie theatre at night: great seats and air quality&#xA;&lt;em&gt;do&lt;/em&gt; help with focusing for 8+ hours! A fun detail was the dramatic Indiana&#xA;Jones score randomly starting at the end of the final talk by Marc G.&#xA;Bellemare.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>A Brief intro to Gaussian Processes</title>
+				<link>https://florisdenhengst.github.io/posts/intro-to-gps/</link>
+				<pubDate>Tue, 21 Jun 2022 14:12:24 +0200</pubDate>
+				<guid>https://florisdenhengst.github.io/posts/intro-to-gps/</guid>
+				<description>&lt;ul&gt;&#xA;&lt;li&gt;Gaussian Processes are a fascinating tool for usage in RL due to modelling uncertainty and data efficiency&lt;/li&gt;&#xA;&lt;li&gt;I briefly introduced GP&amp;rsquo;s and shown how/why they are used in RL&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Gaussian processes (GPs) are a fascinating tool in the machine learning toolbelt. They stand out&#xA;for a couple of reasons: some people will like them for their data efficiency, others love them&#xA;for their ability to incorporate domain knowledge and yet others will love them for their visual&#xA;or mathematical beauty. I was first introduced with GPs when studying ways to optimize chatbots or&#xA;&lt;a href=&#34;https://florisdenhengst.github.io/posts/rl-for-dialogue-management&#34;&gt;dialogue agents&lt;/a&gt; using data. In this blog post, I will&#xA;introduce some of the concepts of GPs, discuss their strengths and weaknesses and discuss some&#xA;applications in Reinforcement Learning (RL).&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Paper on strategic workforce planning with DRL at LOD</title>
+				<link>https://florisdenhengst.github.io/posts/rl-for-swp-lod/</link>
+				<pubDate>Tue, 14 Jun 2022 14:49:38 +0200</pubDate>
+				<guid>https://florisdenhengst.github.io/posts/rl-for-swp-lod/</guid>
+				<description>&lt;p&gt;A paper on Deep Reinforcement Learning (DRL) for strategic workforce planning co-authored with Yannick Smit, Sandjai Bhulai and Ehsan Mehdad is accepted as a long paper at the &lt;a href=&#34;http://lod2022.icas.cc/&#34;&gt;LOD&lt;/a&gt; conference.&lt;/p&gt;&#xA;&lt;p&gt;In this paper, we model strategic workforce planning as a stochastic nonlinear optimization problem, learn a generative model from data and use it as a simulator in a simulation-optimization approach.&lt;/p&gt;&#xA;&lt;p&gt;We show that the DRL approach enables optimizing an organizations&amp;rsquo; strategic workforce goals &lt;em&gt;directly&lt;/em&gt;. It significantly outperforms the strong baseline (linear programming) on a strategic objective while closely approaching it on an operational objective.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Option Machines paper accepted at IJCAI</title>
+				<link>https://florisdenhengst.github.io/posts/option-machines-ijcai/</link>
+				<pubDate>Sat, 21 May 2022 14:44:12 +0200</pubDate>
+				<guid>https://florisdenhengst.github.io/posts/option-machines-ijcai/</guid>
+				<description>&lt;p&gt;The paper &lt;a href=&#34;https://florisdenhengst.github.io/publications/ijcai22-option-machines.pdf&#34;&gt;Reinforcement Learning with Option&#xA;Machines&lt;/a&gt; co-authored by me, Vincent&#xA;François-Lavet, Mark Hoogendoorn and Frank van Harmelen is accepted as a long&#xA;presentation (~3% acceptance rate) at &lt;a href=&#34;https://ijcai-22.org/&#34;&gt;IJCAI&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Stay tuned for details!&lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;Update 2022-08-01&lt;/em&gt;: I presented my paper at IJCAI, it was &lt;a href=&#34;https://florisdenhengst.github.io/posts/ijcai2022&#34;&gt;great fun&lt;/a&gt;!&lt;br&gt;&#xA;&lt;em&gt;Update 2022-09-23&lt;/em&gt;: The IJCAI proceedings are now &lt;a href=&#34;https://www.ijcai.org/proceedings/2022/403&#34;&gt;available&lt;/a&gt;.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Safe and Efficient Reinforcement Learning with Planning for Potential</title>
+				<link>https://florisdenhengst.github.io/posts/planning-for-potential/</link>
+				<pubDate>Thu, 24 Mar 2022 10:38:24 +0100</pubDate>
+				<guid>https://florisdenhengst.github.io/posts/planning-for-potential/</guid>
+				<description>&lt;p&gt;Reinforcement Learning has proven to be capable of outperforming humans on&#xA;various tasks by interacting with and experimenting some environment. This&#xA;makes it one of the most interesting and promising AI solutions to problems&#xA;that require complex behaviors which we are unable to fully define upfront but&#xA;can assign an objective score to.&lt;/p&gt;&#xA;&lt;p&gt;In many settings of interest such as in healthcare and finance, we&amp;rsquo;ll want to&#xA;enforce safety constraints on any system of interest. Arguably, these settings&#xA;are &lt;em&gt;the most interesting&lt;/em&gt; since, when the stakes are the highest we&amp;rsquo;ll care&#xA;most about the potentially adversary outcomes. Although RL has a lot to offer,&#xA;it cannot be readily applied in such safety-critical settings due to its lacking&#xA;guarantees on safety.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Reinforcement Learning for Real Life Virtual Conference</title>
+				<link>https://florisdenhengst.github.io/posts/rl-at-workshop/</link>
+				<pubDate>Thu, 25 Jun 2020 21:14:18 +0200</pubDate>
+				<guid>https://florisdenhengst.github.io/posts/rl-at-workshop/</guid>
+				<description>&lt;p&gt;Upcoming weekend will be a &lt;a href=&#34;https://sites.google.com/view/RL4RealLife&#34;&gt;virtual conference&lt;/a&gt; on reinforcement learning (RL) in real-life.&lt;/p&gt;&#xA;&lt;p&gt;It is of great interest to me primarily due to its program but also due to its organisation.&lt;/p&gt;&#xA;&lt;p&gt;The virtual conference consists of two panel sessions and a virtual `poster&amp;rsquo; session with&#xA;pre-recorded videos. There is a slack workspace for discussion, and questions to the panelists can&#xA;be submitted up-front. Poster presenters are to host their own video channel. The two panel&#xA;sessions start at times convenient to the US Atlantic and Pacific coast.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Reinforcement Learning for Personalization: A Survey</title>
+				<link>https://florisdenhengst.github.io/posts/rl-for-pers-survey/</link>
+				<pubDate>Thu, 09 Apr 2020 09:22:30 +0100</pubDate>
+				<guid>https://florisdenhengst.github.io/posts/rl-for-pers-survey/</guid>
+				<description>&lt;p&gt;&lt;em&gt;Update 2020-06-27&lt;/em&gt;: this paper was presented as a `poster&amp;rsquo;(video) at the &lt;a href=&#34;https://sites.google.com/view/RL4RealLife&#34;&gt;RL for Real Life virtual&#xA;Conference&lt;/a&gt;. Read more&#xA;&lt;a href=&#34;https://florisdenhengst.github.io/posts/rl-at-workshop/&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;iframe src=&#34;https://archive.org/embed/rlfor-real-life-2020&#34; width=&#34;640&#34; height=&#34;480&#34;&#xA;frameborder=&#34;0&#34; webkitallowfullscreen=&#34;true&#34; mozallowfullscreen=&#34;true&#34; allowfullscreen&gt;&lt;/iframe&gt;&#xA;&lt;p&gt;Reinforcement learning (RL) is becoming an increasingly popular tool to tackle hairy problems&#xA;using data. A nice example of such a hairy problem is &lt;em&gt;personalization&lt;/em&gt;. Personalization&#xA;refers to a task central to many applications of data science and machine learning: to change a&#xA;system so that its personal relevance to an individual or category of individuals is increased.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Collecting User Satisfaction Ratings for Dialogue Systems</title>
+				<link>https://florisdenhengst.github.io/posts/high-quality-ratings/</link>
+				<pubDate>Fri, 20 Mar 2020 11:35:13 +0100</pubDate>
+				<guid>https://florisdenhengst.github.io/posts/high-quality-ratings/</guid>
+				<description>&lt;p&gt;Mickey, a master student I was co-supervising, recently published &lt;a href=&#34;https://doi.org/10.1145/3343413.3377998&#34;&gt;a paper&lt;/a&gt; based on his thesis work in ACM&amp;rsquo;s Conference for Human Information Interaction and Retrieval. His work focused on interfaces for collecting high-quality user satisfaction ratings for dialogue systems.&lt;/p&gt;&#xA;&lt;p&gt;User satisfaction is an important indicator in the design, evaluation and &lt;a href=&#34;https://florisdenhengst.github.io/posts/personalized-dm&#34;&gt;adaptation&lt;/a&gt; of dialogue systems.&#xA;Establishing user satisfaction ratings for conversation-based systems, however, remains challenging.&#xA;User questionnaires may yield biased results and typically have low response rates (~1%).&#xA;Third-party raters may be costly and gathering consistent and high-quality ratings from them is challenging.&#xA;Mickey identified the issues that arise here, developed and open-sourced &lt;a href=&#34;https://github.com/mickeyvz/interface_chatbot_evaluation&#34;&gt;a tool&lt;/a&gt; with solutions to these issues and evaluated it in a case study on a public dataset.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Featured in Villamedia Blog</title>
+				<link>https://florisdenhengst.github.io/posts/villamedia-blog/</link>
+				<pubDate>Wed, 18 Dec 2019 14:39:21 +0100</pubDate>
+				<guid>https://florisdenhengst.github.io/posts/villamedia-blog/</guid>
+				<description>&lt;p&gt;Today, my work is &amp;ndash; very briefly &amp;ndash; mentioned in a &lt;a href=&#34;https://www.villamedia.nl/artikel/de-toekomst-van-chatbots&#34;&gt;post&lt;/a&gt; by Nick Kivits.&lt;/p&gt;&#xA;&lt;p&gt;The post is part of a blog series on innovation in the media and it is hosted on Villamedia, a&#xA;Dutch website on journalism.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Personalized Dialogue Management</title>
+				<link>https://florisdenhengst.github.io/posts/personalized-dm/</link>
+				<pubDate>Mon, 21 Oct 2019 10:31:06 +0200</pubDate>
+				<guid>https://florisdenhengst.github.io/posts/personalized-dm/</guid>
+				<description>&lt;p&gt;In a &lt;a href=&#34;https://florisdenhengst.github.io/posts/rl-for-dialog-management&#34;&gt;previous post&lt;/a&gt; I explained how reinforcement&#xA;learning (RL) can be used to make chatbots better from its experience with users. RL allows chatbots to learn what to say by interacting with users. This allows for chatbots to tailor their behavior to preferences of groups of individuals, e.g. to &lt;em&gt;personalize&lt;/em&gt; the interaction. I recently presented our paper on&#xA;this topic, specifically on personalized dialog management at the &lt;a href=&#34;https://webintelligence2019.com/&#34;&gt;Web Intelligence&lt;/a&gt; conference in Thessaloniki. In this conference, only 19% of all submitted papers were accepted as full paper. I&amp;rsquo;ll briefly describe the main contributions of the paper here.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>How to Create a Music Bingo in Minutes</title>
+				<link>https://florisdenhengst.github.io/posts/music-bingo/</link>
+				<pubDate>Thu, 05 Sep 2019 15:39:37 +0200</pubDate>
+				<guid>https://florisdenhengst.github.io/posts/music-bingo/</guid>
+				<description>&lt;p&gt;I was recently asked to help organise a &amp;lsquo;music bingo&amp;rsquo; for students of horseriding association&#xA;&lt;a href=&#34;http://asrblok.com/english/&#34;&gt;BLOK&lt;/a&gt;. To be completely honest with you, I feel that bingo is&#xA;probably one of the most boring party games out there as the only &amp;lsquo;skills&amp;rsquo; involved are paying attention&#xA;and bookkeeping.&lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;Music&lt;/em&gt; bingo, however, puts a nice twist to the original game that makes it more&#xA;fun, exciting and skill-based. Music bingo is like regular bingo with some minor differences that&#xA;make it just so much more fun. The first difference is in the bingo cards: these consist of a grid&#xA;of cells like in regular bingo but each cell contains a song title instead of a number. Instead of drawing random&#xA;numbers from a tumbler, songs are played from a (randomized) playlist. If a song is played, it can be marked on the card and once a player has five marked cells in a row, they shout &amp;lsquo;BINGO!&amp;rsquo; and collect their prize.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>ACAI Summer School 2019</title>
+				<link>https://florisdenhengst.github.io/posts/eurai-acai-2019/</link>
+				<pubDate>Sat, 06 Jul 2019 16:41:29 +0200</pubDate>
+				<guid>https://florisdenhengst.github.io/posts/eurai-acai-2019/</guid>
+				<description>&lt;p&gt;Just returned from a lovely stay in Chania, Crete for the &lt;a href=&#34;http://acai2019.tuc.gr/&#34;&gt;Advanced Course on Artificial&#xA;Intelligence&lt;/a&gt;, a yearly summer school by &lt;a href=&#34;https://www.eurai.org/&#34;&gt;EurAI&lt;/a&gt;.&#xA;Besides the beautiful scenery and lovely people, there were lots of interesting talks to enjoy.&#xA;Most talks stuck to the theme &amp;lsquo;AI for multi-agent worlds&amp;rsquo; quite well.&lt;/p&gt;&#xA;&lt;p&gt;Although I learned a lot in general, there were some key take-aways for me:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;virtually any setting has some multi-agent aspect to it, but it might not be worthwile to&#xA;actually take it into account&lt;/li&gt;&#xA;&lt;li&gt;when going from a single- to a multi-agent setting, typically requires engineering and analysis&#xA;of the resulting system from a game-theoretic point of view. Lots of the presented work had some&#xA;deep connection with game theory, which is quite exciting in my point of view.&lt;/li&gt;&#xA;&lt;li&gt;going from single- to a multi-agent setting &amp;ndash; unfortunately &amp;ndash; typically also results in&#xA;problem spaces that are much harder: they are typically intractable, multimodal and sometimes&#xA;even unstable. Typical solutions to get out involve leveraging some feature of the problem&#xA;domain or resorting to approximation.&lt;/li&gt;&#xA;&lt;li&gt;evaluation in the multi-agent domain may be quite challenging. Take the adversarial setting of&#xA;learning to play a game. Here, a version \(n\) of an agent may beat version \(n-1\) but be&#xA;beaten by version \(n-2\).&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Overall, the summer school was well organized and was happy to meet many awesome people working on&#xA;interesting problems in the AI space.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Bitter Lesson Response</title>
+				<link>https://florisdenhengst.github.io/posts/bitter-lesson-response/</link>
+				<pubDate>Wed, 20 Mar 2019 23:27:28 +0100</pubDate>
+				<guid>https://florisdenhengst.github.io/posts/bitter-lesson-response/</guid>
+				<description>&lt;p&gt;A couple of days ago, RL founding father Rich Sutton posted a &lt;a href=&#34;http://www.incompleteideas.net/IncIdeas/BitterLesson.html&#34;&gt;blog&#xA;post&lt;/a&gt;. My reading is as follows:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Moore&amp;rsquo;s Law has consistently made general, compute-based methods outperform task-specific,&#xA;domain knowledge-based methods for tasks in the AI `sphere of interest&#39;&lt;/li&gt;&#xA;&lt;li&gt;This has served as a bitter lesson for many (all?) researchers that have focused on developing&#xA;such domain-specific methods&lt;/li&gt;&#xA;&lt;li&gt;General methods will always prevail, especially those that scale with compute&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Although I tend to agree with the overall idea that general methods are the way forward for AI, I&#xA;feel that some nuance is in order. Specifically, I feel that task-specific methods fulfill a&#xA;crucial role by showing what can be accomplished on a narrow task and thus serves like a telescope&#xA;into the future. Furthermore, I believe that the role of &lt;em&gt;data&lt;/em&gt; is not appreciated&#xA;by Prof. Sutton. The availability data useful to some task may have natural limits.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>How Reinforcement Learning is Applied to Dialogue Control</title>
+				<link>https://florisdenhengst.github.io/posts/rl-for-dialog-management/</link>
+				<pubDate>Fri, 15 Feb 2019 12:41:16 +0100</pubDate>
+				<guid>https://florisdenhengst.github.io/posts/rl-for-dialog-management/</guid>
+				<description>&lt;p&gt;The value offering of most contemporary chatbot platforms consists of packaging state-of-art&#xA;Automated Speech Recognition (ASR, or &amp;lsquo;speech-to-text&amp;rsquo;), Natural Language Understanding (NLU) and&#xA;Voice Synthesis into a comprehensive API. The API typically also includes some programming&#xA;model for dialog control such as DialogFlows&amp;rsquo; &lt;a href=&#34;https://www.youtube.com/watch?v=-tOamKtmxdY&#34;&gt;Contexts and follow-up&#xA;Intents&lt;/a&gt; and Alexa&amp;rsquo;s &lt;a href=&#34;https://developer.amazon.com/docs/custom-skills/define-the-dialog-to-collect-and-confirm-required-information.html&#34;&gt;Dialog&#xA;model&lt;/a&gt;.&#xA;Implementing the right dialog controller is up to the developer. Figure 1 summarizes this in a&#xA;diagram, with the handcrafted modules in green and with a keyboard in the top right. These&#xA;handcrafted modules Developers&#xA;can use their experience and common sense or even turn to &lt;a href=&#34;https://ctb.ku.edu/en/table-of-contents/assessment/assessing-community-needs-and-resources/conduct-focus-groups/main&#34;&gt;focus&#xA;groups&lt;/a&gt;&#xA;and A/B tests in optimizing these handcrafted parts of the bot. Although making all optimization&#xA;decisions upfront works well in small systems, it fails to scale to applications where many&#xA;decisions are involved such as when a &lt;em&gt;personalized&lt;/em&gt; chatbot is desired. &lt;a href=&#34;http://www0.cs.ucl.ac.uk/staff/D.Silver/web/Teaching_files/intro_RL.pdf#page=6&#34;&gt;Reinforcement&#xA;Learning&lt;/a&gt; (RL) can&#xA;help in such cases. In this blog post, I&amp;rsquo;ll describe the formalism underlying most dialog&#xA;management models, explain how this formalism can be generalized to support more flexible dialog&#xA;management and finally, how RL can be used to optimize dialog management using data.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Research Methods in Information and Knowledge Systems Course</title>
+				<link>https://florisdenhengst.github.io/posts/completed-research-methods-in-iks/</link>
+				<pubDate>Sun, 30 Dec 2018 13:18:10 +0100</pubDate>
+				<guid>https://florisdenhengst.github.io/posts/completed-research-methods-in-iks/</guid>
+				<description>&lt;p&gt;I completed the &lt;a href=&#34;https://www.siks.nl&#34;&gt;SIKS&lt;/a&gt; course &amp;lsquo;Research Methods and Methodology in IKS&amp;rsquo;,&#xA;spanning a wide range of topics such as research methods, Design Research, many issues involved&#xA;with evaluation in ML and how the field of IR has a strong history of rigourous evaluation (much&#xA;to learn there for ML/RL researchers!).&lt;/p&gt;&#xA;&lt;p&gt;To top it all off, the course was held in the lovely location (see picture) and with lots of great&#xA;minds from all over The Netherlands. Great course for first-year PhD in information systems&#xA;research.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Scientific Writing Course</title>
+				<link>https://florisdenhengst.github.io/posts/completed-scientific-writing-course/</link>
+				<pubDate>Tue, 18 Dec 2018 13:10:34 +0100</pubDate>
+				<guid>https://florisdenhengst.github.io/posts/completed-scientific-writing-course/</guid>
+				<description>&lt;p&gt;I just completed the course &amp;lsquo;Writing a Scientific Article&amp;rsquo; at the &lt;a href=&#34;https://www.taalcentrum-vu.nl/en/training/academic-english/writing-a-scientific-article&#34;&gt;VU Language&#xA;Centre&lt;/a&gt;.&#xA;Although I joined the course thinking I knew a fair share of writing in English, I learned a great&#xA;deal about &lt;em&gt;scientific&lt;/em&gt; writing and picked up some neat tricks to improve writing.&#xA;As a bonus, I got some great feedback on an survey paper on Reinforcement Learning for&#xA;personalization I&amp;rsquo;m working on with some colleagues in &lt;a href=&#34;https://www.cs.vu.nl/ci/&#34;&gt;our group&lt;/a&gt;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Completed HPC Course</title>
+				<link>https://florisdenhengst.github.io/posts/completed-hpc-course/</link>
+				<pubDate>Thu, 29 Nov 2018 09:18:55 +0100</pubDate>
+				<guid>https://florisdenhengst.github.io/posts/completed-hpc-course/</guid>
+				<description>&lt;p&gt;Today I completed the &lt;a href=&#34;https://hpc.labs.vu.nl/&#34;&gt;HPC&lt;/a&gt; course at VU University. The course was well&#xA;organized and had some interesting courses. Some of the courses contained very little new&#xA;information for me, though. I would recommend researchers/PhD. Students with some knowledge of&#xA;programming/bash, Linux and clusters but with no experience working with SurfSARAs offerings to&#xA;follow the following courses:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Intro to distributed systems &amp;amp; BigData: optional refresher&lt;/li&gt;&#xA;&lt;li&gt;Intro to Linux and Clustercomputing: take, become familiar with &lt;a href=&#34;https://userinfo.surfsara.nl/systems/lisa/&#34;&gt;Lisa&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;Intro to MPI parallel programming concepts: take, get familiar with &lt;a href=&#34;https://userinfo.surfsara.nl/systems/cartesius&#34;&gt;Cartesius&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;Datamanagement: take to become familiar with various data storage/archiving solutions and make a data management plan for your research&lt;/li&gt;&#xA;&lt;li&gt;HPC Cloud: optional if interested in virtualization&lt;/li&gt;&#xA;&lt;li&gt;GPU Computing: as a refresher, somewhat theoretical&lt;/li&gt;&#xA;&lt;li&gt;Singularity with containerized applications: optional if interested in reproducibility using containers (e.g. Docker)&lt;/li&gt;&#xA;&lt;li&gt;Scientific Visualization: optional, if you like making nice graphs&lt;/li&gt;&#xA;&lt;li&gt;Data intensive computing (spark/hadoop): take, pretty hands-on and very useful in industry collaborations&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+			</item>
+			<item>
+				<title>The Book that Predicted AlphaGo</title>
+				<link>https://florisdenhengst.github.io/posts/prediction-go-mcmc/</link>
+				<pubDate>Wed, 01 Aug 2018 21:54:28 +0100</pubDate>
+				<guid>https://florisdenhengst.github.io/posts/prediction-go-mcmc/</guid>
+				<description>&lt;p&gt;Little under three years ago, in March 2016, a Reinforcement Learning (RL) algorithm beat Lee&#xA;Sedol, a pro&#xA;player in a match of Go. This game had been considered too hard for algorithms due to the&#xA;&lt;a href=&#34;https://en.wikipedia.org/wiki/Go_and_mathematics#Complexity_of_certain_Go_configurations&#34;&gt;astronomical&lt;/a&gt;&#xA;number of board game configurations and the AlphaGo team therefore baffled experts in AI with their&#xA;accomplishments. Nobody seemed to be aware that techniques were available to make such a win&#xA;possible at that time and most experts considered computers beating humanity at Go to be a couple&#xA;of decades away. Which is why I was surprised to find a mention of Go in a&#xA;&amp;lsquo;Looking into the Future&amp;rsquo; chapter of &lt;a href=&#34;https://www.springer.com/us/book/9783642276446&#34;&gt;a&#xA;book&lt;/a&gt; on RL from 2012, which was&#xA;written at least four years prior to AlphaGo&amp;rsquo;s triumph:&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Reinforcement Learning for Personalization Tool</title>
+				<link>https://florisdenhengst.github.io/rl4personalization/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>https://florisdenhengst.github.io/rl4personalization/</guid>
+				<description>&lt;p&gt;You will be automatically redirected to the tool at &lt;a href=&#34;http://rl4personalization.fht800.ops.few.vu.nl/&#34;&gt;http://rl4personalization.fht800.ops.few.vu.nl/&lt;/a&gt;&amp;hellip;&lt;/p&gt;&#xA;&lt;script&gt;&#xA;window.setTimeout(function(){&#xA;    // Move to a new location or you can do something else&#xA;    window.location.href = &#34;http://rl4personalization.fht800.ops.few.vu.nl/&#34;;&#xA;}, 5000);&#xA;&lt;/script&gt;</description>
+			</item>
+	</channel>
 </rss>

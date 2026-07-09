@@ -1,128 +1,108 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Tags on Floris den Hengst&#39;s Homepage</title>
-    <link>https://florisdenhengst.github.io/tags/</link>
-    <description>Recent content in Tags on Floris den Hengst&#39;s Homepage</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Wed, 20 May 2026 12:59:21 +0200</lastBuildDate><atom:link href="https://florisdenhengst.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>publication</title>
-      <link>https://florisdenhengst.github.io/tags/publication/</link>
-      <pubDate>Wed, 20 May 2026 12:59:21 +0200</pubDate>
-      
-      <guid>https://florisdenhengst.github.io/tags/publication/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>reinforcement learning</title>
-      <link>https://florisdenhengst.github.io/tags/reinforcement-learning/</link>
-      <pubDate>Thu, 19 Mar 2026 17:02:26 +0100</pubDate>
-      
-      <guid>https://florisdenhengst.github.io/tags/reinforcement-learning/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>sharpie</title>
-      <link>https://florisdenhengst.github.io/tags/sharpie/</link>
-      <pubDate>Thu, 19 Mar 2026 17:02:26 +0100</pubDate>
-      
-      <guid>https://florisdenhengst.github.io/tags/sharpie/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>teaching</title>
-      <link>https://florisdenhengst.github.io/tags/teaching/</link>
-      <pubDate>Thu, 19 Mar 2026 17:02:26 +0100</pubDate>
-      
-      <guid>https://florisdenhengst.github.io/tags/teaching/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Courses</title>
-      <link>https://florisdenhengst.github.io/tags/courses/</link>
-      <pubDate>Thu, 13 Nov 2025 15:52:31 +0100</pubDate>
-      
-      <guid>https://florisdenhengst.github.io/tags/courses/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Personalization</title>
-      <link>https://florisdenhengst.github.io/tags/personalization/</link>
-      <pubDate>Tue, 21 Oct 2025 16:38:32 +0200</pubDate>
-      
-      <guid>https://florisdenhengst.github.io/tags/personalization/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>talk</title>
-      <link>https://florisdenhengst.github.io/tags/talk/</link>
-      <pubDate>Tue, 21 Oct 2025 16:38:32 +0200</pubDate>
-      
-      <guid>https://florisdenhengst.github.io/tags/talk/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>tutorial</title>
-      <link>https://florisdenhengst.github.io/tags/tutorial/</link>
-      <pubDate>Tue, 21 Oct 2025 16:38:32 +0200</pubDate>
-      
-      <guid>https://florisdenhengst.github.io/tags/tutorial/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>media</title>
-      <link>https://florisdenhengst.github.io/tags/media/</link>
-      <pubDate>Tue, 19 Nov 2024 09:43:55 +0100</pubDate>
-      
-      <guid>https://florisdenhengst.github.io/tags/media/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>healthcare</title>
-      <link>https://florisdenhengst.github.io/tags/healthcare/</link>
-      <pubDate>Sat, 19 Oct 2024 09:32:44 +0100</pubDate>
-      
-      <guid>https://florisdenhengst.github.io/tags/healthcare/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>dialog systems</title>
-      <link>https://florisdenhengst.github.io/tags/dialog-systems/</link>
-      <pubDate>Fri, 29 Mar 2024 21:30:50 +0100</pubDate>
-      
-      <guid>https://florisdenhengst.github.io/tags/dialog-systems/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>pomdp</title>
-      <link>https://florisdenhengst.github.io/tags/pomdp/</link>
-      <pubDate>Thu, 09 Apr 2020 09:22:30 +0100</pubDate>
-      
-      <guid>https://florisdenhengst.github.io/tags/pomdp/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Bingo</title>
-      <link>https://florisdenhengst.github.io/tags/bingo/</link>
-      <pubDate>Thu, 05 Sep 2019 15:39:37 +0200</pubDate>
-      
-      <guid>https://florisdenhengst.github.io/tags/bingo/</guid>
-      <description></description>
-    </item>
-    
-  </channel>
+	<channel>
+		<title>Tags on Floris den Hengst&#39;s Homepage</title>
+		<link>https://florisdenhengst.github.io/tags/</link>
+		<description>Recent content in Tags on Floris den Hengst&#39;s Homepage</description>
+		<generator>Hugo</generator>
+		<language>en-us</language>
+		
+		
+		
+		
+			<lastBuildDate>Wed, 20 May 2026 12:59:21 +0200</lastBuildDate>
+		
+			<atom:link href="https://florisdenhengst.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Publication</title>
+				<link>https://florisdenhengst.github.io/tags/publication/</link>
+				<pubDate>Wed, 20 May 2026 12:59:21 +0200</pubDate>
+				<guid>https://florisdenhengst.github.io/tags/publication/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Reinforcement Learning</title>
+				<link>https://florisdenhengst.github.io/tags/reinforcement-learning/</link>
+				<pubDate>Thu, 19 Mar 2026 17:02:26 +0100</pubDate>
+				<guid>https://florisdenhengst.github.io/tags/reinforcement-learning/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Sharpie</title>
+				<link>https://florisdenhengst.github.io/tags/sharpie/</link>
+				<pubDate>Thu, 19 Mar 2026 17:02:26 +0100</pubDate>
+				<guid>https://florisdenhengst.github.io/tags/sharpie/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Teaching</title>
+				<link>https://florisdenhengst.github.io/tags/teaching/</link>
+				<pubDate>Thu, 19 Mar 2026 17:02:26 +0100</pubDate>
+				<guid>https://florisdenhengst.github.io/tags/teaching/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Courses</title>
+				<link>https://florisdenhengst.github.io/tags/courses/</link>
+				<pubDate>Thu, 13 Nov 2025 15:52:31 +0100</pubDate>
+				<guid>https://florisdenhengst.github.io/tags/courses/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Personalization</title>
+				<link>https://florisdenhengst.github.io/tags/personalization/</link>
+				<pubDate>Tue, 21 Oct 2025 16:38:32 +0200</pubDate>
+				<guid>https://florisdenhengst.github.io/tags/personalization/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Talk</title>
+				<link>https://florisdenhengst.github.io/tags/talk/</link>
+				<pubDate>Tue, 21 Oct 2025 16:38:32 +0200</pubDate>
+				<guid>https://florisdenhengst.github.io/tags/talk/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Tutorial</title>
+				<link>https://florisdenhengst.github.io/tags/tutorial/</link>
+				<pubDate>Tue, 21 Oct 2025 16:38:32 +0200</pubDate>
+				<guid>https://florisdenhengst.github.io/tags/tutorial/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Media</title>
+				<link>https://florisdenhengst.github.io/tags/media/</link>
+				<pubDate>Tue, 19 Nov 2024 09:43:55 +0100</pubDate>
+				<guid>https://florisdenhengst.github.io/tags/media/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Healthcare</title>
+				<link>https://florisdenhengst.github.io/tags/healthcare/</link>
+				<pubDate>Sat, 19 Oct 2024 09:32:44 +0100</pubDate>
+				<guid>https://florisdenhengst.github.io/tags/healthcare/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Dialog Systems</title>
+				<link>https://florisdenhengst.github.io/tags/dialog-systems/</link>
+				<pubDate>Fri, 29 Mar 2024 21:30:50 +0100</pubDate>
+				<guid>https://florisdenhengst.github.io/tags/dialog-systems/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Pomdp</title>
+				<link>https://florisdenhengst.github.io/tags/pomdp/</link>
+				<pubDate>Thu, 09 Apr 2020 09:22:30 +0100</pubDate>
+				<guid>https://florisdenhengst.github.io/tags/pomdp/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Bingo</title>
+				<link>https://florisdenhengst.github.io/tags/bingo/</link>
+				<pubDate>Thu, 05 Sep 2019 15:39:37 +0200</pubDate>
+				<guid>https://florisdenhengst.github.io/tags/bingo/</guid>
+				<description></description>
+			</item>
+	</channel>
 </rss>

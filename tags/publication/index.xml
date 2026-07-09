@@ -1,107 +1,80 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>publication on Floris den Hengst&#39;s Homepage</title>
-    <link>https://florisdenhengst.github.io/tags/publication/</link>
-    <description>Recent content in publication on Floris den Hengst&#39;s Homepage</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Wed, 20 May 2026 12:59:21 +0200</lastBuildDate><atom:link href="https://florisdenhengst.github.io/tags/publication/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Symbolic Quantile Regression</title>
-      <link>https://florisdenhengst.github.io/posts/sqr/</link>
-      <pubDate>Wed, 20 May 2026 12:59:21 +0200</pubDate>
-      
-      <guid>https://florisdenhengst.github.io/posts/sqr/</guid>
-      <description>Throwback to this post about ICT.OPEN!
-This research with Cas Hoekstra has by now been published by Transactions on Machine Learning Research.
-We introduce Symbolic Quantile Regression (SQR), a framework that bridges the gap between high-performance numerical prediction and human-level interpretability:
- SQR generates concise, closed-form mathematical expressions that explain why a specific quantile (like the median or the 90th percentile) is being predicted. Transparency is built-in. In an extensive evaluation of 122 datasets, SQR outperformed existing transparent models and performed comparably to strong black-box baselines.</description>
-    </item>
-    
-    <item>
-      <title>CICC: Conformal Intent Classification and Clarification</title>
-      <link>https://florisdenhengst.github.io/posts/cicc/</link>
-      <pubDate>Fri, 29 Mar 2024 21:30:50 +0100</pubDate>
-      
-      <guid>https://florisdenhengst.github.io/posts/cicc/</guid>
-      <description>Our work on task-oriented dialogue systems has been accepted at ACL&amp;rsquo;s 2024 NAACL Findings.
-Task-oriented dialogue systems help users solve tasks in their daily lives. In order to do so, these systems have to identify the users intent.
-Dialogue systems may be uncertain about the user intent. In these cases, the system can ask the user to clarify, i.e. select from the intents that the system considers likely given the user input.</description>
-    </item>
-    
-    <item>
-      <title>Paper on strategic workforce planning with DRL at LOD</title>
-      <link>https://florisdenhengst.github.io/posts/rl-for-swp-lod/</link>
-      <pubDate>Tue, 14 Jun 2022 14:49:38 +0200</pubDate>
-      
-      <guid>https://florisdenhengst.github.io/posts/rl-for-swp-lod/</guid>
-      <description>A paper on Deep Reinforcement Learning (DRL) for strategic workforce planning co-authored with Yannick Smit, Sandjai Bhulai and Ehsan Mehdad is accepted as a long paper at the LOD conference.
-In this paper, we model strategic workforce planning as a stochastic nonlinear optimization problem, learn a generative model from data and use it as a simulator in a simulation-optimization approach.
-We show that the DRL approach enables optimizing an organizations&#39; strategic workforce goals directly.</description>
-    </item>
-    
-    <item>
-      <title>Option Machines paper accepted at IJCAI</title>
-      <link>https://florisdenhengst.github.io/posts/option-machines-ijcai/</link>
-      <pubDate>Sat, 21 May 2022 14:44:12 +0200</pubDate>
-      
-      <guid>https://florisdenhengst.github.io/posts/option-machines-ijcai/</guid>
-      <description>The paper Reinforcement Learning with Option Machines co-authored by me, Vincent François-Lavet, Mark Hoogendoorn and Frank van Harmelen is accepted as a long presentation (~3% acceptance rate) at IJCAI.
-Stay tuned for details!
-Update 2022-08-01: I presented my paper at IJCAI, it was great fun!
-Update 2022-09-23: The IJCAI proceedings are now available.</description>
-    </item>
-    
-    <item>
-      <title>Safe and Efficient Reinforcement Learning with Planning for Potential</title>
-      <link>https://florisdenhengst.github.io/posts/planning-for-potential/</link>
-      <pubDate>Thu, 24 Mar 2022 10:38:24 +0100</pubDate>
-      
-      <guid>https://florisdenhengst.github.io/posts/planning-for-potential/</guid>
-      <description>Reinforcement Learning has proven to be capable of outperforming humans on various tasks by interacting with and experimenting some environment. This makes it one of the most interesting and promising AI solutions to problems that require complex behaviors which we are unable to fully define upfront but can assign an objective score to.
-In many settings of interest such as in healthcare and finance, we&amp;rsquo;ll want to enforce safety constraints on any system of interest.</description>
-    </item>
-    
-    <item>
-      <title>Reinforcement Learning for Real Life Virtual Conference</title>
-      <link>https://florisdenhengst.github.io/posts/rl-at-workshop/</link>
-      <pubDate>Thu, 25 Jun 2020 21:14:18 +0200</pubDate>
-      
-      <guid>https://florisdenhengst.github.io/posts/rl-at-workshop/</guid>
-      <description>Upcoming weekend will be a virtual conference on reinforcement learning (RL) in real-life.
-It is of great interest to me primarily due to its program but also due to its organisation.
-The virtual conference consists of two panel sessions and a virtual `poster&#39; session with pre-recorded videos. There is a slack workspace for discussion, and questions to the panelists can be submitted up-front. Poster presenters are to host their own video channel.</description>
-    </item>
-    
-    <item>
-      <title>Reinforcement Learning for Personalization: A Survey</title>
-      <link>https://florisdenhengst.github.io/posts/rl-for-pers-survey/</link>
-      <pubDate>Thu, 09 Apr 2020 09:22:30 +0100</pubDate>
-      
-      <guid>https://florisdenhengst.github.io/posts/rl-for-pers-survey/</guid>
-      <description>Update 2020-06-27: this paper was presented as a `poster&#39;(video) at the RL for Real Life virtual Conference. Read more here.
- Reinforcement learning (RL) is becoming an increasingly popular tool to tackle hairy problems using data. A nice example of such a hairy problem is personalization. Personalization refers to a task central to many applications of data science and machine learning: to change a system so that its personal relevance to an individual or category of individuals is increased.</description>
-    </item>
-    
-    <item>
-      <title>Collecting User Satisfaction Ratings for Dialogue Systems</title>
-      <link>https://florisdenhengst.github.io/posts/high-quality-ratings/</link>
-      <pubDate>Fri, 20 Mar 2020 11:35:13 +0100</pubDate>
-      
-      <guid>https://florisdenhengst.github.io/posts/high-quality-ratings/</guid>
-      <description>Mickey, a master student I was co-supervising, recently published a paper based on his thesis work in ACM&amp;rsquo;s Conference for Human Information Interaction and Retrieval. His work focused on interfaces for collecting high-quality user satisfaction ratings for dialogue systems.
-User satisfaction is an important indicator in the design, evaluation and adaptation of dialogue systems. Establishing user satisfaction ratings for conversation-based systems, however, remains challenging. User questionnaires may yield biased results and typically have low response rates (~1%).</description>
-    </item>
-    
-    <item>
-      <title>Personalized Dialogue Management</title>
-      <link>https://florisdenhengst.github.io/posts/personalized-dm/</link>
-      <pubDate>Mon, 21 Oct 2019 10:31:06 +0200</pubDate>
-      
-      <guid>https://florisdenhengst.github.io/posts/personalized-dm/</guid>
-      <description>In a previous post I explained how reinforcement learning (RL) can be used to make chatbots better from its experience with users. RL allows chatbots to learn what to say by interacting with users. This allows for chatbots to tailor their behavior to preferences of groups of individuals, e.g. to personalize the interaction. I recently presented our paper on this topic, specifically on personalized dialog management at the Web Intelligence conference in Thessaloniki.</description>
-    </item>
-    
-  </channel>
+	<channel>
+		<title>Publication on Floris den Hengst&#39;s Homepage</title>
+		<link>https://florisdenhengst.github.io/tags/publication/</link>
+		<description>Recent content in Publication on Floris den Hengst&#39;s Homepage</description>
+		<generator>Hugo</generator>
+		<language>en-us</language>
+		
+		
+		
+		
+			<lastBuildDate>Wed, 20 May 2026 12:59:21 +0200</lastBuildDate>
+		
+			<atom:link href="https://florisdenhengst.github.io/tags/publication/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Symbolic Quantile Regression</title>
+				<link>https://florisdenhengst.github.io/posts/sqr/</link>
+				<pubDate>Wed, 20 May 2026 12:59:21 +0200</pubDate>
+				<guid>https://florisdenhengst.github.io/posts/sqr/</guid>
+				<description>&lt;p&gt;Throwback to this &lt;a href=&#34;https://florisdenhengst.github.io/posts/ictopen25/&#34;&gt;post&lt;/a&gt; about ICT.OPEN!&lt;/p&gt;&#xA;&lt;p&gt;This research with Cas Hoekstra has by now been published by &lt;a href=&#34;https://openreview.net/forum?id=x9OYbyPJOG&#34;&gt;Transactions on Machine Learning Research&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;We introduce Symbolic Quantile Regression (SQR), a framework that bridges the gap between high-performance numerical prediction and human-level interpretability:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;SQR generates concise, closed-form mathematical expressions that explain why a specific quantile (like the median or the 90th percentile) is being predicted. Transparency is built-in.&lt;/li&gt;&#xA;&lt;li&gt;In an extensive evaluation of 122 datasets, SQR outperformed existing transparent models and performed comparably to strong black-box baselines.&lt;/li&gt;&#xA;&lt;li&gt;SQR&amp;rsquo;s preference for simpler models helps it to generalize better to out-of-distribution data compared to more complex models.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;We also apply the framework on an airline fuel usage prediction task. Here, the goal was to understand why some flights use much more fuel than others.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>CICC: Conformal Intent Classification and Clarification</title>
+				<link>https://florisdenhengst.github.io/posts/cicc/</link>
+				<pubDate>Fri, 29 Mar 2024 21:30:50 +0100</pubDate>
+				<guid>https://florisdenhengst.github.io/posts/cicc/</guid>
+				<description>&lt;p&gt;Our work on hashtag#task-oriented dialogue systems has been accepted at ACL&amp;rsquo;s &lt;a href=&#34;https://2024.naacl.org/&#34;&gt;2024 NAACL&lt;/a&gt; Findings.&lt;/p&gt;&#xA;&lt;p&gt;Task-oriented dialogue systems help users solve tasks in their daily lives.&#xA;In order to do so, these systems have to identify the users intent.&lt;/p&gt;&#xA;&lt;p&gt;Dialogue systems may be uncertain about the user intent. In these cases, the system can ask the user to clarify, i.e. select from the intents that the system considers likely given the user input.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Paper on strategic workforce planning with DRL at LOD</title>
+				<link>https://florisdenhengst.github.io/posts/rl-for-swp-lod/</link>
+				<pubDate>Tue, 14 Jun 2022 14:49:38 +0200</pubDate>
+				<guid>https://florisdenhengst.github.io/posts/rl-for-swp-lod/</guid>
+				<description>&lt;p&gt;A paper on Deep Reinforcement Learning (DRL) for strategic workforce planning co-authored with Yannick Smit, Sandjai Bhulai and Ehsan Mehdad is accepted as a long paper at the &lt;a href=&#34;http://lod2022.icas.cc/&#34;&gt;LOD&lt;/a&gt; conference.&lt;/p&gt;&#xA;&lt;p&gt;In this paper, we model strategic workforce planning as a stochastic nonlinear optimization problem, learn a generative model from data and use it as a simulator in a simulation-optimization approach.&lt;/p&gt;&#xA;&lt;p&gt;We show that the DRL approach enables optimizing an organizations&amp;rsquo; strategic workforce goals &lt;em&gt;directly&lt;/em&gt;. It significantly outperforms the strong baseline (linear programming) on a strategic objective while closely approaching it on an operational objective.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Option Machines paper accepted at IJCAI</title>
+				<link>https://florisdenhengst.github.io/posts/option-machines-ijcai/</link>
+				<pubDate>Sat, 21 May 2022 14:44:12 +0200</pubDate>
+				<guid>https://florisdenhengst.github.io/posts/option-machines-ijcai/</guid>
+				<description>&lt;p&gt;The paper &lt;a href=&#34;https://florisdenhengst.github.io/publications/ijcai22-option-machines.pdf&#34;&gt;Reinforcement Learning with Option&#xA;Machines&lt;/a&gt; co-authored by me, Vincent&#xA;François-Lavet, Mark Hoogendoorn and Frank van Harmelen is accepted as a long&#xA;presentation (~3% acceptance rate) at &lt;a href=&#34;https://ijcai-22.org/&#34;&gt;IJCAI&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Stay tuned for details!&lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;Update 2022-08-01&lt;/em&gt;: I presented my paper at IJCAI, it was &lt;a href=&#34;https://florisdenhengst.github.io/posts/ijcai2022&#34;&gt;great fun&lt;/a&gt;!&lt;br&gt;&#xA;&lt;em&gt;Update 2022-09-23&lt;/em&gt;: The IJCAI proceedings are now &lt;a href=&#34;https://www.ijcai.org/proceedings/2022/403&#34;&gt;available&lt;/a&gt;.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Safe and Efficient Reinforcement Learning with Planning for Potential</title>
+				<link>https://florisdenhengst.github.io/posts/planning-for-potential/</link>
+				<pubDate>Thu, 24 Mar 2022 10:38:24 +0100</pubDate>
+				<guid>https://florisdenhengst.github.io/posts/planning-for-potential/</guid>
+				<description>&lt;p&gt;Reinforcement Learning has proven to be capable of outperforming humans on&#xA;various tasks by interacting with and experimenting some environment. This&#xA;makes it one of the most interesting and promising AI solutions to problems&#xA;that require complex behaviors which we are unable to fully define upfront but&#xA;can assign an objective score to.&lt;/p&gt;&#xA;&lt;p&gt;In many settings of interest such as in healthcare and finance, we&amp;rsquo;ll want to&#xA;enforce safety constraints on any system of interest. Arguably, these settings&#xA;are &lt;em&gt;the most interesting&lt;/em&gt; since, when the stakes are the highest we&amp;rsquo;ll care&#xA;most about the potentially adversary outcomes. Although RL has a lot to offer,&#xA;it cannot be readily applied in such safety-critical settings due to its lacking&#xA;guarantees on safety.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Reinforcement Learning for Real Life Virtual Conference</title>
+				<link>https://florisdenhengst.github.io/posts/rl-at-workshop/</link>
+				<pubDate>Thu, 25 Jun 2020 21:14:18 +0200</pubDate>
+				<guid>https://florisdenhengst.github.io/posts/rl-at-workshop/</guid>
+				<description>&lt;p&gt;Upcoming weekend will be a &lt;a href=&#34;https://sites.google.com/view/RL4RealLife&#34;&gt;virtual conference&lt;/a&gt; on reinforcement learning (RL) in real-life.&lt;/p&gt;&#xA;&lt;p&gt;It is of great interest to me primarily due to its program but also due to its organisation.&lt;/p&gt;&#xA;&lt;p&gt;The virtual conference consists of two panel sessions and a virtual `poster&amp;rsquo; session with&#xA;pre-recorded videos. There is a slack workspace for discussion, and questions to the panelists can&#xA;be submitted up-front. Poster presenters are to host their own video channel. The two panel&#xA;sessions start at times convenient to the US Atlantic and Pacific coast.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Reinforcement Learning for Personalization: A Survey</title>
+				<link>https://florisdenhengst.github.io/posts/rl-for-pers-survey/</link>
+				<pubDate>Thu, 09 Apr 2020 09:22:30 +0100</pubDate>
+				<guid>https://florisdenhengst.github.io/posts/rl-for-pers-survey/</guid>
+				<description>&lt;p&gt;&lt;em&gt;Update 2020-06-27&lt;/em&gt;: this paper was presented as a `poster&amp;rsquo;(video) at the &lt;a href=&#34;https://sites.google.com/view/RL4RealLife&#34;&gt;RL for Real Life virtual&#xA;Conference&lt;/a&gt;. Read more&#xA;&lt;a href=&#34;https://florisdenhengst.github.io/posts/rl-at-workshop/&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;iframe src=&#34;https://archive.org/embed/rlfor-real-life-2020&#34; width=&#34;640&#34; height=&#34;480&#34;&#xA;frameborder=&#34;0&#34; webkitallowfullscreen=&#34;true&#34; mozallowfullscreen=&#34;true&#34; allowfullscreen&gt;&lt;/iframe&gt;&#xA;&lt;p&gt;Reinforcement learning (RL) is becoming an increasingly popular tool to tackle hairy problems&#xA;using data. A nice example of such a hairy problem is &lt;em&gt;personalization&lt;/em&gt;. Personalization&#xA;refers to a task central to many applications of data science and machine learning: to change a&#xA;system so that its personal relevance to an individual or category of individuals is increased.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Collecting User Satisfaction Ratings for Dialogue Systems</title>
+				<link>https://florisdenhengst.github.io/posts/high-quality-ratings/</link>
+				<pubDate>Fri, 20 Mar 2020 11:35:13 +0100</pubDate>
+				<guid>https://florisdenhengst.github.io/posts/high-quality-ratings/</guid>
+				<description>&lt;p&gt;Mickey, a master student I was co-supervising, recently published &lt;a href=&#34;https://doi.org/10.1145/3343413.3377998&#34;&gt;a paper&lt;/a&gt; based on his thesis work in ACM&amp;rsquo;s Conference for Human Information Interaction and Retrieval. His work focused on interfaces for collecting high-quality user satisfaction ratings for dialogue systems.&lt;/p&gt;&#xA;&lt;p&gt;User satisfaction is an important indicator in the design, evaluation and &lt;a href=&#34;https://florisdenhengst.github.io/posts/personalized-dm&#34;&gt;adaptation&lt;/a&gt; of dialogue systems.&#xA;Establishing user satisfaction ratings for conversation-based systems, however, remains challenging.&#xA;User questionnaires may yield biased results and typically have low response rates (~1%).&#xA;Third-party raters may be costly and gathering consistent and high-quality ratings from them is challenging.&#xA;Mickey identified the issues that arise here, developed and open-sourced &lt;a href=&#34;https://github.com/mickeyvz/interface_chatbot_evaluation&#34;&gt;a tool&lt;/a&gt; with solutions to these issues and evaluated it in a case study on a public dataset.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Personalized Dialogue Management</title>
+				<link>https://florisdenhengst.github.io/posts/personalized-dm/</link>
+				<pubDate>Mon, 21 Oct 2019 10:31:06 +0200</pubDate>
+				<guid>https://florisdenhengst.github.io/posts/personalized-dm/</guid>
+				<description>&lt;p&gt;In a &lt;a href=&#34;https://florisdenhengst.github.io/posts/rl-for-dialog-management&#34;&gt;previous post&lt;/a&gt; I explained how reinforcement&#xA;learning (RL) can be used to make chatbots better from its experience with users. RL allows chatbots to learn what to say by interacting with users. This allows for chatbots to tailor their behavior to preferences of groups of individuals, e.g. to &lt;em&gt;personalize&lt;/em&gt; the interaction. I recently presented our paper on&#xA;this topic, specifically on personalized dialog management at the &lt;a href=&#34;https://webintelligence2019.com/&#34;&gt;Web Intelligence&lt;/a&gt; conference in Thessaloniki. In this conference, only 19% of all submitted papers were accepted as full paper. I&amp;rsquo;ll briefly describe the main contributions of the paper here.&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

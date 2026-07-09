@@ -1,21 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Bingo on Floris den Hengst&#39;s Homepage</title>
-    <link>https://florisdenhengst.github.io/tags/bingo/</link>
-    <description>Recent content in Bingo on Floris den Hengst&#39;s Homepage</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Thu, 05 Sep 2019 15:39:37 +0200</lastBuildDate><atom:link href="https://florisdenhengst.github.io/tags/bingo/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>How to Create a Music Bingo in Minutes</title>
-      <link>https://florisdenhengst.github.io/posts/music-bingo/</link>
-      <pubDate>Thu, 05 Sep 2019 15:39:37 +0200</pubDate>
-      
-      <guid>https://florisdenhengst.github.io/posts/music-bingo/</guid>
-      <description>I was recently asked to help organise a &amp;lsquo;music bingo&amp;rsquo; for students of horseriding association BLOK. To be completely honest with you, I feel that bingo is probably one of the most boring party games out there as the only &amp;lsquo;skills&amp;rsquo; involved are paying attention and bookkeeping.
-Music bingo, however, puts a nice twist to the original game that makes it more fun, exciting and skill-based. Music bingo is like regular bingo with some minor differences that make it just so much more fun.</description>
-    </item>
-    
-  </channel>
+	<channel>
+		<title>Bingo on Floris den Hengst&#39;s Homepage</title>
+		<link>https://florisdenhengst.github.io/tags/bingo/</link>
+		<description>Recent content in Bingo on Floris den Hengst&#39;s Homepage</description>
+		<generator>Hugo</generator>
+		<language>en-us</language>
+		
+		
+		
+		
+			<lastBuildDate>Thu, 05 Sep 2019 15:39:37 +0200</lastBuildDate>
+		
+			<atom:link href="https://florisdenhengst.github.io/tags/bingo/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>How to Create a Music Bingo in Minutes</title>
+				<link>https://florisdenhengst.github.io/posts/music-bingo/</link>
+				<pubDate>Thu, 05 Sep 2019 15:39:37 +0200</pubDate>
+				<guid>https://florisdenhengst.github.io/posts/music-bingo/</guid>
+				<description>&lt;p&gt;I was recently asked to help organise a &amp;lsquo;music bingo&amp;rsquo; for students of horseriding association&#xA;&lt;a href=&#34;http://asrblok.com/english/&#34;&gt;BLOK&lt;/a&gt;. To be completely honest with you, I feel that bingo is&#xA;probably one of the most boring party games out there as the only &amp;lsquo;skills&amp;rsquo; involved are paying attention&#xA;and bookkeeping.&lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;Music&lt;/em&gt; bingo, however, puts a nice twist to the original game that makes it more&#xA;fun, exciting and skill-based. Music bingo is like regular bingo with some minor differences that&#xA;make it just so much more fun. The first difference is in the bingo cards: these consist of a grid&#xA;of cells like in regular bingo but each cell contains a song title instead of a number. Instead of drawing random&#xA;numbers from a tumbler, songs are played from a (randomized) playlist. If a song is played, it can be marked on the card and once a player has five marked cells in a row, they shout &amp;lsquo;BINGO!&amp;rsquo; and collect their prize.&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

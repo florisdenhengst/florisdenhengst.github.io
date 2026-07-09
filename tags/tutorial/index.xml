@@ -1,50 +1,45 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>tutorial on Floris den Hengst&#39;s Homepage</title>
-    <link>https://florisdenhengst.github.io/tags/tutorial/</link>
-    <description>Recent content in tutorial on Floris den Hengst&#39;s Homepage</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Tue, 21 Oct 2025 16:38:32 +0200</lastBuildDate><atom:link href="https://florisdenhengst.github.io/tags/tutorial/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Tutorial in PhD course</title>
-      <link>https://florisdenhengst.github.io/posts/siks-course-sharpie/</link>
-      <pubDate>Tue, 21 Oct 2025 16:38:32 +0200</pubDate>
-      
-      <guid>https://florisdenhengst.github.io/posts/siks-course-sharpie/</guid>
-      <description>We contributed a tutorial on doing real-world experiments involving humans and sequential decision making agents to a national PhD course on Reinforcement Learning for Adaptive Hybrid Intelligence. This two-day course is about making AI agents adapt to humans using reinforcement learning.
-We set two goals for our tutorial:
- Hands-on experience with hybrid RL example Familiarize participants with SHARPIE and a hybrid RL algorithm  SHARPIE SHARPIE is a framework for creating live demo&amp;rsquo;s and conducting real-world experiments involving humans and RL agents.</description>
-    </item>
-    
-    <item>
-      <title>A Brief intro to Gaussian Processes</title>
-      <link>https://florisdenhengst.github.io/posts/intro-to-gps/</link>
-      <pubDate>Tue, 21 Jun 2022 14:12:24 +0200</pubDate>
-      
-      <guid>https://florisdenhengst.github.io/posts/intro-to-gps/</guid>
-      <description>Gaussian Processes are a fascinating tool for usage in RL due to modelling uncertainty and data efficiency I briefly introduced GP&amp;rsquo;s and shown how/why they are used in RL  Gaussian processes (GPs) are a fascinating tool in the machine learning toolbelt. They stand out for a couple of reasons: some people will like them for their data efficiency, others love them for their ability to incorporate domain knowledge and yet others will love them for their visual or mathematical beauty.</description>
-    </item>
-    
-    <item>
-      <title>How to Create a Music Bingo in Minutes</title>
-      <link>https://florisdenhengst.github.io/posts/music-bingo/</link>
-      <pubDate>Thu, 05 Sep 2019 15:39:37 +0200</pubDate>
-      
-      <guid>https://florisdenhengst.github.io/posts/music-bingo/</guid>
-      <description>I was recently asked to help organise a &amp;lsquo;music bingo&amp;rsquo; for students of horseriding association BLOK. To be completely honest with you, I feel that bingo is probably one of the most boring party games out there as the only &amp;lsquo;skills&amp;rsquo; involved are paying attention and bookkeeping.
-Music bingo, however, puts a nice twist to the original game that makes it more fun, exciting and skill-based. Music bingo is like regular bingo with some minor differences that make it just so much more fun.</description>
-    </item>
-    
-    <item>
-      <title>How Reinforcement Learning is Applied to Dialogue Control</title>
-      <link>https://florisdenhengst.github.io/posts/rl-for-dialog-management/</link>
-      <pubDate>Fri, 15 Feb 2019 12:41:16 +0100</pubDate>
-      
-      <guid>https://florisdenhengst.github.io/posts/rl-for-dialog-management/</guid>
-      <description>The value offering of most contemporary chatbot platforms consists of packaging state-of-art Automated Speech Recognition (ASR, or &amp;lsquo;speech-to-text&amp;rsquo;), Natural Language Understanding (NLU) and Voice Synthesis into a comprehensive API. The API typically also includes some programming model for dialog control such as DialogFlows&#39; Contexts and follow-up Intents and Alexa&amp;rsquo;s Dialog model. Implementing the right dialog controller is up to the developer. Figure 1 summarizes this in a diagram, with the handcrafted modules in green and with a keyboard in the top right.</description>
-    </item>
-    
-  </channel>
+	<channel>
+		<title>Tutorial on Floris den Hengst&#39;s Homepage</title>
+		<link>https://florisdenhengst.github.io/tags/tutorial/</link>
+		<description>Recent content in Tutorial on Floris den Hengst&#39;s Homepage</description>
+		<generator>Hugo</generator>
+		<language>en-us</language>
+		
+		
+		
+		
+			<lastBuildDate>Tue, 21 Oct 2025 16:38:32 +0200</lastBuildDate>
+		
+			<atom:link href="https://florisdenhengst.github.io/tags/tutorial/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Tutorial in PhD course</title>
+				<link>https://florisdenhengst.github.io/posts/siks-course-sharpie/</link>
+				<pubDate>Tue, 21 Oct 2025 16:38:32 +0200</pubDate>
+				<guid>https://florisdenhengst.github.io/posts/siks-course-sharpie/</guid>
+				<description>&lt;p&gt;We contributed a tutorial on doing real-world experiments involving humans and sequential decision&#xA;making agents to a national PhD course on &lt;a href=&#34;https://siks.nl/activities/activities/siks-course-rl-for-ahi-2025/&#34;&gt;Reinforcement Learning for Adaptive Hybrid&#xA;Intelligence&lt;/a&gt;. This two-day&#xA;course is about making AI agents adapt to humans using reinforcement learning.&lt;/p&gt;&#xA;&lt;p&gt;We set two goals for our tutorial:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Hands-on experience with hybrid RL example&lt;/li&gt;&#xA;&lt;li&gt;Familiarize participants with SHARPIE and a hybrid RL algorithm&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;h1 id=&#34;sharpie&#34;&gt;SHARPIE&lt;/h1&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://github.com/hybrid-intelligence/SHARPIE&#34;&gt;SHARPIE&lt;/a&gt; is a framework for creating live demo&amp;rsquo;s&#xA;and conducting real-world experiments involving humans and RL agents.&#xA;It&amp;rsquo;s core idea is to allow researchers to incorporate a human at any point in the RL&#xA;agent-environment interface:&#xA;&lt;img src=&#34;https://florisdenhengst.github.io/imgs/sharpie-interface.png&#34; alt=&#34;Agent-environment interface with human&#34;&gt;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>A Brief intro to Gaussian Processes</title>
+				<link>https://florisdenhengst.github.io/posts/intro-to-gps/</link>
+				<pubDate>Tue, 21 Jun 2022 14:12:24 +0200</pubDate>
+				<guid>https://florisdenhengst.github.io/posts/intro-to-gps/</guid>
+				<description>&lt;ul&gt;&#xA;&lt;li&gt;Gaussian Processes are a fascinating tool for usage in RL due to modelling uncertainty and data efficiency&lt;/li&gt;&#xA;&lt;li&gt;I briefly introduced GP&amp;rsquo;s and shown how/why they are used in RL&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Gaussian processes (GPs) are a fascinating tool in the machine learning toolbelt. They stand out&#xA;for a couple of reasons: some people will like them for their data efficiency, others love them&#xA;for their ability to incorporate domain knowledge and yet others will love them for their visual&#xA;or mathematical beauty. I was first introduced with GPs when studying ways to optimize chatbots or&#xA;&lt;a href=&#34;https://florisdenhengst.github.io/posts/rl-for-dialogue-management&#34;&gt;dialogue agents&lt;/a&gt; using data. In this blog post, I will&#xA;introduce some of the concepts of GPs, discuss their strengths and weaknesses and discuss some&#xA;applications in Reinforcement Learning (RL).&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>How to Create a Music Bingo in Minutes</title>
+				<link>https://florisdenhengst.github.io/posts/music-bingo/</link>
+				<pubDate>Thu, 05 Sep 2019 15:39:37 +0200</pubDate>
+				<guid>https://florisdenhengst.github.io/posts/music-bingo/</guid>
+				<description>&lt;p&gt;I was recently asked to help organise a &amp;lsquo;music bingo&amp;rsquo; for students of horseriding association&#xA;&lt;a href=&#34;http://asrblok.com/english/&#34;&gt;BLOK&lt;/a&gt;. To be completely honest with you, I feel that bingo is&#xA;probably one of the most boring party games out there as the only &amp;lsquo;skills&amp;rsquo; involved are paying attention&#xA;and bookkeeping.&lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;Music&lt;/em&gt; bingo, however, puts a nice twist to the original game that makes it more&#xA;fun, exciting and skill-based. Music bingo is like regular bingo with some minor differences that&#xA;make it just so much more fun. The first difference is in the bingo cards: these consist of a grid&#xA;of cells like in regular bingo but each cell contains a song title instead of a number. Instead of drawing random&#xA;numbers from a tumbler, songs are played from a (randomized) playlist. If a song is played, it can be marked on the card and once a player has five marked cells in a row, they shout &amp;lsquo;BINGO!&amp;rsquo; and collect their prize.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>How Reinforcement Learning is Applied to Dialogue Control</title>
+				<link>https://florisdenhengst.github.io/posts/rl-for-dialog-management/</link>
+				<pubDate>Fri, 15 Feb 2019 12:41:16 +0100</pubDate>
+				<guid>https://florisdenhengst.github.io/posts/rl-for-dialog-management/</guid>
+				<description>&lt;p&gt;The value offering of most contemporary chatbot platforms consists of packaging state-of-art&#xA;Automated Speech Recognition (ASR, or &amp;lsquo;speech-to-text&amp;rsquo;), Natural Language Understanding (NLU) and&#xA;Voice Synthesis into a comprehensive API. The API typically also includes some programming&#xA;model for dialog control such as DialogFlows&amp;rsquo; &lt;a href=&#34;https://www.youtube.com/watch?v=-tOamKtmxdY&#34;&gt;Contexts and follow-up&#xA;Intents&lt;/a&gt; and Alexa&amp;rsquo;s &lt;a href=&#34;https://developer.amazon.com/docs/custom-skills/define-the-dialog-to-collect-and-confirm-required-information.html&#34;&gt;Dialog&#xA;model&lt;/a&gt;.&#xA;Implementing the right dialog controller is up to the developer. Figure 1 summarizes this in a&#xA;diagram, with the handcrafted modules in green and with a keyboard in the top right. These&#xA;handcrafted modules Developers&#xA;can use their experience and common sense or even turn to &lt;a href=&#34;https://ctb.ku.edu/en/table-of-contents/assessment/assessing-community-needs-and-resources/conduct-focus-groups/main&#34;&gt;focus&#xA;groups&lt;/a&gt;&#xA;and A/B tests in optimizing these handcrafted parts of the bot. Although making all optimization&#xA;decisions upfront works well in small systems, it fails to scale to applications where many&#xA;decisions are involved such as when a &lt;em&gt;personalized&lt;/em&gt; chatbot is desired. &lt;a href=&#34;http://www0.cs.ucl.ac.uk/staff/D.Silver/web/Teaching_files/intro_RL.pdf#page=6&#34;&gt;Reinforcement&#xA;Learning&lt;/a&gt; (RL) can&#xA;help in such cases. In this blog post, I&amp;rsquo;ll describe the formalism underlying most dialog&#xA;management models, explain how this formalism can be generalized to support more flexible dialog&#xA;management and finally, how RL can be used to optimize dialog management using data.&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

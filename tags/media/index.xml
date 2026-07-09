@@ -1,62 +1,52 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>media on Floris den Hengst&#39;s Homepage</title>
-    <link>https://florisdenhengst.github.io/tags/media/</link>
-    <description>Recent content in media on Floris den Hengst&#39;s Homepage</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Tue, 19 Nov 2024 09:43:55 +0100</lastBuildDate><atom:link href="https://florisdenhengst.github.io/tags/media/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Bluesky</title>
-      <link>https://florisdenhengst.github.io/posts/bluesky/</link>
-      <pubDate>Tue, 19 Nov 2024 09:43:55 +0100</pubDate>
-      
-      <guid>https://florisdenhengst.github.io/posts/bluesky/</guid>
-      <description>Today I joined Bluesky, a social media platform that aims to put users front-and-centre again.
-See here for my profile and use this list of starter packs:
- Neurosymbolic AI starter pack RL AI in healthcare AI  </description>
-    </item>
-    
-    <item>
-      <title>BNAIC/BeNeLearn 2024</title>
-      <link>https://florisdenhengst.github.io/posts/bnaic2024/</link>
-      <pubDate>Sat, 19 Oct 2024 09:32:44 +0100</pubDate>
-      
-      <guid>https://florisdenhengst.github.io/posts/bnaic2024/</guid>
-      <description>I will attend the 2024 BNAIC/BeNeLearn to present our work on guideline-reinforcement informed reinforcement learning in critical care.
-See the poster here (PDF) and slides here (PDF).</description>
-    </item>
-    
-    <item>
-      <title>Reinforcement Learning for Personalization: A Survey</title>
-      <link>https://florisdenhengst.github.io/posts/rl-for-pers-survey/</link>
-      <pubDate>Thu, 09 Apr 2020 09:22:30 +0100</pubDate>
-      
-      <guid>https://florisdenhengst.github.io/posts/rl-for-pers-survey/</guid>
-      <description>Update 2020-06-27: this paper was presented as a `poster&#39;(video) at the RL for Real Life virtual Conference. Read more here.
- Reinforcement learning (RL) is becoming an increasingly popular tool to tackle hairy problems using data. A nice example of such a hairy problem is personalization. Personalization refers to a task central to many applications of data science and machine learning: to change a system so that its personal relevance to an individual or category of individuals is increased.</description>
-    </item>
-    
-    <item>
-      <title>Featured in Villamedia Blog</title>
-      <link>https://florisdenhengst.github.io/posts/villamedia-blog/</link>
-      <pubDate>Wed, 18 Dec 2019 14:39:21 +0100</pubDate>
-      
-      <guid>https://florisdenhengst.github.io/posts/villamedia-blog/</guid>
-      <description>Today, my work is &amp;ndash; very briefly &amp;ndash; mentioned in a post by Nick Kivits.
-The post is part of a blog series on innovation in the media and it is hosted on Villamedia, a Dutch website on journalism.</description>
-    </item>
-    
-    <item>
-      <title>Bitter Lesson Response</title>
-      <link>https://florisdenhengst.github.io/posts/bitter-lesson-response/</link>
-      <pubDate>Wed, 20 Mar 2019 23:27:28 +0100</pubDate>
-      
-      <guid>https://florisdenhengst.github.io/posts/bitter-lesson-response/</guid>
-      <description>A couple of days ago, RL founding father Rich Sutton posted a blog post. My reading is as follows:
- Moore&amp;rsquo;s Law has consistently made general, compute-based methods outperform task-specific, domain knowledge-based methods for tasks in the AI `sphere of interest&#39; This has served as a bitter lesson for many (all?) researchers that have focused on developing such domain-specific methods General methods will always prevail, especially those that scale with compute  Although I tend to agree with the overall idea that general methods are the way forward for AI, I feel that some nuance is in order.</description>
-    </item>
-    
-  </channel>
+	<channel>
+		<title>Media on Floris den Hengst&#39;s Homepage</title>
+		<link>https://florisdenhengst.github.io/tags/media/</link>
+		<description>Recent content in Media on Floris den Hengst&#39;s Homepage</description>
+		<generator>Hugo</generator>
+		<language>en-us</language>
+		
+		
+		
+		
+			<lastBuildDate>Tue, 19 Nov 2024 09:43:55 +0100</lastBuildDate>
+		
+			<atom:link href="https://florisdenhengst.github.io/tags/media/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Bluesky</title>
+				<link>https://florisdenhengst.github.io/posts/bluesky/</link>
+				<pubDate>Tue, 19 Nov 2024 09:43:55 +0100</pubDate>
+				<guid>https://florisdenhengst.github.io/posts/bluesky/</guid>
+				<description>&lt;p&gt;Today I joined &lt;a href=&#34;https://bsky.social/about&#34;&gt;Bluesky&lt;/a&gt;, a social media platform that aims to put&#xA;users front-and-centre again.&lt;/p&gt;&#xA;&lt;p&gt;See &lt;a href=&#34;https://florisdh.bsky.social&#34;&gt;here&lt;/a&gt; for my profile and use this list of starter packs:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://go.bsky.app/RMJ8q3i&#34;&gt;Neurosymbolic AI starter pack&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;go.bsky.app/3WPHcHg&#34;&gt;RL&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;go.bsky.app/7PeNwep&#34;&gt;AI in healthcare&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;go.bsky.app/SipA7it&#34;&gt;AI&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+			</item>
+			<item>
+				<title>BNAIC/BeNeLearn 2024</title>
+				<link>https://florisdenhengst.github.io/posts/bnaic2024/</link>
+				<pubDate>Sat, 19 Oct 2024 09:32:44 +0100</pubDate>
+				<guid>https://florisdenhengst.github.io/posts/bnaic2024/</guid>
+				<description>&lt;p&gt;I will attend the &lt;a href=&#34;https://bnaic2024.sites.uu.nl/&#34;&gt;2024 BNAIC/BeNeLearn&lt;/a&gt; to present our work on&#xA;&lt;a href=&#34;https://www.sciencedirect.com/science/article/pii/S0933365723002567&#34;&gt;guideline-reinforcement informed reinforcement learning in critical&#xA;care&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;See the poster &lt;a href=&#34;https://florisdenhengst.github.io/presentations/2024BNAIC-poster.pdf&#34;&gt;here&lt;/a&gt; (PDF) and slides&#xA;&lt;a href=&#34;https://florisdenhengst.github.io/static/presentations/2024BNAIC-talk.pdf&#34;&gt;here&lt;/a&gt; (PDF).&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Reinforcement Learning for Personalization: A Survey</title>
+				<link>https://florisdenhengst.github.io/posts/rl-for-pers-survey/</link>
+				<pubDate>Thu, 09 Apr 2020 09:22:30 +0100</pubDate>
+				<guid>https://florisdenhengst.github.io/posts/rl-for-pers-survey/</guid>
+				<description>&lt;p&gt;&lt;em&gt;Update 2020-06-27&lt;/em&gt;: this paper was presented as a `poster&amp;rsquo;(video) at the &lt;a href=&#34;https://sites.google.com/view/RL4RealLife&#34;&gt;RL for Real Life virtual&#xA;Conference&lt;/a&gt;. Read more&#xA;&lt;a href=&#34;https://florisdenhengst.github.io/posts/rl-at-workshop/&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;iframe src=&#34;https://archive.org/embed/rlfor-real-life-2020&#34; width=&#34;640&#34; height=&#34;480&#34;&#xA;frameborder=&#34;0&#34; webkitallowfullscreen=&#34;true&#34; mozallowfullscreen=&#34;true&#34; allowfullscreen&gt;&lt;/iframe&gt;&#xA;&lt;p&gt;Reinforcement learning (RL) is becoming an increasingly popular tool to tackle hairy problems&#xA;using data. A nice example of such a hairy problem is &lt;em&gt;personalization&lt;/em&gt;. Personalization&#xA;refers to a task central to many applications of data science and machine learning: to change a&#xA;system so that its personal relevance to an individual or category of individuals is increased.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Featured in Villamedia Blog</title>
+				<link>https://florisdenhengst.github.io/posts/villamedia-blog/</link>
+				<pubDate>Wed, 18 Dec 2019 14:39:21 +0100</pubDate>
+				<guid>https://florisdenhengst.github.io/posts/villamedia-blog/</guid>
+				<description>&lt;p&gt;Today, my work is &amp;ndash; very briefly &amp;ndash; mentioned in a &lt;a href=&#34;https://www.villamedia.nl/artikel/de-toekomst-van-chatbots&#34;&gt;post&lt;/a&gt; by Nick Kivits.&lt;/p&gt;&#xA;&lt;p&gt;The post is part of a blog series on innovation in the media and it is hosted on Villamedia, a&#xA;Dutch website on journalism.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Bitter Lesson Response</title>
+				<link>https://florisdenhengst.github.io/posts/bitter-lesson-response/</link>
+				<pubDate>Wed, 20 Mar 2019 23:27:28 +0100</pubDate>
+				<guid>https://florisdenhengst.github.io/posts/bitter-lesson-response/</guid>
+				<description>&lt;p&gt;A couple of days ago, RL founding father Rich Sutton posted a &lt;a href=&#34;http://www.incompleteideas.net/IncIdeas/BitterLesson.html&#34;&gt;blog&#xA;post&lt;/a&gt;. My reading is as follows:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Moore&amp;rsquo;s Law has consistently made general, compute-based methods outperform task-specific,&#xA;domain knowledge-based methods for tasks in the AI `sphere of interest&#39;&lt;/li&gt;&#xA;&lt;li&gt;This has served as a bitter lesson for many (all?) researchers that have focused on developing&#xA;such domain-specific methods&lt;/li&gt;&#xA;&lt;li&gt;General methods will always prevail, especially those that scale with compute&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Although I tend to agree with the overall idea that general methods are the way forward for AI, I&#xA;feel that some nuance is in order. Specifically, I feel that task-specific methods fulfill a&#xA;crucial role by showing what can be accomplished on a narrow task and thus serves like a telescope&#xA;into the future. Furthermore, I believe that the role of &lt;em&gt;data&lt;/em&gt; is not appreciated&#xA;by Prof. Sutton. The availability data useful to some task may have natural limits.&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

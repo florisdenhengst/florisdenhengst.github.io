@@ -1,39 +1,38 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>pomdp on Floris den Hengst&#39;s Homepage</title>
-    <link>https://florisdenhengst.github.io/tags/pomdp/</link>
-    <description>Recent content in pomdp on Floris den Hengst&#39;s Homepage</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Thu, 09 Apr 2020 09:22:30 +0100</lastBuildDate><atom:link href="https://florisdenhengst.github.io/tags/pomdp/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Reinforcement Learning for Personalization: A Survey</title>
-      <link>https://florisdenhengst.github.io/posts/rl-for-pers-survey/</link>
-      <pubDate>Thu, 09 Apr 2020 09:22:30 +0100</pubDate>
-      
-      <guid>https://florisdenhengst.github.io/posts/rl-for-pers-survey/</guid>
-      <description>Update 2020-06-27: this paper was presented as a `poster&#39;(video) at the RL for Real Life virtual Conference. Read more here.
- Reinforcement learning (RL) is becoming an increasingly popular tool to tackle hairy problems using data. A nice example of such a hairy problem is personalization. Personalization refers to a task central to many applications of data science and machine learning: to change a system so that its personal relevance to an individual or category of individuals is increased.</description>
-    </item>
-    
-    <item>
-      <title>Personalized Dialogue Management</title>
-      <link>https://florisdenhengst.github.io/posts/personalized-dm/</link>
-      <pubDate>Mon, 21 Oct 2019 10:31:06 +0200</pubDate>
-      
-      <guid>https://florisdenhengst.github.io/posts/personalized-dm/</guid>
-      <description>In a previous post I explained how reinforcement learning (RL) can be used to make chatbots better from its experience with users. RL allows chatbots to learn what to say by interacting with users. This allows for chatbots to tailor their behavior to preferences of groups of individuals, e.g. to personalize the interaction. I recently presented our paper on this topic, specifically on personalized dialog management at the Web Intelligence conference in Thessaloniki.</description>
-    </item>
-    
-    <item>
-      <title>How Reinforcement Learning is Applied to Dialogue Control</title>
-      <link>https://florisdenhengst.github.io/posts/rl-for-dialog-management/</link>
-      <pubDate>Fri, 15 Feb 2019 12:41:16 +0100</pubDate>
-      
-      <guid>https://florisdenhengst.github.io/posts/rl-for-dialog-management/</guid>
-      <description>The value offering of most contemporary chatbot platforms consists of packaging state-of-art Automated Speech Recognition (ASR, or &amp;lsquo;speech-to-text&amp;rsquo;), Natural Language Understanding (NLU) and Voice Synthesis into a comprehensive API. The API typically also includes some programming model for dialog control such as DialogFlows&#39; Contexts and follow-up Intents and Alexa&amp;rsquo;s Dialog model. Implementing the right dialog controller is up to the developer. Figure 1 summarizes this in a diagram, with the handcrafted modules in green and with a keyboard in the top right.</description>
-    </item>
-    
-  </channel>
+	<channel>
+		<title>Pomdp on Floris den Hengst&#39;s Homepage</title>
+		<link>https://florisdenhengst.github.io/tags/pomdp/</link>
+		<description>Recent content in Pomdp on Floris den Hengst&#39;s Homepage</description>
+		<generator>Hugo</generator>
+		<language>en-us</language>
+		
+		
+		
+		
+			<lastBuildDate>Thu, 09 Apr 2020 09:22:30 +0100</lastBuildDate>
+		
+			<atom:link href="https://florisdenhengst.github.io/tags/pomdp/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Reinforcement Learning for Personalization: A Survey</title>
+				<link>https://florisdenhengst.github.io/posts/rl-for-pers-survey/</link>
+				<pubDate>Thu, 09 Apr 2020 09:22:30 +0100</pubDate>
+				<guid>https://florisdenhengst.github.io/posts/rl-for-pers-survey/</guid>
+				<description>&lt;p&gt;&lt;em&gt;Update 2020-06-27&lt;/em&gt;: this paper was presented as a `poster&amp;rsquo;(video) at the &lt;a href=&#34;https://sites.google.com/view/RL4RealLife&#34;&gt;RL for Real Life virtual&#xA;Conference&lt;/a&gt;. Read more&#xA;&lt;a href=&#34;https://florisdenhengst.github.io/posts/rl-at-workshop/&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;iframe src=&#34;https://archive.org/embed/rlfor-real-life-2020&#34; width=&#34;640&#34; height=&#34;480&#34;&#xA;frameborder=&#34;0&#34; webkitallowfullscreen=&#34;true&#34; mozallowfullscreen=&#34;true&#34; allowfullscreen&gt;&lt;/iframe&gt;&#xA;&lt;p&gt;Reinforcement learning (RL) is becoming an increasingly popular tool to tackle hairy problems&#xA;using data. A nice example of such a hairy problem is &lt;em&gt;personalization&lt;/em&gt;. Personalization&#xA;refers to a task central to many applications of data science and machine learning: to change a&#xA;system so that its personal relevance to an individual or category of individuals is increased.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Personalized Dialogue Management</title>
+				<link>https://florisdenhengst.github.io/posts/personalized-dm/</link>
+				<pubDate>Mon, 21 Oct 2019 10:31:06 +0200</pubDate>
+				<guid>https://florisdenhengst.github.io/posts/personalized-dm/</guid>
+				<description>&lt;p&gt;In a &lt;a href=&#34;https://florisdenhengst.github.io/posts/rl-for-dialog-management&#34;&gt;previous post&lt;/a&gt; I explained how reinforcement&#xA;learning (RL) can be used to make chatbots better from its experience with users. RL allows chatbots to learn what to say by interacting with users. This allows for chatbots to tailor their behavior to preferences of groups of individuals, e.g. to &lt;em&gt;personalize&lt;/em&gt; the interaction. I recently presented our paper on&#xA;this topic, specifically on personalized dialog management at the &lt;a href=&#34;https://webintelligence2019.com/&#34;&gt;Web Intelligence&lt;/a&gt; conference in Thessaloniki. In this conference, only 19% of all submitted papers were accepted as full paper. I&amp;rsquo;ll briefly describe the main contributions of the paper here.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>How Reinforcement Learning is Applied to Dialogue Control</title>
+				<link>https://florisdenhengst.github.io/posts/rl-for-dialog-management/</link>
+				<pubDate>Fri, 15 Feb 2019 12:41:16 +0100</pubDate>
+				<guid>https://florisdenhengst.github.io/posts/rl-for-dialog-management/</guid>
+				<description>&lt;p&gt;The value offering of most contemporary chatbot platforms consists of packaging state-of-art&#xA;Automated Speech Recognition (ASR, or &amp;lsquo;speech-to-text&amp;rsquo;), Natural Language Understanding (NLU) and&#xA;Voice Synthesis into a comprehensive API. The API typically also includes some programming&#xA;model for dialog control such as DialogFlows&amp;rsquo; &lt;a href=&#34;https://www.youtube.com/watch?v=-tOamKtmxdY&#34;&gt;Contexts and follow-up&#xA;Intents&lt;/a&gt; and Alexa&amp;rsquo;s &lt;a href=&#34;https://developer.amazon.com/docs/custom-skills/define-the-dialog-to-collect-and-confirm-required-information.html&#34;&gt;Dialog&#xA;model&lt;/a&gt;.&#xA;Implementing the right dialog controller is up to the developer. Figure 1 summarizes this in a&#xA;diagram, with the handcrafted modules in green and with a keyboard in the top right. These&#xA;handcrafted modules Developers&#xA;can use their experience and common sense or even turn to &lt;a href=&#34;https://ctb.ku.edu/en/table-of-contents/assessment/assessing-community-needs-and-resources/conduct-focus-groups/main&#34;&gt;focus&#xA;groups&lt;/a&gt;&#xA;and A/B tests in optimizing these handcrafted parts of the bot. Although making all optimization&#xA;decisions upfront works well in small systems, it fails to scale to applications where many&#xA;decisions are involved such as when a &lt;em&gt;personalized&lt;/em&gt; chatbot is desired. &lt;a href=&#34;http://www0.cs.ucl.ac.uk/staff/D.Silver/web/Teaching_files/intro_RL.pdf#page=6&#34;&gt;Reinforcement&#xA;Learning&lt;/a&gt; (RL) can&#xA;help in such cases. In this blog post, I&amp;rsquo;ll describe the formalism underlying most dialog&#xA;management models, explain how this formalism can be generalized to support more flexible dialog&#xA;management and finally, how RL can be used to optimize dialog management using data.&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

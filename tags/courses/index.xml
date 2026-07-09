@@ -1,82 +1,66 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Courses on Floris den Hengst&#39;s Homepage</title>
-    <link>https://florisdenhengst.github.io/tags/courses/</link>
-    <description>Recent content in Courses on Floris den Hengst&#39;s Homepage</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Thu, 13 Nov 2025 15:52:31 +0100</lastBuildDate><atom:link href="https://florisdenhengst.github.io/tags/courses/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>University Teaching Qualification</title>
-      <link>https://florisdenhengst.github.io/posts/utq/</link>
-      <pubDate>Thu, 13 Nov 2025 15:52:31 +0100</pubDate>
-      
-      <guid>https://florisdenhengst.github.io/posts/utq/</guid>
-      <description>Small post to celebrate that I obtained my University Teaching Qualification.
-This has been useful in designing teaching material, presenting it in a way to reach an audience with a diverse background, supervising students, creating tests and evaluation material, and to understand how to continuously improve on all these aspects.</description>
-    </item>
-    
-    <item>
-      <title>AI &amp; Health Winter School 2024</title>
-      <link>https://florisdenhengst.github.io/posts/winter-school-ai-health/</link>
-      <pubDate>Mon, 11 Mar 2024 08:58:11 +0200</pubDate>
-      
-      <guid>https://florisdenhengst.github.io/posts/winter-school-ai-health/</guid>
-      <description>I contributed a talk on guideline-informed reinforcement learning with Annette ten Teije to the AI &amp;amp; Health Winter School organized by the VU Campus Center Artificial Intelligence &amp;amp; Health.
-The winter school was attended by over 100 in-person and virtual participants interested in the intersection of AI &amp;amp; Health.
-You may find the slides which focus on how the knowledge-driven AI (information in the guidelines) was combined with reinforcement learning (learning optimal decisions from data) here.</description>
-    </item>
-    
-    <item>
-      <title>Reinforcement Learning Summer School 2022</title>
-      <link>https://florisdenhengst.github.io/posts/reinforcement-learning-summer-school/</link>
-      <pubDate>Sat, 16 Jul 2022 10:27:22 +0200</pubDate>
-      
-      <guid>https://florisdenhengst.github.io/posts/reinforcement-learning-summer-school/</guid>
-      <description>Past week, I attended and assisted at the Reinforcement Learning Summer School organized by Vincent François-Lavet. We had some great lectures on a wide variety of topics, including pure exploration in bandits, the exploration-exploitation tradeoff in RL, MCTS, symmetries and state similarities, world models and hierarchical and distributational RL.
-The summer school was hosted at one the theatre halls of our university&amp;rsquo;s new building, which serves as a movie theatre at night: great seats and air quality do help with focusing for 8+ hours!</description>
-    </item>
-    
-    <item>
-      <title>ACAI Summer School 2019</title>
-      <link>https://florisdenhengst.github.io/posts/eurai-acai-2019/</link>
-      <pubDate>Sat, 06 Jul 2019 16:41:29 +0200</pubDate>
-      
-      <guid>https://florisdenhengst.github.io/posts/eurai-acai-2019/</guid>
-      <description>Just returned from a lovely stay in Chania, Crete for the Advanced Course on Artificial Intelligence, a yearly summer school by EurAI. Besides the beautiful scenery and lovely people, there were lots of interesting talks to enjoy. Most talks stuck to the theme &amp;lsquo;AI for multi-agent worlds&amp;rsquo; quite well.
-Although I learned a lot in general, there were some key take-aways for me:
- virtually any setting has some multi-agent aspect to it, but it might not be worthwile to actually take it into account when going from a single- to a multi-agent setting, typically requires engineering and analysis of the resulting system from a game-theoretic point of view.</description>
-    </item>
-    
-    <item>
-      <title>Research Methods in Information and Knowledge Systems Course</title>
-      <link>https://florisdenhengst.github.io/posts/completed-research-methods-in-iks/</link>
-      <pubDate>Sun, 30 Dec 2018 13:18:10 +0100</pubDate>
-      
-      <guid>https://florisdenhengst.github.io/posts/completed-research-methods-in-iks/</guid>
-      <description>I completed the SIKS course &amp;lsquo;Research Methods and Methodology in IKS&amp;rsquo;, spanning a wide range of topics such as research methods, Design Research, many issues involved with evaluation in ML and how the field of IR has a strong history of rigourous evaluation (much to learn there for ML/RL researchers!).
-To top it all off, the course was held in the lovely location (see picture) and with lots of great minds from all over The Netherlands.</description>
-    </item>
-    
-    <item>
-      <title>Scientific Writing Course</title>
-      <link>https://florisdenhengst.github.io/posts/completed-scientific-writing-course/</link>
-      <pubDate>Tue, 18 Dec 2018 13:10:34 +0100</pubDate>
-      
-      <guid>https://florisdenhengst.github.io/posts/completed-scientific-writing-course/</guid>
-      <description>I just completed the course &amp;lsquo;Writing a Scientific Article&amp;rsquo; at the VU Language Centre. Although I joined the course thinking I knew a fair share of writing in English, I learned a great deal about scientific writing and picked up some neat tricks to improve writing. As a bonus, I got some great feedback on an survey paper on Reinforcement Learning for personalization I&amp;rsquo;m working on with some colleagues in our group</description>
-    </item>
-    
-    <item>
-      <title>Completed HPC Course</title>
-      <link>https://florisdenhengst.github.io/posts/completed-hpc-course/</link>
-      <pubDate>Thu, 29 Nov 2018 09:18:55 +0100</pubDate>
-      
-      <guid>https://florisdenhengst.github.io/posts/completed-hpc-course/</guid>
-      <description>Today I completed the HPC course at VU University. The course was well organized and had some interesting courses. Some of the courses contained very little new information for me, though. I would recommend researchers/PhD. Students with some knowledge of programming/bash, Linux and clusters but with no experience working with SurfSARAs offerings to follow the following courses:
- Intro to distributed systems &amp;amp; BigData: optional refresher Intro to Linux and Clustercomputing: take, become familiar with Lisa Intro to MPI parallel programming concepts: take, get familiar with Cartesius Datamanagement: take to become familiar with various data storage/archiving solutions and make a data management plan for your research HPC Cloud: optional if interested in virtualization GPU Computing: as a refresher, somewhat theoretical Singularity with containerized applications: optional if interested in reproducibility using containers (e.</description>
-    </item>
-    
-  </channel>
+	<channel>
+		<title>Courses on Floris den Hengst&#39;s Homepage</title>
+		<link>https://florisdenhengst.github.io/tags/courses/</link>
+		<description>Recent content in Courses on Floris den Hengst&#39;s Homepage</description>
+		<generator>Hugo</generator>
+		<language>en-us</language>
+		
+		
+		
+		
+			<lastBuildDate>Thu, 13 Nov 2025 15:52:31 +0100</lastBuildDate>
+		
+			<atom:link href="https://florisdenhengst.github.io/tags/courses/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>University Teaching Qualification</title>
+				<link>https://florisdenhengst.github.io/posts/utq/</link>
+				<pubDate>Thu, 13 Nov 2025 15:52:31 +0100</pubDate>
+				<guid>https://florisdenhengst.github.io/posts/utq/</guid>
+				<description>&lt;p&gt;Small post to celebrate that I obtained my &lt;a href=&#34;https://vu.nl/en/education/vu-centre-for-teaching-learning/courses-programmes/university-teaching-programme-utq/curriculum&#34;&gt;University Teaching&#xA;Qualification&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;This has been useful in designing teaching material, presenting it in a way to reach an audience&#xA;with a diverse background, supervising students, creating tests and evaluation material, and to&#xA;understand how to continuously improve on all these aspects.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>AI &amp; Health Winter School 2024</title>
+				<link>https://florisdenhengst.github.io/posts/winter-school-ai-health/</link>
+				<pubDate>Mon, 11 Mar 2024 08:58:11 +0200</pubDate>
+				<guid>https://florisdenhengst.github.io/posts/winter-school-ai-health/</guid>
+				<description>&lt;p&gt;I contributed a talk on guideline-informed reinforcement learning with Annette ten Teije to the &lt;a href=&#34;https://www.ai-health.nl/ai-health-winter-school-2024/&#34;&gt;AI &amp;amp; Health Winter School&lt;/a&gt; organized by the VU Campus Center Artificial Intelligence &amp;amp; Health.&lt;/p&gt;&#xA;&lt;p&gt;The winter school was attended by over 100 in-person and virtual participants interested in the intersection of AI &amp;amp; Health.&lt;/p&gt;&#xA;&lt;p&gt;You may find the slides which focus on how the knowledge-driven AI (information in the guidelines) was combined with reinforcement learning (learning optimal decisions from data) &lt;a href=&#34;https://drive.google.com/file/d/1dOA8nXcsBINiRuE-B0v0OehO0OBj6MmA/view&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Reinforcement Learning Summer School 2022</title>
+				<link>https://florisdenhengst.github.io/posts/reinforcement-learning-summer-school/</link>
+				<pubDate>Sat, 16 Jul 2022 10:27:22 +0200</pubDate>
+				<guid>https://florisdenhengst.github.io/posts/reinforcement-learning-summer-school/</guid>
+				<description>&lt;p&gt;Past week, I attended and assisted at the &lt;a href=&#34;https://rlsummerschool.com&#34;&gt;Reinforcement Learning Summer&#xA;School&lt;/a&gt; organized by Vincent François-Lavet. We had&#xA;some great lectures on a wide variety of topics, including pure exploration in&#xA;bandits, the exploration-exploitation tradeoff in RL, MCTS, symmetries and&#xA;state similarities, world models and hierarchical and distributational RL.&lt;/p&gt;&#xA;&lt;p&gt;The summer school was hosted at one the theatre halls of our university&amp;rsquo;s new&#xA;building, which serves as a movie theatre at night: great seats and air quality&#xA;&lt;em&gt;do&lt;/em&gt; help with focusing for 8+ hours! A fun detail was the dramatic Indiana&#xA;Jones score randomly starting at the end of the final talk by Marc G.&#xA;Bellemare.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>ACAI Summer School 2019</title>
+				<link>https://florisdenhengst.github.io/posts/eurai-acai-2019/</link>
+				<pubDate>Sat, 06 Jul 2019 16:41:29 +0200</pubDate>
+				<guid>https://florisdenhengst.github.io/posts/eurai-acai-2019/</guid>
+				<description>&lt;p&gt;Just returned from a lovely stay in Chania, Crete for the &lt;a href=&#34;http://acai2019.tuc.gr/&#34;&gt;Advanced Course on Artificial&#xA;Intelligence&lt;/a&gt;, a yearly summer school by &lt;a href=&#34;https://www.eurai.org/&#34;&gt;EurAI&lt;/a&gt;.&#xA;Besides the beautiful scenery and lovely people, there were lots of interesting talks to enjoy.&#xA;Most talks stuck to the theme &amp;lsquo;AI for multi-agent worlds&amp;rsquo; quite well.&lt;/p&gt;&#xA;&lt;p&gt;Although I learned a lot in general, there were some key take-aways for me:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;virtually any setting has some multi-agent aspect to it, but it might not be worthwile to&#xA;actually take it into account&lt;/li&gt;&#xA;&lt;li&gt;when going from a single- to a multi-agent setting, typically requires engineering and analysis&#xA;of the resulting system from a game-theoretic point of view. Lots of the presented work had some&#xA;deep connection with game theory, which is quite exciting in my point of view.&lt;/li&gt;&#xA;&lt;li&gt;going from single- to a multi-agent setting &amp;ndash; unfortunately &amp;ndash; typically also results in&#xA;problem spaces that are much harder: they are typically intractable, multimodal and sometimes&#xA;even unstable. Typical solutions to get out involve leveraging some feature of the problem&#xA;domain or resorting to approximation.&lt;/li&gt;&#xA;&lt;li&gt;evaluation in the multi-agent domain may be quite challenging. Take the adversarial setting of&#xA;learning to play a game. Here, a version \(n\) of an agent may beat version \(n-1\) but be&#xA;beaten by version \(n-2\).&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Overall, the summer school was well organized and was happy to meet many awesome people working on&#xA;interesting problems in the AI space.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Research Methods in Information and Knowledge Systems Course</title>
+				<link>https://florisdenhengst.github.io/posts/completed-research-methods-in-iks/</link>
+				<pubDate>Sun, 30 Dec 2018 13:18:10 +0100</pubDate>
+				<guid>https://florisdenhengst.github.io/posts/completed-research-methods-in-iks/</guid>
+				<description>&lt;p&gt;I completed the &lt;a href=&#34;https://www.siks.nl&#34;&gt;SIKS&lt;/a&gt; course &amp;lsquo;Research Methods and Methodology in IKS&amp;rsquo;,&#xA;spanning a wide range of topics such as research methods, Design Research, many issues involved&#xA;with evaluation in ML and how the field of IR has a strong history of rigourous evaluation (much&#xA;to learn there for ML/RL researchers!).&lt;/p&gt;&#xA;&lt;p&gt;To top it all off, the course was held in the lovely location (see picture) and with lots of great&#xA;minds from all over The Netherlands. Great course for first-year PhD in information systems&#xA;research.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Scientific Writing Course</title>
+				<link>https://florisdenhengst.github.io/posts/completed-scientific-writing-course/</link>
+				<pubDate>Tue, 18 Dec 2018 13:10:34 +0100</pubDate>
+				<guid>https://florisdenhengst.github.io/posts/completed-scientific-writing-course/</guid>
+				<description>&lt;p&gt;I just completed the course &amp;lsquo;Writing a Scientific Article&amp;rsquo; at the &lt;a href=&#34;https://www.taalcentrum-vu.nl/en/training/academic-english/writing-a-scientific-article&#34;&gt;VU Language&#xA;Centre&lt;/a&gt;.&#xA;Although I joined the course thinking I knew a fair share of writing in English, I learned a great&#xA;deal about &lt;em&gt;scientific&lt;/em&gt; writing and picked up some neat tricks to improve writing.&#xA;As a bonus, I got some great feedback on an survey paper on Reinforcement Learning for&#xA;personalization I&amp;rsquo;m working on with some colleagues in &lt;a href=&#34;https://www.cs.vu.nl/ci/&#34;&gt;our group&lt;/a&gt;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Completed HPC Course</title>
+				<link>https://florisdenhengst.github.io/posts/completed-hpc-course/</link>
+				<pubDate>Thu, 29 Nov 2018 09:18:55 +0100</pubDate>
+				<guid>https://florisdenhengst.github.io/posts/completed-hpc-course/</guid>
+				<description>&lt;p&gt;Today I completed the &lt;a href=&#34;https://hpc.labs.vu.nl/&#34;&gt;HPC&lt;/a&gt; course at VU University. The course was well&#xA;organized and had some interesting courses. Some of the courses contained very little new&#xA;information for me, though. I would recommend researchers/PhD. Students with some knowledge of&#xA;programming/bash, Linux and clusters but with no experience working with SurfSARAs offerings to&#xA;follow the following courses:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Intro to distributed systems &amp;amp; BigData: optional refresher&lt;/li&gt;&#xA;&lt;li&gt;Intro to Linux and Clustercomputing: take, become familiar with &lt;a href=&#34;https://userinfo.surfsara.nl/systems/lisa/&#34;&gt;Lisa&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;Intro to MPI parallel programming concepts: take, get familiar with &lt;a href=&#34;https://userinfo.surfsara.nl/systems/cartesius&#34;&gt;Cartesius&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;Datamanagement: take to become familiar with various data storage/archiving solutions and make a data management plan for your research&lt;/li&gt;&#xA;&lt;li&gt;HPC Cloud: optional if interested in virtualization&lt;/li&gt;&#xA;&lt;li&gt;GPU Computing: as a refresher, somewhat theoretical&lt;/li&gt;&#xA;&lt;li&gt;Singularity with containerized applications: optional if interested in reproducibility using containers (e.g. Docker)&lt;/li&gt;&#xA;&lt;li&gt;Scientific Visualization: optional, if you like making nice graphs&lt;/li&gt;&#xA;&lt;li&gt;Data intensive computing (spark/hadoop): take, pretty hands-on and very useful in industry collaborations&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+			</item>
+	</channel>
 </rss>

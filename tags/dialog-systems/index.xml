@@ -1,50 +1,45 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>dialog systems on Floris den Hengst&#39;s Homepage</title>
-    <link>https://florisdenhengst.github.io/tags/dialog-systems/</link>
-    <description>Recent content in dialog systems on Floris den Hengst&#39;s Homepage</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Fri, 29 Mar 2024 21:30:50 +0100</lastBuildDate><atom:link href="https://florisdenhengst.github.io/tags/dialog-systems/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>CICC: Conformal Intent Classification and Clarification</title>
-      <link>https://florisdenhengst.github.io/posts/cicc/</link>
-      <pubDate>Fri, 29 Mar 2024 21:30:50 +0100</pubDate>
-      
-      <guid>https://florisdenhengst.github.io/posts/cicc/</guid>
-      <description>Our work on task-oriented dialogue systems has been accepted at ACL&amp;rsquo;s 2024 NAACL Findings.
-Task-oriented dialogue systems help users solve tasks in their daily lives. In order to do so, these systems have to identify the users intent.
-Dialogue systems may be uncertain about the user intent. In these cases, the system can ask the user to clarify, i.e. select from the intents that the system considers likely given the user input.</description>
-    </item>
-    
-    <item>
-      <title>Collecting User Satisfaction Ratings for Dialogue Systems</title>
-      <link>https://florisdenhengst.github.io/posts/high-quality-ratings/</link>
-      <pubDate>Fri, 20 Mar 2020 11:35:13 +0100</pubDate>
-      
-      <guid>https://florisdenhengst.github.io/posts/high-quality-ratings/</guid>
-      <description>Mickey, a master student I was co-supervising, recently published a paper based on his thesis work in ACM&amp;rsquo;s Conference for Human Information Interaction and Retrieval. His work focused on interfaces for collecting high-quality user satisfaction ratings for dialogue systems.
-User satisfaction is an important indicator in the design, evaluation and adaptation of dialogue systems. Establishing user satisfaction ratings for conversation-based systems, however, remains challenging. User questionnaires may yield biased results and typically have low response rates (~1%).</description>
-    </item>
-    
-    <item>
-      <title>Personalized Dialogue Management</title>
-      <link>https://florisdenhengst.github.io/posts/personalized-dm/</link>
-      <pubDate>Mon, 21 Oct 2019 10:31:06 +0200</pubDate>
-      
-      <guid>https://florisdenhengst.github.io/posts/personalized-dm/</guid>
-      <description>In a previous post I explained how reinforcement learning (RL) can be used to make chatbots better from its experience with users. RL allows chatbots to learn what to say by interacting with users. This allows for chatbots to tailor their behavior to preferences of groups of individuals, e.g. to personalize the interaction. I recently presented our paper on this topic, specifically on personalized dialog management at the Web Intelligence conference in Thessaloniki.</description>
-    </item>
-    
-    <item>
-      <title>How Reinforcement Learning is Applied to Dialogue Control</title>
-      <link>https://florisdenhengst.github.io/posts/rl-for-dialog-management/</link>
-      <pubDate>Fri, 15 Feb 2019 12:41:16 +0100</pubDate>
-      
-      <guid>https://florisdenhengst.github.io/posts/rl-for-dialog-management/</guid>
-      <description>The value offering of most contemporary chatbot platforms consists of packaging state-of-art Automated Speech Recognition (ASR, or &amp;lsquo;speech-to-text&amp;rsquo;), Natural Language Understanding (NLU) and Voice Synthesis into a comprehensive API. The API typically also includes some programming model for dialog control such as DialogFlows&#39; Contexts and follow-up Intents and Alexa&amp;rsquo;s Dialog model. Implementing the right dialog controller is up to the developer. Figure 1 summarizes this in a diagram, with the handcrafted modules in green and with a keyboard in the top right.</description>
-    </item>
-    
-  </channel>
+	<channel>
+		<title>Dialog Systems on Floris den Hengst&#39;s Homepage</title>
+		<link>https://florisdenhengst.github.io/tags/dialog-systems/</link>
+		<description>Recent content in Dialog Systems on Floris den Hengst&#39;s Homepage</description>
+		<generator>Hugo</generator>
+		<language>en-us</language>
+		
+		
+		
+		
+			<lastBuildDate>Fri, 29 Mar 2024 21:30:50 +0100</lastBuildDate>
+		
+			<atom:link href="https://florisdenhengst.github.io/tags/dialog-systems/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>CICC: Conformal Intent Classification and Clarification</title>
+				<link>https://florisdenhengst.github.io/posts/cicc/</link>
+				<pubDate>Fri, 29 Mar 2024 21:30:50 +0100</pubDate>
+				<guid>https://florisdenhengst.github.io/posts/cicc/</guid>
+				<description>&lt;p&gt;Our work on hashtag#task-oriented dialogue systems has been accepted at ACL&amp;rsquo;s &lt;a href=&#34;https://2024.naacl.org/&#34;&gt;2024 NAACL&lt;/a&gt; Findings.&lt;/p&gt;&#xA;&lt;p&gt;Task-oriented dialogue systems help users solve tasks in their daily lives.&#xA;In order to do so, these systems have to identify the users intent.&lt;/p&gt;&#xA;&lt;p&gt;Dialogue systems may be uncertain about the user intent. In these cases, the system can ask the user to clarify, i.e. select from the intents that the system considers likely given the user input.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Collecting User Satisfaction Ratings for Dialogue Systems</title>
+				<link>https://florisdenhengst.github.io/posts/high-quality-ratings/</link>
+				<pubDate>Fri, 20 Mar 2020 11:35:13 +0100</pubDate>
+				<guid>https://florisdenhengst.github.io/posts/high-quality-ratings/</guid>
+				<description>&lt;p&gt;Mickey, a master student I was co-supervising, recently published &lt;a href=&#34;https://doi.org/10.1145/3343413.3377998&#34;&gt;a paper&lt;/a&gt; based on his thesis work in ACM&amp;rsquo;s Conference for Human Information Interaction and Retrieval. His work focused on interfaces for collecting high-quality user satisfaction ratings for dialogue systems.&lt;/p&gt;&#xA;&lt;p&gt;User satisfaction is an important indicator in the design, evaluation and &lt;a href=&#34;https://florisdenhengst.github.io/posts/personalized-dm&#34;&gt;adaptation&lt;/a&gt; of dialogue systems.&#xA;Establishing user satisfaction ratings for conversation-based systems, however, remains challenging.&#xA;User questionnaires may yield biased results and typically have low response rates (~1%).&#xA;Third-party raters may be costly and gathering consistent and high-quality ratings from them is challenging.&#xA;Mickey identified the issues that arise here, developed and open-sourced &lt;a href=&#34;https://github.com/mickeyvz/interface_chatbot_evaluation&#34;&gt;a tool&lt;/a&gt; with solutions to these issues and evaluated it in a case study on a public dataset.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Personalized Dialogue Management</title>
+				<link>https://florisdenhengst.github.io/posts/personalized-dm/</link>
+				<pubDate>Mon, 21 Oct 2019 10:31:06 +0200</pubDate>
+				<guid>https://florisdenhengst.github.io/posts/personalized-dm/</guid>
+				<description>&lt;p&gt;In a &lt;a href=&#34;https://florisdenhengst.github.io/posts/rl-for-dialog-management&#34;&gt;previous post&lt;/a&gt; I explained how reinforcement&#xA;learning (RL) can be used to make chatbots better from its experience with users. RL allows chatbots to learn what to say by interacting with users. This allows for chatbots to tailor their behavior to preferences of groups of individuals, e.g. to &lt;em&gt;personalize&lt;/em&gt; the interaction. I recently presented our paper on&#xA;this topic, specifically on personalized dialog management at the &lt;a href=&#34;https://webintelligence2019.com/&#34;&gt;Web Intelligence&lt;/a&gt; conference in Thessaloniki. In this conference, only 19% of all submitted papers were accepted as full paper. I&amp;rsquo;ll briefly describe the main contributions of the paper here.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>How Reinforcement Learning is Applied to Dialogue Control</title>
+				<link>https://florisdenhengst.github.io/posts/rl-for-dialog-management/</link>
+				<pubDate>Fri, 15 Feb 2019 12:41:16 +0100</pubDate>
+				<guid>https://florisdenhengst.github.io/posts/rl-for-dialog-management/</guid>
+				<description>&lt;p&gt;The value offering of most contemporary chatbot platforms consists of packaging state-of-art&#xA;Automated Speech Recognition (ASR, or &amp;lsquo;speech-to-text&amp;rsquo;), Natural Language Understanding (NLU) and&#xA;Voice Synthesis into a comprehensive API. The API typically also includes some programming&#xA;model for dialog control such as DialogFlows&amp;rsquo; &lt;a href=&#34;https://www.youtube.com/watch?v=-tOamKtmxdY&#34;&gt;Contexts and follow-up&#xA;Intents&lt;/a&gt; and Alexa&amp;rsquo;s &lt;a href=&#34;https://developer.amazon.com/docs/custom-skills/define-the-dialog-to-collect-and-confirm-required-information.html&#34;&gt;Dialog&#xA;model&lt;/a&gt;.&#xA;Implementing the right dialog controller is up to the developer. Figure 1 summarizes this in a&#xA;diagram, with the handcrafted modules in green and with a keyboard in the top right. These&#xA;handcrafted modules Developers&#xA;can use their experience and common sense or even turn to &lt;a href=&#34;https://ctb.ku.edu/en/table-of-contents/assessment/assessing-community-needs-and-resources/conduct-focus-groups/main&#34;&gt;focus&#xA;groups&lt;/a&gt;&#xA;and A/B tests in optimizing these handcrafted parts of the bot. Although making all optimization&#xA;decisions upfront works well in small systems, it fails to scale to applications where many&#xA;decisions are involved such as when a &lt;em&gt;personalized&lt;/em&gt; chatbot is desired. &lt;a href=&#34;http://www0.cs.ucl.ac.uk/staff/D.Silver/web/Teaching_files/intro_RL.pdf#page=6&#34;&gt;Reinforcement&#xA;Learning&lt;/a&gt; (RL) can&#xA;help in such cases. In this blog post, I&amp;rsquo;ll describe the formalism underlying most dialog&#xA;management models, explain how this formalism can be generalized to support more flexible dialog&#xA;management and finally, how RL can be used to optimize dialog management using data.&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

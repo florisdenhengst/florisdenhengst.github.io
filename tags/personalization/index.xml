@@ -1,61 +1,52 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Personalization on Floris den Hengst&#39;s Homepage</title>
-    <link>https://florisdenhengst.github.io/tags/personalization/</link>
-    <description>Recent content in Personalization on Floris den Hengst&#39;s Homepage</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Tue, 21 Oct 2025 16:38:32 +0200</lastBuildDate><atom:link href="https://florisdenhengst.github.io/tags/personalization/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Tutorial in PhD course</title>
-      <link>https://florisdenhengst.github.io/posts/siks-course-sharpie/</link>
-      <pubDate>Tue, 21 Oct 2025 16:38:32 +0200</pubDate>
-      
-      <guid>https://florisdenhengst.github.io/posts/siks-course-sharpie/</guid>
-      <description>We contributed a tutorial on doing real-world experiments involving humans and sequential decision making agents to a national PhD course on Reinforcement Learning for Adaptive Hybrid Intelligence. This two-day course is about making AI agents adapt to humans using reinforcement learning.
-We set two goals for our tutorial:
- Hands-on experience with hybrid RL example Familiarize participants with SHARPIE and a hybrid RL algorithm  SHARPIE SHARPIE is a framework for creating live demo&amp;rsquo;s and conducting real-world experiments involving humans and RL agents.</description>
-    </item>
-    
-    <item>
-      <title>Reinforcement Learning for Real Life Virtual Conference</title>
-      <link>https://florisdenhengst.github.io/posts/rl-at-workshop/</link>
-      <pubDate>Thu, 25 Jun 2020 21:14:18 +0200</pubDate>
-      
-      <guid>https://florisdenhengst.github.io/posts/rl-at-workshop/</guid>
-      <description>Upcoming weekend will be a virtual conference on reinforcement learning (RL) in real-life.
-It is of great interest to me primarily due to its program but also due to its organisation.
-The virtual conference consists of two panel sessions and a virtual `poster&#39; session with pre-recorded videos. There is a slack workspace for discussion, and questions to the panelists can be submitted up-front. Poster presenters are to host their own video channel.</description>
-    </item>
-    
-    <item>
-      <title>Reinforcement Learning for Personalization: A Survey</title>
-      <link>https://florisdenhengst.github.io/posts/rl-for-pers-survey/</link>
-      <pubDate>Thu, 09 Apr 2020 09:22:30 +0100</pubDate>
-      
-      <guid>https://florisdenhengst.github.io/posts/rl-for-pers-survey/</guid>
-      <description>Update 2020-06-27: this paper was presented as a `poster&#39;(video) at the RL for Real Life virtual Conference. Read more here.
- Reinforcement learning (RL) is becoming an increasingly popular tool to tackle hairy problems using data. A nice example of such a hairy problem is personalization. Personalization refers to a task central to many applications of data science and machine learning: to change a system so that its personal relevance to an individual or category of individuals is increased.</description>
-    </item>
-    
-    <item>
-      <title>Personalized Dialogue Management</title>
-      <link>https://florisdenhengst.github.io/posts/personalized-dm/</link>
-      <pubDate>Mon, 21 Oct 2019 10:31:06 +0200</pubDate>
-      
-      <guid>https://florisdenhengst.github.io/posts/personalized-dm/</guid>
-      <description>In a previous post I explained how reinforcement learning (RL) can be used to make chatbots better from its experience with users. RL allows chatbots to learn what to say by interacting with users. This allows for chatbots to tailor their behavior to preferences of groups of individuals, e.g. to personalize the interaction. I recently presented our paper on this topic, specifically on personalized dialog management at the Web Intelligence conference in Thessaloniki.</description>
-    </item>
-    
-    <item>
-      <title>Scientific Writing Course</title>
-      <link>https://florisdenhengst.github.io/posts/completed-scientific-writing-course/</link>
-      <pubDate>Tue, 18 Dec 2018 13:10:34 +0100</pubDate>
-      
-      <guid>https://florisdenhengst.github.io/posts/completed-scientific-writing-course/</guid>
-      <description>I just completed the course &amp;lsquo;Writing a Scientific Article&amp;rsquo; at the VU Language Centre. Although I joined the course thinking I knew a fair share of writing in English, I learned a great deal about scientific writing and picked up some neat tricks to improve writing. As a bonus, I got some great feedback on an survey paper on Reinforcement Learning for personalization I&amp;rsquo;m working on with some colleagues in our group</description>
-    </item>
-    
-  </channel>
+	<channel>
+		<title>Personalization on Floris den Hengst&#39;s Homepage</title>
+		<link>https://florisdenhengst.github.io/tags/personalization/</link>
+		<description>Recent content in Personalization on Floris den Hengst&#39;s Homepage</description>
+		<generator>Hugo</generator>
+		<language>en-us</language>
+		
+		
+		
+		
+			<lastBuildDate>Tue, 21 Oct 2025 16:38:32 +0200</lastBuildDate>
+		
+			<atom:link href="https://florisdenhengst.github.io/tags/personalization/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Tutorial in PhD course</title>
+				<link>https://florisdenhengst.github.io/posts/siks-course-sharpie/</link>
+				<pubDate>Tue, 21 Oct 2025 16:38:32 +0200</pubDate>
+				<guid>https://florisdenhengst.github.io/posts/siks-course-sharpie/</guid>
+				<description>&lt;p&gt;We contributed a tutorial on doing real-world experiments involving humans and sequential decision&#xA;making agents to a national PhD course on &lt;a href=&#34;https://siks.nl/activities/activities/siks-course-rl-for-ahi-2025/&#34;&gt;Reinforcement Learning for Adaptive Hybrid&#xA;Intelligence&lt;/a&gt;. This two-day&#xA;course is about making AI agents adapt to humans using reinforcement learning.&lt;/p&gt;&#xA;&lt;p&gt;We set two goals for our tutorial:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Hands-on experience with hybrid RL example&lt;/li&gt;&#xA;&lt;li&gt;Familiarize participants with SHARPIE and a hybrid RL algorithm&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;h1 id=&#34;sharpie&#34;&gt;SHARPIE&lt;/h1&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://github.com/hybrid-intelligence/SHARPIE&#34;&gt;SHARPIE&lt;/a&gt; is a framework for creating live demo&amp;rsquo;s&#xA;and conducting real-world experiments involving humans and RL agents.&#xA;It&amp;rsquo;s core idea is to allow researchers to incorporate a human at any point in the RL&#xA;agent-environment interface:&#xA;&lt;img src=&#34;https://florisdenhengst.github.io/imgs/sharpie-interface.png&#34; alt=&#34;Agent-environment interface with human&#34;&gt;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Reinforcement Learning for Real Life Virtual Conference</title>
+				<link>https://florisdenhengst.github.io/posts/rl-at-workshop/</link>
+				<pubDate>Thu, 25 Jun 2020 21:14:18 +0200</pubDate>
+				<guid>https://florisdenhengst.github.io/posts/rl-at-workshop/</guid>
+				<description>&lt;p&gt;Upcoming weekend will be a &lt;a href=&#34;https://sites.google.com/view/RL4RealLife&#34;&gt;virtual conference&lt;/a&gt; on reinforcement learning (RL) in real-life.&lt;/p&gt;&#xA;&lt;p&gt;It is of great interest to me primarily due to its program but also due to its organisation.&lt;/p&gt;&#xA;&lt;p&gt;The virtual conference consists of two panel sessions and a virtual `poster&amp;rsquo; session with&#xA;pre-recorded videos. There is a slack workspace for discussion, and questions to the panelists can&#xA;be submitted up-front. Poster presenters are to host their own video channel. The two panel&#xA;sessions start at times convenient to the US Atlantic and Pacific coast.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Reinforcement Learning for Personalization: A Survey</title>
+				<link>https://florisdenhengst.github.io/posts/rl-for-pers-survey/</link>
+				<pubDate>Thu, 09 Apr 2020 09:22:30 +0100</pubDate>
+				<guid>https://florisdenhengst.github.io/posts/rl-for-pers-survey/</guid>
+				<description>&lt;p&gt;&lt;em&gt;Update 2020-06-27&lt;/em&gt;: this paper was presented as a `poster&amp;rsquo;(video) at the &lt;a href=&#34;https://sites.google.com/view/RL4RealLife&#34;&gt;RL for Real Life virtual&#xA;Conference&lt;/a&gt;. Read more&#xA;&lt;a href=&#34;https://florisdenhengst.github.io/posts/rl-at-workshop/&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;iframe src=&#34;https://archive.org/embed/rlfor-real-life-2020&#34; width=&#34;640&#34; height=&#34;480&#34;&#xA;frameborder=&#34;0&#34; webkitallowfullscreen=&#34;true&#34; mozallowfullscreen=&#34;true&#34; allowfullscreen&gt;&lt;/iframe&gt;&#xA;&lt;p&gt;Reinforcement learning (RL) is becoming an increasingly popular tool to tackle hairy problems&#xA;using data. A nice example of such a hairy problem is &lt;em&gt;personalization&lt;/em&gt;. Personalization&#xA;refers to a task central to many applications of data science and machine learning: to change a&#xA;system so that its personal relevance to an individual or category of individuals is increased.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Personalized Dialogue Management</title>
+				<link>https://florisdenhengst.github.io/posts/personalized-dm/</link>
+				<pubDate>Mon, 21 Oct 2019 10:31:06 +0200</pubDate>
+				<guid>https://florisdenhengst.github.io/posts/personalized-dm/</guid>
+				<description>&lt;p&gt;In a &lt;a href=&#34;https://florisdenhengst.github.io/posts/rl-for-dialog-management&#34;&gt;previous post&lt;/a&gt; I explained how reinforcement&#xA;learning (RL) can be used to make chatbots better from its experience with users. RL allows chatbots to learn what to say by interacting with users. This allows for chatbots to tailor their behavior to preferences of groups of individuals, e.g. to &lt;em&gt;personalize&lt;/em&gt; the interaction. I recently presented our paper on&#xA;this topic, specifically on personalized dialog management at the &lt;a href=&#34;https://webintelligence2019.com/&#34;&gt;Web Intelligence&lt;/a&gt; conference in Thessaloniki. In this conference, only 19% of all submitted papers were accepted as full paper. I&amp;rsquo;ll briefly describe the main contributions of the paper here.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Scientific Writing Course</title>
+				<link>https://florisdenhengst.github.io/posts/completed-scientific-writing-course/</link>
+				<pubDate>Tue, 18 Dec 2018 13:10:34 +0100</pubDate>
+				<guid>https://florisdenhengst.github.io/posts/completed-scientific-writing-course/</guid>
+				<description>&lt;p&gt;I just completed the course &amp;lsquo;Writing a Scientific Article&amp;rsquo; at the &lt;a href=&#34;https://www.taalcentrum-vu.nl/en/training/academic-english/writing-a-scientific-article&#34;&gt;VU Language&#xA;Centre&lt;/a&gt;.&#xA;Although I joined the course thinking I knew a fair share of writing in English, I learned a great&#xA;deal about &lt;em&gt;scientific&lt;/em&gt; writing and picked up some neat tricks to improve writing.&#xA;As a bonus, I got some great feedback on an survey paper on Reinforcement Learning for&#xA;personalization I&amp;rsquo;m working on with some colleagues in &lt;a href=&#34;https://www.cs.vu.nl/ci/&#34;&gt;our group&lt;/a&gt;&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>
