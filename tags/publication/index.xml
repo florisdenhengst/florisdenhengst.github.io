@@ -10,9 +10,16 @@
 		
 		
 		
-			<lastBuildDate>Wed, 20 May 2026 12:59:21 +0200</lastBuildDate>
+			<lastBuildDate>Mon, 13 Jul 2026 14:52:31 +0200</lastBuildDate>
 		
 			<atom:link href="https://florisdenhengst.github.io/tags/publication/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Best Paper: AI in Medicine 2026</title>
+				<link>https://florisdenhengst.github.io/posts/aime26/</link>
+				<pubDate>Mon, 13 Jul 2026 14:52:31 +0200</pubDate>
+				<guid>https://florisdenhengst.github.io/posts/aime26/</guid>
+				<description>&lt;p&gt;Our paper on ``Addressing Incomplete Data in Survival and Quality of Life Prediction: a Pancreatic Cancer Case Study&amp;quot; won the best paper award at &lt;a href=&#34;https://aime26.aimedicine.info/&#34;&gt;AIME 2026&lt;/a&gt; (AR ~20%) !&lt;/p&gt;&#xA;&lt;p&gt;In this work, we address the joint prediction of survival and quality-of-life for patients suffering from pancreatic cancer, in the face of various forms of missing data distributed heterogeneously over time.&#xA;Focusing on the technical contributions, there are two:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;we extend random survival forest with a missing-aware component implemented in the split criterium. It penalizes features with many &amp;lsquo;missings&amp;rsquo; so that during tree formation these features are preferred less when forming a new data split node. This yields comparable predictive performance without having to do imputation (introduces bias) or missingness indicator features (increases #features and harms interpretability)&lt;/li&gt;&#xA;&lt;li&gt;we combine two types of conditional generative models based on diffusion for synthesizing a pre-treatment quality-of-life baselines, and longitudinal sequences of quality of life conditioned on the treatment at arbitrary time windows. The predicted quality of life trajectories can be used during treatment planning.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;We hope this can help make patients more informed decisions during a critical point in their care journey when they have to balance to &amp;ldquo;how long?&amp;rdquo; with &amp;ldquo;how well?&amp;rdquo; in choosing their personal treatment plan.&lt;/p&gt;</description>
+			</item>
 			<item>
 				<title>Symbolic Quantile Regression</title>
 				<link>https://florisdenhengst.github.io/posts/sqr/</link>

@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Best Paper: AI in Medicine 2026 | Floris den Hengst&#39;s Homepage</title>
+    <link rel="stylesheet" href="/css/style.css" />
+    <link rel="stylesheet" href="/css/fonts.css" />
+	<script src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/latest.js?config=TeX-MML-AM_CHTML'
+		    async></script>
+    
+  </head>
+
+  <body>
+    <nav>
+    <ul class="menu">
+      
+      <li><a href="/">Home</a></li>
+      
+      <li><a href="/publications/">Publications</a></li>
+      
+      <li><a href="/teaching/">Teaching</a></li>
+      
+      <li><a href="/posts/">Posts</a></li>
+      
+      <li><a href="/about/">About</a></li>
+      
+      <li><a href="/tags/">Tags</a></li>
+      
+    </ul>
+    <hr/>
+    </nav>
+
+<div class="article-meta">
+    <h1><span class="title">Best Paper: AI in Medicine 2026</span></h1>
+    
+    <h2 class="date">2026/07/13</h2>
+</div>
+
+<main>
+    <p>Our paper on ``Addressing Incomplete Data in Survival and Quality of Life Prediction: a Pancreatic Cancer Case Study&quot; won the best paper award at <a href="https://aime26.aimedicine.info/">AIME 2026</a> (AR ~20%) !</p>
+<p>In this work, we address the joint prediction of survival and quality-of-life for patients suffering from pancreatic cancer, in the face of various forms of missing data distributed heterogeneously over time.
+Focusing on the technical contributions, there are two:</p>
+<ol>
+<li>we extend random survival forest with a missing-aware component implemented in the split criterium. It penalizes features with many &lsquo;missings&rsquo; so that during tree formation these features are preferred less when forming a new data split node. This yields comparable predictive performance without having to do imputation (introduces bias) or missingness indicator features (increases #features and harms interpretability)</li>
+<li>we combine two types of conditional generative models based on diffusion for synthesizing a pre-treatment quality-of-life baselines, and longitudinal sequences of quality of life conditioned on the treatment at arbitrary time windows. The predicted quality of life trajectories can be used during treatment planning.</li>
+</ol>
+<p>We hope this can help make patients more informed decisions during a critical point in their care journey when they have to balance to &ldquo;how long?&rdquo; with &ldquo;how well?&rdquo; in choosing their personal treatment plan.</p>
+<p>The algorithm for the missing-aware random survival forest is available as a pip package on <a href="https://pypi.org/project/masurvival/">Pypi</a>.</p>
+<p><img src="/imgs/aime26_best_paper.PNG" alt="Conference organizers hand over the award"></p>
+
+</main>
+
+
+  <footer>
+  <hr/>
+  
+  
+  <a href="/index.xml"><img src='https://simpleicons.org/icons/rss.svg'></a>
+  
+  <a href="https://github.com/florisdenhengst/"><img src='https://simpleicons.org/icons/github.svg'></a>
+  
+  <a href="https://florisdh.bsky.social"><img src='https://simpleicons.org/icons/bluesky.svg'></a>
+  
+  <a href="https://orcid.org/0000-0002-2092-9904"><img src='/imgs/orcid.svg'></a>
+  
+  <a href="https://scholar.google.nl/citations?user=8I8iSHkAAAAJ"><img src='/imgs/gscholar.png'></a>
+  
+  <a href="https://www.linkedin.com/in/floris-den-hengst-06ab7534/"><img src='https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/linkedin.svg' alt='LinkedIn' width='24' height='24'/></a>
+  
+  | Created with <a href="https://gohugo.io">Hugo</a> and <a href="https://florisdenhengst.github.io/metis-example/">Metis</a> theme | © <a href="https://florisdenhengst.github.io">Floris den Hengst</a> 2018 &ndash; 2025
+  
+  </footer>
+  </body>
+</html>
+
