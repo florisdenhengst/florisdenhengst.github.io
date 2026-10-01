@@ -10,9 +10,16 @@
 		
 		
 		
-			<lastBuildDate>Mon, 13 Jul 2026 14:52:31 +0200</lastBuildDate>
+			<lastBuildDate>Thu, 01 Oct 2026 16:25:11 +0200</lastBuildDate>
 		
 			<atom:link href="https://florisdenhengst.github.io/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>SHARPIE at the European Workshop on Reinforcement Learning 2026</title>
+				<link>https://florisdenhengst.github.io/posts/sharpie_ewrl26/</link>
+				<pubDate>Thu, 01 Oct 2026 16:25:11 +0200</pubDate>
+				<guid>https://florisdenhengst.github.io/posts/sharpie_ewrl26/</guid>
+				<description>&lt;p&gt;Together with Shihan Wang from Utrecht University, I will present &lt;a href=&#34;https://sharpie.readthedocs.io/&#34;&gt;SHARPIE&lt;/a&gt; at the &lt;a href=&#34;https://ewrl-org.github.io/ewrl-2026/index.html&#34;&gt;European Workshop on Reinforcement Learning&lt;/a&gt; in Lille.&lt;/p&gt;&#xA;&lt;p&gt;We will be presenting &lt;a href=&#34;https://florisdh.nl/publications/sharpie_ewrl26.pdf&#34;&gt;this paper&lt;/a&gt; as a poster. This is a systems paper presenting a system for controlled experiments involving human users and sequential decision-making agents that are common in e.g. reinforcement learning. We hope to connect with other hybrid human-RL researchers, meet potential users, and learn more about their research and how our system could support that in the future. What I find exciting about this work is that it helps understanding and shapes real human-agent interactions, and that it is currently already in use by some of our students and (professional) friends.&lt;/p&gt;</description>
+			</item>
 			<item>
 				<title>Best Paper: AI in Medicine 2026</title>
 				<link>https://florisdenhengst.github.io/posts/aime26/</link>
