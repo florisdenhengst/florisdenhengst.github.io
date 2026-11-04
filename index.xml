@@ -270,7 +270,7 @@
 				<link>https://florisdenhengst.github.io/rl4personalization/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
 				<guid>https://florisdenhengst.github.io/rl4personalization/</guid>
-				<description>&lt;p&gt;You will be automatically redirected to the tool at &lt;a href=&#34;http://rl4personalization.fht800.ops.few.vu.nl/&#34;&gt;http://rl4personalization.fht800.ops.few.vu.nl/&lt;/a&gt;&amp;hellip;&lt;/p&gt;&#xA;&lt;script&gt;&#xA;window.setTimeout(function(){&#xA;    // Move to a new location or you can do something else&#xA;    window.location.href = &#34;http://rl4personalization.fht800.ops.few.vu.nl/&#34;;&#xA;}, 5000);&#xA;&lt;/script&gt;</description>
+				<description>&lt;p&gt;Please find the dataset at &lt;a href=&#34;https://zenodo.org/records/3627118&#34;&gt;https://zenodo.org/records/3627118&lt;/a&gt;.&lt;/p&gt;</description>
 			</item>
 	</channel>
 </rss>
