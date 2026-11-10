@@ -10,18 +10,53 @@
 		
 		
 		
-			<lastBuildDate>Mon, 13 Jul 2026 14:52:31 +0200</lastBuildDate>
+			<lastBuildDate>Tue, 10 Nov 2026 14:22:07 +0100</lastBuildDate>
 		
 			<atom:link href="https://florisdenhengst.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
 			<item>
+				<title>Classification</title>
+				<link>https://florisdenhengst.github.io/tags/classification/</link>
+				<pubDate>Tue, 10 Nov 2026 14:22:07 +0100</pubDate>
+				<guid>https://florisdenhengst.github.io/tags/classification/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Conformal Prediction</title>
+				<link>https://florisdenhengst.github.io/tags/conformal-prediction/</link>
+				<pubDate>Tue, 10 Nov 2026 14:22:07 +0100</pubDate>
+				<guid>https://florisdenhengst.github.io/tags/conformal-prediction/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>NeurIPS</title>
+				<link>https://florisdenhengst.github.io/tags/neurips/</link>
+				<pubDate>Tue, 10 Nov 2026 14:22:07 +0100</pubDate>
+				<guid>https://florisdenhengst.github.io/tags/neurips/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Neurosymbolic</title>
+				<link>https://florisdenhengst.github.io/tags/neurosymbolic/</link>
+				<pubDate>Tue, 10 Nov 2026 14:22:07 +0100</pubDate>
+				<guid>https://florisdenhengst.github.io/tags/neurosymbolic/</guid>
+				<description></description>
+			</item>
+			<item>
 				<title>Publication</title>
 				<link>https://florisdenhengst.github.io/tags/publication/</link>
-				<pubDate>Mon, 13 Jul 2026 14:52:31 +0200</pubDate>
+				<pubDate>Tue, 10 Nov 2026 14:22:07 +0100</pubDate>
 				<guid>https://florisdenhengst.github.io/tags/publication/</guid>
 				<description></description>
 			</item>
 			<item>
-				<title>Reinforcement Learning</title>
+				<title>Uncertainty Quantification</title>
+				<link>https://florisdenhengst.github.io/tags/uncertainty-quantification/</link>
+				<pubDate>Tue, 10 Nov 2026 14:22:07 +0100</pubDate>
+				<guid>https://florisdenhengst.github.io/tags/uncertainty-quantification/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Reinforcement-Learning</title>
 				<link>https://florisdenhengst.github.io/tags/reinforcement-learning/</link>
 				<pubDate>Thu, 19 Mar 2026 17:02:26 +0100</pubDate>
 				<guid>https://florisdenhengst.github.io/tags/reinforcement-learning/</guid>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Conformal Prediction on Floris den Hengst&#39;s Homepage</title>
+		<link>https://florisdenhengst.github.io/tags/conformal-prediction/</link>
+		<description>Recent content in Conformal Prediction on Floris den Hengst&#39;s Homepage</description>
+		<generator>Hugo</generator>
+		<language>en-us</language>
+		
+		
+		
+		
+			<lastBuildDate>Tue, 10 Nov 2026 14:22:07 +0100</lastBuildDate>
+		
+			<atom:link href="https://florisdenhengst.github.io/tags/conformal-prediction/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Hierarchical Conformal Classification</title>
+				<link>https://florisdenhengst.github.io/posts/hierarchical-conformal-classification/</link>
+				<pubDate>Tue, 10 Nov 2026 14:22:07 +0100</pubDate>
+				<guid>https://florisdenhengst.github.io/posts/hierarchical-conformal-classification/</guid>
+				<description>&lt;p&gt;Our paper on providing reliable neuro-symbolic classification by combining search and learning based on conformal prediction has been accepted at &lt;a href=&#34;https://neurips.cc/virtual/2026/loc/paris/poster/150172&#34;&gt;NeurIPS 2026&lt;/a&gt;. I will be presented the poster in the Paris edition of this NeurIPS.&lt;/p&gt;&#xA;&lt;p&gt;For those are not up-to-speed: NeurIPS is one of the world&amp;rsquo;s premier academic conferences dedicated to presenting groundbreaking research in artificial intelligence, machine learning, and computational neuroscience. It has grown so large (and the global atmosphere around travel, visas, CO2, costs etc. has grown to toxic) that the 2026 edition will be hosted at three official locations simultaneously for the first time. The locations are Sydney, Atlanta and Paris and each come with its own keynotes, main track orals, poster sessions, tutorial and workshops. What a time to be alive!&lt;/p&gt;</description>
+			</item>
+	</channel>
+</rss>
