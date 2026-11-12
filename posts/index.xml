@@ -21,6 +21,13 @@
 				<description>&lt;p&gt;Our paper on providing reliable neuro-symbolic classification by combining search and learning based on conformal prediction has been accepted at &lt;a href=&#34;https://neurips.cc/virtual/2026/loc/paris/poster/150172&#34;&gt;NeurIPS 2026&lt;/a&gt;. I will be presented the poster in the Paris edition of this NeurIPS.&lt;/p&gt;&#xA;&lt;p&gt;For those are not up-to-speed: NeurIPS is one of the world&amp;rsquo;s premier academic conferences dedicated to presenting groundbreaking research in artificial intelligence, machine learning, and computational neuroscience. It has grown so large (and the global atmosphere around travel, visas, CO2, costs etc. has grown to toxic) that the 2026 edition will be hosted at three official locations simultaneously for the first time. The locations are Sydney, Atlanta and Paris and each come with its own keynotes, main track orals, poster sessions, tutorial and workshops. What a time to be alive!&lt;/p&gt;</description>
 			</item>
 			<item>
+				<title>Assistant Professor Human Movement Sciences</title>
+				<link>https://florisdenhengst.github.io/posts/assistant_prof/</link>
+				<pubDate>Sun, 01 Nov 2026 01:56:43 +0100</pubDate>
+				<guid>https://florisdenhengst.github.io/posts/assistant_prof/</guid>
+				<description>&lt;p&gt;As of now I am part of the department of &lt;a href=&#34;https://vu.nl/en/about-vu/faculties/faculty-of-behavioural-and-movement-sciences/more-about/research-human-movement-sciences&#34;&gt;Human Movement&#xA;Sciences&lt;/a&gt;&#xA;at Vrije Universiteit Amsterdam&lt;/p&gt;&#xA;&lt;p&gt;I am happy to support this department with respect to data science and AI in&#xA;sports and health, with applications in sports, rehabilitation and prevention.&lt;/p&gt;&#xA;&lt;p&gt;It&amp;rsquo;s highly exciting for me to dive into this new application domain, which has&#xA;a strong human-centric focus and which is ultimately grounded in a physical&#xA;reality.&lt;/p&gt;&#xA;&lt;p&gt;Additionally, I hope to continue to develop research on human-centric&#xA;reinforcement learning.&lt;/p&gt;</description>
+			</item>
+			<item>
 				<title>SHARPIE at the European Workshop on Reinforcement Learning 2026</title>
 				<link>https://florisdenhengst.github.io/posts/sharpie_ewrl26/</link>
 				<pubDate>Thu, 01 Oct 2026 16:25:11 +0200</pubDate>
@@ -271,13 +278,6 @@
 				<pubDate>Wed, 01 Aug 2018 21:54:28 +0100</pubDate>
 				<guid>https://florisdenhengst.github.io/posts/prediction-go-mcmc/</guid>
 				<description>&lt;p&gt;Little under three years ago, in March 2016, a Reinforcement Learning (RL) algorithm beat Lee&#xA;Sedol, a pro&#xA;player in a match of Go. This game had been considered too hard for algorithms due to the&#xA;&lt;a href=&#34;https://en.wikipedia.org/wiki/Go_and_mathematics#Complexity_of_certain_Go_configurations&#34;&gt;astronomical&lt;/a&gt;&#xA;number of board game configurations and the AlphaGo team therefore baffled experts in AI with their&#xA;accomplishments. Nobody seemed to be aware that techniques were available to make such a win&#xA;possible at that time and most experts considered computers beating humanity at Go to be a couple&#xA;of decades away. Which is why I was surprised to find a mention of Go in a&#xA;&amp;lsquo;Looking into the Future&amp;rsquo; chapter of &lt;a href=&#34;https://www.springer.com/us/book/9783642276446&#34;&gt;a&#xA;book&lt;/a&gt; on RL from 2012, which was&#xA;written at least four years prior to AlphaGo&amp;rsquo;s triumph:&lt;/p&gt;</description>
-			</item>
-			<item>
-				<title>Assistant Professor Human Movement Sciences</title>
-				<link>https://florisdenhengst.github.io/posts/assistant_prof/</link>
-				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>https://florisdenhengst.github.io/posts/assistant_prof/</guid>
-				<description>&lt;p&gt;As of now I am part of the department of &lt;a href=&#34;https://vu.nl/en/about-vu/faculties/faculty-of-behavioural-and-movement-sciences/more-about/research-human-movement-sciences&#34;&gt;Human Movement&#xA;Sciences&lt;/a&gt;&#xA;at Vrije Universiteit.&lt;/p&gt;&#xA;&lt;p&gt;I am happy to support this department with respect to data science and AI in&#xA;sports and health, with applications in sports, rehabilitation and prevention.&lt;/p&gt;&#xA;&lt;p&gt;It&amp;rsquo;s highly exciting for me to dive into this new application domain, which has&#xA;a strong human-centric focus and which is ultimately grounded in a physical&#xA;reality.&lt;/p&gt;&#xA;&lt;p&gt;Additionally, I hope to continue to develop research on human-centric&#xA;reinforcement learning.&lt;/p&gt;</description>
 			</item>
 	</channel>
 </rss>
